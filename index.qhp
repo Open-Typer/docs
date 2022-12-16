@@ -1,0 +1,1491 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QtHelpProject version="1.0">
+<namespace>Open-Typer</namespace>
+<virtualFolder>Open-Typer</virtualFolder>
+<filterSection>
+<filterAttribute>doxygen</filterAttribute>
+<toc>
+<section title="Open-Typer" ref="index.html">
+<section title="Features" ref="index.html#autotoc_md2"/>
+<section title="Download" ref="index.html#autotoc_md3">
+<section title="Any Linux distribution" ref="index.html#autotoc_md4"/>
+<section title="Ubuntu" ref="index.html#autotoc_md5"/>
+</section>
+<section title="Screenshots" ref="index.html#autotoc_md6"/>
+<section title="Build instructions" ref="md_docs_data_pages_Build_instructions.html"/>
+<section title="Classes" ref="annotated.html">
+<section title="Class List" ref="annotated.html">
+<section title="AddonApi" ref="classAddonApi.html">
+<section title="addButton" ref="classAddonApi.html#ad5e1591cbf1348b9549eaaea435f1a21"/>
+<section title="addLoadExTarget" ref="classAddonApi.html#ab6b8fd5620f52949d00bd31f64de8dbe"/>
+<section title="addMenu" ref="classAddonApi.html#a2a40602bf4425c0bf2084c54a0b6b577"/>
+<section title="addSettingsCategory" ref="classAddonApi.html#a3524a96d5f14c86992c11bba95382416"/>
+<section title="addTopBarWidget" ref="classAddonApi.html#ad1f50c9bd2351d3c09fb7e07e5f65d68"/>
+<section title="blockLoadedEx" ref="classAddonApi.html#a5a75a6d27cb0610e9afb1b307c2d0079"/>
+<section title="button" ref="classAddonApi.html#ac9059709f17625995154bac19ea21674"/>
+<section title="buttons" ref="classAddonApi.html#a971a5abbbdf05fb09ce86b613db1207f"/>
+<section title="clearLoadExTargets" ref="classAddonApi.html#a239bba942dbba1e8cc6f7252602cece2"/>
+<section title="clearSettingsCategories" ref="classAddonApi.html#a6c0848cf4d6f086500d028a13b4b25f7"/>
+<section title="deleteButtons" ref="classAddonApi.html#aee8f9f22559526a3ca4c595f456f36b3"/>
+<section title="deleteMenus" ref="classAddonApi.html#ac4d5717bc21de4ff3eb2786593ca8688"/>
+<section title="deleteTopBarWidgets" ref="classAddonApi.html#aa93b8dfbb9239c7010c5c5bc135b0574"/>
+<section title="initSettingsCategories" ref="classAddonApi.html#ad78edc8fd20ff51ca4c2984fd287cf29"/>
+<section title="instance" ref="classAddonApi.html#a0f57acaa691d80d881a37119001d0429"/>
+<section title="loadExTargets" ref="classAddonApi.html#a04f4479501c7685293f215d2cee04c9c"/>
+<section title="menu" ref="classAddonApi.html#a17469bf0872be812a67ce68bda3df981"/>
+<section title="menus" ref="classAddonApi.html#a3cbb5a6359009d3f46390edc8897fe4a"/>
+<section title="recreateWidget" ref="classAddonApi.html#ae47f74d93756e5e9b1a9c921d10a0f98"/>
+<section title="registerButton" ref="classAddonApi.html#af94ce133cc8ce0926bd30ced5219f459"/>
+<section title="registerMenu" ref="classAddonApi.html#af333a20cb2e152059a14ff9fb8c9bf38"/>
+<section title="registerTopBarWidget" ref="classAddonApi.html#ae97a568b62652b1c5545ddc66a607c34"/>
+<section title="sendEvent" ref="classAddonApi.html#aa8c8cccc1a7466c93715f6d3bd1d8ee9"/>
+<section title="setBlockLoadedEx" ref="classAddonApi.html#af7afc76b0281b3daa564ce9e5e2f63be"/>
+<section title="settingsCategories" ref="classAddonApi.html#abe1c69f226fff329008f9690695c8cf1"/>
+<section title="topBarWidget" ref="classAddonApi.html#a2e9149940fe473973bdf5ac131e339aa"/>
+<section title="topBarWidgets" ref="classAddonApi.html#abec620c93504d29287a4a489b698f996"/>
+</section>
+<section title="AppearanceOptions" ref="classAppearanceOptions.html">
+<section title="AppearanceOptions" ref="classAppearanceOptions.html#a2d595e30e74faae045dccbd732dfda24"/>
+<section title="~AppearanceOptions" ref="classAppearanceOptions.html#a6416056a99ca82a34ba8fdb0324702e6"/>
+<section title="changeBgColor" ref="classAppearanceOptions.html#a226cf7cc6a9374a36a694a5130fd0623"/>
+<section title="changeFont" ref="classAppearanceOptions.html#a5ba9da8a0e7b59d8d0a5ca0620762c22"/>
+<section title="changeFontSize" ref="classAppearanceOptions.html#a1370552a648f3f8d3ab709f2ce24fcff"/>
+<section title="changeFullTheme" ref="classAppearanceOptions.html#a32a73b87af5e4313877de0eb44d02f32"/>
+<section title="changeInputTextColor" ref="classAppearanceOptions.html#ad26bde9a93cfa7c724981c7f89c72596"/>
+<section title="changeLevelTextColor" ref="classAppearanceOptions.html#a9b23be5da1a538895824d7c4e414b293"/>
+<section title="changePanelColor" ref="classAppearanceOptions.html#a9978abf9cb351b98dce59dd5930694a0"/>
+<section title="changePaperColor" ref="classAppearanceOptions.html#aaf27e5840d797e0ce427dbeb32396e0e"/>
+<section title="changeTheme" ref="classAppearanceOptions.html#a528e425d60d417fac5eb3a1fb4ee1546"/>
+<section title="changeThemeMode" ref="classAppearanceOptions.html#aab01014bf37089c9922b11ca3e26ec11"/>
+<section title="goBack" ref="classAppearanceOptions.html#a52dfdb603da5f25b29f44fdbf25d3237"/>
+<section title="hideModeSelector" ref="classAppearanceOptions.html#a582d3db00299edeaec2832b49b314626"/>
+<section title="init" ref="classAppearanceOptions.html#a500a414ee6df5bccd4c6871ade459e61"/>
+<section title="resetBgPaperColors" ref="classAppearanceOptions.html#a49657408e0244726bc692bb3cb9017d5"/>
+<section title="resetTextColors" ref="classAppearanceOptions.html#a3e6d2f9a4f0242b46bb9a810294acaa9"/>
+<section title="selectCurrentFullTheme" ref="classAppearanceOptions.html#a5c8acc3336a2a865b4a2b048271c20ea"/>
+<section title="setBoldText" ref="classAppearanceOptions.html#ae4388052951659d009d41dc90743986d"/>
+<section title="setColors" ref="classAppearanceOptions.html#a4fbc8b1a1bc1f74514fe0a4ea222ba35"/>
+<section title="setItalicText" ref="classAppearanceOptions.html#aca7ef797c141834ab386a0bb70c1e6e3"/>
+<section title="setSimpleTheme" ref="classAppearanceOptions.html#ac57ee22221888c0a2754617b84dcb415"/>
+<section title="setUnderlineText" ref="classAppearanceOptions.html#aa7cfbd9e29ace2bc07dc6a69afe06b58"/>
+<section title="updateFont" ref="classAppearanceOptions.html#a031961f6e2f25fefafd91393c402fc93"/>
+<section title="updateSimpleTheme" ref="classAppearanceOptions.html#aa78a48653cefff038d430b7750da6254"/>
+</section>
+<section title="BehaviorOptions" ref="classBehaviorOptions.html">
+<section title="BehaviorOptions" ref="classBehaviorOptions.html#aa7cc2e7cbd867f4586271d2983f3c93e"/>
+<section title="~BehaviorOptions" ref="classBehaviorOptions.html#a34b19692f1dec5f45ddbbbd509621d1c"/>
+<section title="setErrorPenalty" ref="classBehaviorOptions.html#a741f35b6b7b033a9367ddd55870c559f"/>
+<section title="setMistakeChars" ref="classBehaviorOptions.html#a3a2bbcc7a942184abb11040072421464"/>
+<section title="setSettingsPassword" ref="classBehaviorOptions.html#a6c99767fcea5884d22745ad3a65d26ba"/>
+<section title="toggleMistakeLimit" ref="classBehaviorOptions.html#ad73f1a0ee6dae5e596e749d4c0e0a77b"/>
+<section title="toggleSettingsLock" ref="classBehaviorOptions.html#acba4ebd0d685570ffb9d3d48469b207c"/>
+</section>
+<section title="BuiltInPacks" ref="classBuiltInPacks.html">
+<section title="packName" ref="classBuiltInPacks.html#ad79ca5bccb3aedcbb92ccc36af1c7f95"/>
+</section>
+<section title="ConfigParser" ref="classConfigParser.html">
+<section title="ConfigParser" ref="classConfigParser.html#a9e5ff853d7b9309afc0aae581f5922e1"/>
+<section title="addExercise" ref="classConfigParser.html#ad79ba159832d149c0740ce1a8cd35a28"/>
+<section title="bufferOpened" ref="classConfigParser.html#ae8d9527e83592294544e5d5158bc56ea"/>
+<section title="close" ref="classConfigParser.html#a86a0528df7b878a1970bd7c5b327ae4d"/>
+<section title="data" ref="classConfigParser.html#a2eb1d0bae3d01f616ffad23b1f66d93f"/>
+<section title="exerciseAttribute" ref="classConfigParser.html#a48fc13cf23ca692f75b83407d6fda08c"/>
+<section title="exerciseAttributes" ref="classConfigParser.html#a6589699a2bd1a5adecaa1ac3e099cc63"/>
+<section title="exerciseCount" ref="classConfigParser.html#afccd977b9ed64ef628bb9fde41256b00"/>
+<section title="exerciseID" ref="classConfigParser.html#a25dc734e0744b36e048272bed3277c90"/>
+<section title="exerciseLine" ref="classConfigParser.html#a53135ae7e2686ce4aad719a6ba2e0316"/>
+<section title="exerciseLineLength" ref="classConfigParser.html#a2642dc326b7c0c179667a845865b8d09"/>
+<section title="exerciseRawText" ref="classConfigParser.html#a82fd597a92c5ca103abd03354870b5fa"/>
+<section title="exerciseRawText" ref="classConfigParser.html#a9376c66f7cade20cd53d8430f048b3a2"/>
+<section title="exerciseRepeatBool" ref="classConfigParser.html#aff7a23c7926fcc3a26e4d9053079cf6b"/>
+<section title="exerciseRepeatBool" ref="classConfigParser.html#a67f26747a569a6b59af22a3ece8bd14b"/>
+<section title="exerciseRepeatConfig" ref="classConfigParser.html#ad1fd7a314dd7006ea16310cda733fb36"/>
+<section title="exerciseRepeatLimit" ref="classConfigParser.html#ad9734e225a963addfd63c4807281c8d8"/>
+<section title="exerciseRepeatType" ref="classConfigParser.html#a7cdd1342850663924fd591607fde5eaa"/>
+<section title="exerciseRepeatType" ref="classConfigParser.html#afb6ecde6ff626858d55a1328b0d6d6d8"/>
+<section title="exerciseText" ref="classConfigParser.html#aa4de20a04a492ba160fb5920078c0c23"/>
+<section title="exerciseTr" ref="classConfigParser.html#aed7460decbc858d48b1ada64f8dbe0c0"/>
+<section title="fileName" ref="classConfigParser.html#a74028c49a6f8327a82786793f93b3073"/>
+<section title="generateText" ref="classConfigParser.html#aae5543e8b78d4a3227454d94ce4a09f3"/>
+<section title="initExercise" ref="classConfigParser.html#aad31eb47acadbb8949c088c3ec70f849"/>
+<section title="initExercise" ref="classConfigParser.html#abe1c5df6cf3ebaf06b3678c5245c2597"/>
+<section title="initText" ref="classConfigParser.html#a176cc75091e1822b204addea2f20fd91"/>
+<section title="lessonCount" ref="classConfigParser.html#a6f765dfbf2e86f2c7bef3cf2738151de"/>
+<section title="lessonDesc" ref="classConfigParser.html#a28184ccdcf4ef2e556e80ac129eacc57"/>
+<section title="lessonTr" ref="classConfigParser.html#a598efd5111ebd753537ad8ea46b34ae4"/>
+<section title="lineOf" ref="classConfigParser.html#ab6d0ab7d7fb96ac2b6bf42a3c39022a5"/>
+<section title="loadToBuffer" ref="classConfigParser.html#a7d5e1a774cb84296eedc3d31faed9cb8"/>
+<section title="open" ref="classConfigParser.html#a855cb1214e76172a62b23a1394e7ce0a"/>
+<section title="parseDesc" ref="classConfigParser.html#a8d23af1382675361af5dbf9d0bdd7b64"/>
+<section title="reopen" ref="classConfigParser.html#ad33d56af678354704faa902dca87fa75"/>
+<section title="sublessonCount" ref="classConfigParser.html#a28ee3442b059f81d47a7f523bd7c8933"/>
+<section title="sublessonName" ref="classConfigParser.html#a131ba3f6fa1c0e416dfb69e4b03e7941"/>
+<section title="sublessonTr" ref="classConfigParser.html#ac122b634a800fb9d9fd69bfa656d1cb3"/>
+</section>
+<section title="ExerciseSummary" ref="classExerciseSummary.html">
+<section title="ExerciseSummary" ref="classExerciseSummary.html#a746b09d189dee5a9bde9838f72467414"/>
+<section title="~ExerciseSummary" ref="classExerciseSummary.html#a5df287ad8b2ad9066c1644f9136b02fc"/>
+<section title="setAccuracy" ref="classExerciseSummary.html#af3a25052528442611064a7aaa90bf9ca"/>
+<section title="setGrossHits" ref="classExerciseSummary.html#af62cbac625adc9035306dc005db754c2"/>
+<section title="setMistakes" ref="classExerciseSummary.html#add7111360a4eec77e0998d2ff2296ac6"/>
+<section title="setNetHits" ref="classExerciseSummary.html#a4b0a707fb1b24a3c757257e001449efd"/>
+<section title="setTotalHits" ref="classExerciseSummary.html#a4150025ae8f5312fdbb5fdc5011611b1"/>
+<section title="setTotalTime" ref="classExerciseSummary.html#a2457842b971e4693c03836d543b57307"/>
+</section>
+<section title="ExportDialog" ref="classExportDialog.html">
+<section title="ExportDialog" ref="classExportDialog.html#adcfcd1d6a904db0084703f43268f4ce4"/>
+<section title="~ExportDialog" ref="classExportDialog.html#aff6cf4e48e6dcde206c3d8eb3bc9fac8"/>
+<section title="className" ref="classExportDialog.html#a66e78c7b8d69aa6722bfc96094fb6fff"/>
+<section title="grade" ref="classExportDialog.html#a5893330c1feef1b7afab404ac0dc24f8"/>
+<section title="number" ref="classExportDialog.html#a742a4864ac1afb75992e7bb55f10e5b0"/>
+<section title="printResult" ref="classExportDialog.html#a86463acebc899e9b6731e99266f05ad1"/>
+<section title="setClassName" ref="classExportDialog.html#ad2158b48086683e347ed510c56af5741"/>
+<section title="setGrade" ref="classExportDialog.html#a07e3159a114d327eba6a14a330cb6044"/>
+<section title="setNumber" ref="classExportDialog.html#a8fc751c4b2a3c24933821c4734ac02ef"/>
+<section title="setStudentName" ref="classExportDialog.html#a72bc4ca66b371b5274c3f1650a7078c1"/>
+<section title="studentName" ref="classExportDialog.html#a7648bf0f4c15cba0a85833b33c21afe9"/>
+<section title="updateTable" ref="classExportDialog.html#af3785bf94a38ba81c3b3d40fc1b05436"/>
+</section>
+<section title="FileUtils" ref="classFileUtils.html">
+<section title="configLocation" ref="classFileUtils.html#a2c804c1b04771f073cf921008135c46f"/>
+<section title="mainSettingsLocation" ref="classFileUtils.html#a5741d5a9f6870bb75972ded949da4734"/>
+</section>
+<section title="HistoryParser" ref="classHistoryParser.html">
+<section title="addHistoryEntry" ref="classHistoryParser.html#aba51e298eaaef05199bd49a5ceeffbc7"/>
+<section title="historyDocument" ref="classHistoryParser.html#a85dcd998b1baaffbb521e82a5be4e76e"/>
+<section title="historyEntry" ref="classHistoryParser.html#aa507291ee40ec28286ed46543366af9d"/>
+<section title="historyPackValue" ref="classHistoryParser.html#a250d162b95458d0ebba3ead829b3c684"/>
+<section title="historySize" ref="classHistoryParser.html#a533ee52ae68f3b51d9d75c489bb31d4d"/>
+</section>
+<section title="IAddon" ref="classIAddon.html">
+</section>
+<section title="InitialSetup" ref="classInitialSetup.html">
+<section title="InitialSetup" ref="classInitialSetup.html#ac61600f825993dbce4211861e76840ad"/>
+<section title="~InitialSetup" ref="classInitialSetup.html#a37632d7a7fb5315b8476d110e32e8ce6"/>
+<section title="finish" ref="classInitialSetup.html#a0ef17a74b9958af5a6d23adc4f04b2ba"/>
+<section title="loadList" ref="classInitialSetup.html#ac307c73ea94619d9f1ff5914e59ac5d7"/>
+</section>
+<section title="InputLabelWidget" ref="classInputLabelWidget.html">
+<section title="InputLabelWidget" ref="classInputLabelWidget.html#acba628d625ef62c79a0ca4c28f4e8f03"/>
+<section title="~InputLabelWidget" ref="classInputLabelWidget.html#a143e21c1b57d638cbb61208d5d38d158"/>
+<section title="inputMethodEvent" ref="classInputLabelWidget.html#aa571d4a475fd9e7195bafef2f225cd03"/>
+<section title="keyPressEvent" ref="classInputLabelWidget.html#ab265be94b197a0cb621cb45a09aa0fe8"/>
+<section title="keyReleaseEvent" ref="classInputLabelWidget.html#a3fbd6e164f142deb5c21dd1fc4081587"/>
+</section>
+<section title="KeyboardOptions" ref="classKeyboardOptions.html">
+<section title="KeyboardOptions" ref="classKeyboardOptions.html#aecd3f551f721562fe13d38d32edfa35f"/>
+<section title="~KeyboardOptions" ref="classKeyboardOptions.html#ae976138e9b2c9150d95636c8e48afbff"/>
+<section title="changePack" ref="classKeyboardOptions.html#a14fdba0ff2f7a42bb45445b5d4a77a54"/>
+</section>
+<section title="KeyboardUtils" ref="classKeyboardUtils.html">
+<section title="isDeadKey" ref="classKeyboardUtils.html#a8ca48ddd9b5308721114479780022602"/>
+<section title="isSpecialKey" ref="classKeyboardUtils.html#a0337b7917c6b419ebc10d786e07e9ae0"/>
+</section>
+<section title="KeyboardWidget" ref="classKeyboardWidget.html">
+<section title="KeyboardWidget" ref="classKeyboardWidget.html#a48a347f0fb47938ab227ff8cc04adf0c"/>
+<section title="addKey" ref="classKeyboardWidget.html#a40bf18038a37e6f6e2dfe14b1740130a"/>
+<section title="changeEvent" ref="classKeyboardWidget.html#ac0148c72d352c3aca0155471e43dcdab"/>
+<section title="dehighlightKey" ref="classKeyboardWidget.html#a62884949fe082b4cbe1a1bceadbe3b25"/>
+<section title="eventFilter" ref="classKeyboardWidget.html#a94d42cdfae31437127e647ca0f1599bc"/>
+<section title="findKey" ref="classKeyboardWidget.html#a3a9d517d51a54f719bbae6d7c0e38356"/>
+<section title="fingerHand" ref="classKeyboardWidget.html#a2d068436d26b34c6ef7bbb7c9c9fe12a"/>
+<section title="highlightKey" ref="classKeyboardWidget.html#ae8e3b2408a49fbcdd96e39eb622eb650"/>
+<section title="keyFinger" ref="classKeyboardWidget.html#acdbc40f99bd17ad02fe2b94a993639a7"/>
+<section title="loadLayout" ref="classKeyboardWidget.html#ad7bc54e4f9e90c02b0e71e27c0b7b0c9"/>
+<section title="nextRow" ref="classKeyboardWidget.html#a568140343626e1d2fedde6057e213e0e"/>
+<section title="registerKey" ref="classKeyboardWidget.html#aecbc16b69f0020a2c1cbac9e9ba33579"/>
+<section title="resetKeyColor" ref="classKeyboardWidget.html#a9419f49bbdaef09e3d5735d30ef75426"/>
+<section title="setKeyboardVisible" ref="classKeyboardWidget.html#ab8816568d0e3d101a6bace5e632c60a9"/>
+<section title="setKeyColor" ref="classKeyboardWidget.html#abd926cd276650cfa29e12db728309636"/>
+<section title="toggleKeyboard" ref="classKeyboardWidget.html#a5a9be26486ffe0edad93acde264f39ae"/>
+<section title="visibilityChanged" ref="classKeyboardWidget.html#ab28458280e3255014a3ee7f089c2f7c9"/>
+</section>
+<section title="LanguageList" ref="classLanguageList.html">
+<section title="LanguageList" ref="classLanguageList.html#affec071f1902215060b084c0c6ad6134"/>
+<section title="~LanguageList" ref="classLanguageList.html#a576ef1ff5f0abc41ce050df8cc5fc3b6"/>
+<section title="changeLanguage" ref="classLanguageList.html#a777520f23fbb92be1dfd8df7539e6995"/>
+</section>
+<section title="LanguageManager" ref="classLanguageManager.html">
+<section title="LanguageManager" ref="classLanguageManager.html#a259bae6dacf34023c6d03d2bcb16bcb4"/>
+<section title="~LanguageManager" ref="classLanguageManager.html#ade9ee45cad140d9ea37cd99a9c5c83df"/>
+<section title="setLanguage" ref="classLanguageManager.html#a1ca9d04c574157a66584aae1192bbcaa"/>
+</section>
+<section title="LoadExerciseDialog" ref="classLoadExerciseDialog.html">
+<section title="LoadExerciseDialog" ref="classLoadExerciseDialog.html#aecc065f4e1a5c4983ef37c05d35e1ac3"/>
+<section title="LoadExerciseDialog" ref="classLoadExerciseDialog.html#adb4763a1e2f2122f7bcc2e37835d9ec6"/>
+<section title="~LoadExerciseDialog" ref="classLoadExerciseDialog.html#a28e1585e7c2f5ced72c816617fdc3cb0"/>
+<section title="allowTextPreview" ref="classLoadExerciseDialog.html#a8198e651d9d0736692e62be4a95772c4"/>
+<section title="changeMode" ref="classLoadExerciseDialog.html#affe4e0c99e149f489f52171f555c5bb0"/>
+<section title="changeSource" ref="classLoadExerciseDialog.html#a0cbd12b5ee0b59e21488778d3bcc4a56"/>
+<section title="correctMistakes" ref="classLoadExerciseDialog.html#a892d51c4bfaa07f15df04cbb1a65f3b6"/>
+<section title="exerciseText" ref="classLoadExerciseDialog.html#ad2096ce728322fc57326df7782983d64"/>
+<section title="hideText" ref="classLoadExerciseDialog.html#a1915ab7245d9b6ec68fd7843c6a07e1e"/>
+<section title="includeNewLines" ref="classLoadExerciseDialog.html#a67a31531826e217d25a2c7431c54b0bf"/>
+<section title="init" ref="classLoadExerciseDialog.html#a9ba66ad72a6dc402148e4217daa3c2a4"/>
+<section title="lineLength" ref="classLoadExerciseDialog.html#a39f4e7a8237dc93b60c2a7e04a14fefa"/>
+<section title="lockUi" ref="classLoadExerciseDialog.html#af5f71cb93385a9b9cf75b2e868cc2989"/>
+<section title="mode" ref="classLoadExerciseDialog.html#a29486b87b486283a4d8a26101f3d18f5"/>
+<section title="openFile" ref="classLoadExerciseDialog.html#a2059cf3c30b8fadb018f491c920fa185"/>
+<section title="selectedTargets" ref="classLoadExerciseDialog.html#ad241be5fa79e84c0981eea68b30cfee3"/>
+<section title="timeLimit" ref="classLoadExerciseDialog.html#aee4a452e5f3dbfea0d68c595f5b5779f"/>
+<section title="verify" ref="classLoadExerciseDialog.html#afc2811949358924e04210affab957914"/>
+</section>
+<section title="MainWindow" ref="classMainWindow.html">
+<section title="MainWindow" ref="classMainWindow.html#a996c5a2b6f77944776856f08ec30858d"/>
+<section title="~MainWindow" ref="classMainWindow.html#ae98d00a93bc118200eeef9f9bba1dba7"/>
+<section title="changeEvent" ref="classMainWindow.html#ac7c881667b4ba4986b5a0030452ee3f0"/>
+<section title="changeMode" ref="classMainWindow.html#a2270ed6a0bdb9de0077ac4ece8fa32e1"/>
+<section title="closeEvent" ref="classMainWindow.html#a4e20a4a065fbb0e4d3532a45a0a91425"/>
+<section title="endExercise" ref="classMainWindow.html#a69c7295e182495ae6a8b46d6727a63a2"/>
+<section title="exportText" ref="classMainWindow.html#aaf1cd4482a99fb8ce85b5aee8d93ded8"/>
+<section title="getTopBarFrame" ref="classMainWindow.html#a1daa1b5fc32f2a111601d335810b1ad0"/>
+<section title="initTest" ref="classMainWindow.html#a3f2b179d0bef1c1671c962ca65177405"/>
+<section title="initTimedExercise" ref="classMainWindow.html#ab2398ce3056ff2737a4960ef56c0bb45"/>
+<section title="keyPress" ref="classMainWindow.html#a131395c8e31213731167e0c9111a8143"/>
+<section title="keyRelease" ref="classMainWindow.html#a19316193ed6828d48b35532fdaf9b195"/>
+<section title="lessonSelectionListIndexChanged" ref="classMainWindow.html#a950de9d84dcda60c1beb13db1602e366"/>
+<section title="levelFinalInit" ref="classMainWindow.html#a9b80a6a34b529c9f18599a28693b7459"/>
+<section title="levelSelectionListIndexChanged" ref="classMainWindow.html#acb2682bb01e2fe5d78c61a1c17d446c9"/>
+<section title="loadAddonParts" ref="classMainWindow.html#a6a5130e7aee51660c4bb6d911a6706ba"/>
+<section title="loadConfig" ref="classMainWindow.html#a44b37ae4ed3b511529cbf6de6e7a842d"/>
+<section title="loadErrorWords" ref="classMainWindow.html#ae76b7a1cac6ea1c1ff740d90c9edd858"/>
+<section title="loadLesson" ref="classMainWindow.html#aa40536007dbc09029dec9d3671624a4b"/>
+<section title="loadReversedText" ref="classMainWindow.html#a29ac5db0c5976cd3f3f0662d757126f6"/>
+<section title="loadSublesson" ref="classMainWindow.html#a547fabf44623133dbc22a4430fb25d4e"/>
+<section title="loadText" ref="classMainWindow.html#a724228e8cb2ad0feae398a34414dba4a"/>
+<section title="loadTheme" ref="classMainWindow.html#a3873af615b4d6308148635ca00dd15fa"/>
+<section title="nextLevel" ref="classMainWindow.html#a3e9c9b85fad0620abced01da52b8f273"/>
+<section title="openEditor" ref="classMainWindow.html#a143ad8adc8d3149b84270df25b18c7bd"/>
+<section title="openExerciseFromFile" ref="classMainWindow.html#a9aed1d677669874aa3562d82e7b24557"/>
+<section title="openOptions" ref="classMainWindow.html#ad1db396de43cab5ccd76098ccde18316"/>
+<section title="openPack" ref="classMainWindow.html#a5717af072a61b2f566ca9bb904db5798"/>
+<section title="previousLevel" ref="classMainWindow.html#a30dcac7da604ee3eaa65f82b6b613ed6"/>
+<section title="printText" ref="classMainWindow.html#afc16ea94f996fdefeed7cea1f6e93160"/>
+<section title="refreshAll" ref="classMainWindow.html#a857e76dde1644881a486492dab93d0c6"/>
+<section title="repeatLevel" ref="classMainWindow.html#a08db8d81a51f89897c3ef423f81f24fd"/>
+<section title="setColors" ref="classMainWindow.html#a797eeae6f5183d5c5669efe508bb498f"/>
+<section title="showAboutDialog" ref="classMainWindow.html#ab5e43379e29646c881e4880a1eb78895"/>
+<section title="showExerciseStats" ref="classMainWindow.html#a20ebbfe3ce5f3fed7cf1fb283c599d29"/>
+<section title="startLevel" ref="classMainWindow.html#a3b879ca7dab4d2853b0767cea7f18ee6"/>
+<section title="startTest" ref="classMainWindow.html#a18d8bc795516a7a88b4f842c6a33f7a0"/>
+<section title="sublessonSelectionListIndexChanged" ref="classMainWindow.html#acdde03b2cba285fa29e7777d6539eea1"/>
+<section title="updateCurrentTime" ref="classMainWindow.html#a04a96030a207d496503616cfd2c25962"/>
+<section title="updateFont" ref="classMainWindow.html#a09aba128c880355f1de575ac1d9556f4"/>
+<section title="updateLessonList" ref="classMainWindow.html#ad8eab732481af6c3acbce1350fc59689"/>
+<section title="updateText" ref="classMainWindow.html#acd896553a283b16d9791066f6be841c8"/>
+<section title="zoomIn" ref="classMainWindow.html#ab16e47724fae5cdffcea3846e9622f84"/>
+<section title="zoomOut" ref="classMainWindow.html#aa3181f9f72ef0cf200a53c59f52a5b37"/>
+</section>
+<section title="OptionsWindow" ref="classOptionsWindow.html">
+<section title="OptionsWindow" ref="classOptionsWindow.html#a449c0121a7519c281796d5bea8c965c3"/>
+<section title="~OptionsWindow" ref="classOptionsWindow.html#a034c885fe8bb4416e732a9571d14a6b4"/>
+<section title="changeEvent" ref="classOptionsWindow.html#aa0062a9b5fb6d3d7739ee9f28aa0a8cb"/>
+<section title="changeOptionWidget" ref="classOptionsWindow.html#a5a4d27e8b5252bdd7fcbc399420f8950"/>
+<section title="init" ref="classOptionsWindow.html#aa0be24bdc16a1893a4034872be90ec08"/>
+<section title="setupList" ref="classOptionsWindow.html#aec27fadf5f73d6fe379e37a511d77d07"/>
+<section title="unlockSettings" ref="classOptionsWindow.html#ad743a3ce6c2dca84c2f00bb35220da75"/>
+</section>
+<section title="PackEditor" ref="classPackEditor.html">
+<section title="PackEditor" ref="classPackEditor.html#af6987e739428e0a112362cdf66a93f65"/>
+<section title="~PackEditor" ref="classPackEditor.html#acf29f74d703583715303f2c0f5f1fd46"/>
+<section title="addExercise" ref="classPackEditor.html#aeedc5072b4051386d29ff5f19f1b7b73"/>
+<section title="addLesson" ref="classPackEditor.html#a8b4f7869cc83c4393a485919c92ffaa8"/>
+<section title="addSublesson" ref="classPackEditor.html#a215883570f634f00d14680b207c2d0c4"/>
+<section title="changeExercisePos" ref="classPackEditor.html#a16c8fc66d5b55057e64bea1c204865e9"/>
+<section title="changeLessonDesc" ref="classPackEditor.html#a83eecaec38c8b1d7bc46d6bf2a422b85"/>
+<section title="changeLineLength" ref="classPackEditor.html#a46dd0e132fd56c4b24702f3af980fcc4"/>
+<section title="changeRepeating" ref="classPackEditor.html#ae6b048cfb046e60c4785d43dfb276271"/>
+<section title="changeRepeatLength" ref="classPackEditor.html#a874de634a7d54da73ff13ba4ec62fd36"/>
+<section title="closeEvent" ref="classPackEditor.html#a8457483a631450498b761e171b88c16e"/>
+<section title="closeFile" ref="classPackEditor.html#a711a9ee9a2d79af1451dfb42c7e670bd"/>
+<section title="createNewFile" ref="classPackEditor.html#a9949495dfef7190258f4b5b02db3415a"/>
+<section title="deleteExerciseLine" ref="classPackEditor.html#a2b283bdd515f681e765f10b95fc41550"/>
+<section title="getFileName" ref="classPackEditor.html#a1768e31f79c8fcb06973015f00f1112b"/>
+<section title="keyPressEvent" ref="classPackEditor.html#a3bea4fd98dc425b279e055c76121fa73"/>
+<section title="openFile" ref="classPackEditor.html#a9b920ac322240930e3b0205a4ffe9420"/>
+<section title="openFile" ref="classPackEditor.html#a5a1952b52505582a85a2386c8e5456a7"/>
+<section title="openPrebuilt" ref="classPackEditor.html#a513c9ffab729ced5c10abd101ffe13ea"/>
+<section title="refreshUi" ref="classPackEditor.html#a0efd33e1dda147dd20450c121f13f824"/>
+<section title="removeExercise" ref="classPackEditor.html#ad66f9641629ab651af6b38ce4be2a1a6"/>
+<section title="restoreText" ref="classPackEditor.html#a550737c9c954fd3c6a39993147ed3b96"/>
+<section title="save" ref="classPackEditor.html#af44363b1191de9ecd24a83cc7d4eaa99"/>
+<section title="saveAs" ref="classPackEditor.html#a434ff9a228913ad11c8ebcd3f63c4a93"/>
+<section title="setRevisionLesson" ref="classPackEditor.html#aa53684c07b11eb3ef0efc8cb523d9f5a"/>
+<section title="switchExercise" ref="classPackEditor.html#ab1e134acac0683ae9183e35d0e5bffdc"/>
+<section title="switchLesson" ref="classPackEditor.html#a447b2ffe2657c221e75f48f6a5c446bf"/>
+<section title="switchSublesson" ref="classPackEditor.html#ab04b4d33a7ff69f2867948fc4f38c2b4"/>
+<section title="updateText" ref="classPackEditor.html#a0b9f07cadb16772b76a72358a4554670"/>
+<section title="updateTitle" ref="classPackEditor.html#a36f6c1f26ab988a9aafea7e5856229e9"/>
+</section>
+<section title="PackSelector" ref="classPackSelector.html">
+<section title="PackSelector" ref="classPackSelector.html#aef60757b6d71a0f705fa8af3228be891"/>
+<section title="~PackSelector" ref="classPackSelector.html#a03fedbdb2961ec4ec6bc080e749c2c85"/>
+<section title="selectedConfig" ref="classPackSelector.html#ad77be72bffc1df3452456e5fc9a6e025"/>
+</section>
+<section title="Settings" ref="classSettings.html">
+<section title="advancedTheme" ref="classSettings.html#a227ef21a9f289aec41f181ca06a9aa7f"/>
+<section title="applicationStyle" ref="classSettings.html#acb78e659cb7592799c132595d248092f"/>
+<section title="applicationTheme" ref="classSettings.html#a04a3ca188520ca4b2a4f902b3ce25f64"/>
+<section title="bgColor" ref="classSettings.html#a900e6596858c6e44e1fbc22f76b85f3a"/>
+<section title="contains" ref="classSettings.html#a8ebe00ba133b684c3a4f175adc392518"/>
+<section title="containsAdvancedTheme" ref="classSettings.html#a8eeae4afc32350c8f2083752e23d6c25"/>
+<section title="containsApplicationStyle" ref="classSettings.html#a0388fd06abd9e8dfee22de3295a844bf"/>
+<section title="containsApplicationTheme" ref="classSettings.html#a442a865aca5ff396bdb511340f924d93"/>
+<section title="containsBgColor" ref="classSettings.html#abd8b170a4126dc02bcfad297f4d62e81"/>
+<section title="containsCustomBgColor" ref="classSettings.html#a4d772875e68d7c2aa768e50e8e8987f1"/>
+<section title="containsCustomExerciseTextColor" ref="classSettings.html#a7f7ef85538326e8ffb2728fbab6a4eff"/>
+<section title="containsCustomInputTextColor" ref="classSettings.html#adc9cca2208265fdca09525d2b10eb698"/>
+<section title="containsCustomLessonPack" ref="classSettings.html#afc4ebfd518d56a3809fcbb3eac802cb7"/>
+<section title="containsCustomPanelColor" ref="classSettings.html#aa213125762c6f2c2e066d49d4674c301"/>
+<section title="containsCustomPaperColor" ref="classSettings.html#a14ca66ecc5cc6c5bf38053c1b7a4f185"/>
+<section title="containsEditorGeometry" ref="classSettings.html#a4c90ab7d6c0a993535317b7ca02fbb4d"/>
+<section title="containsErrorPenalty" ref="classSettings.html#ab757386ecc355baf6296fcdbd6064ef8"/>
+<section title="containsExerciseTextColor" ref="classSettings.html#a7c9984b072286217d8361fa54d18a13e"/>
+<section title="containsInputTextColor" ref="classSettings.html#ac260e802437391b06e630834ee7a6d9c"/>
+<section title="containsKeyboardVisible" ref="classSettings.html#a2d220c2b17590210f2f5b7052a971337"/>
+<section title="containsLanguage" ref="classSettings.html#a034b0462564303c281e12d04ec404fc7"/>
+<section title="containsLessonPack" ref="classSettings.html#a6792ee43470e333c5936b4a623efbe4a"/>
+<section title="containsMistakeChars" ref="classSettings.html#a7a846a19bea7344e5ca05a39a15d5dda"/>
+<section title="containsMistakeLimit" ref="classSettings.html#a97ab720609d3e941ed006185d867e143"/>
+<section title="containsPanelColor" ref="classSettings.html#ac68002700c2e4ce045b0cc138ea96f75"/>
+<section title="containsPaperColor" ref="classSettings.html#a245bd78367f2e9dce2febe9c8db7792c"/>
+<section title="containsSettingsLockEnabled" ref="classSettings.html#a6c13c35f2fdc37d653c2df4364f2678f"/>
+<section title="containsSettingsLockPasswd" ref="classSettings.html#a74c6c8fabe1d26c9e22c6016984de9e1"/>
+<section title="containsSimpleThemeId" ref="classSettings.html#a0658101ee39def2d87ace01e5d16595f"/>
+<section title="containsThemeFont" ref="classSettings.html#add34d8070b4738a49c56259754113122"/>
+<section title="containsThemeFontBold" ref="classSettings.html#a5137169de37cabdc8f615d337c2d1852"/>
+<section title="containsThemeFontItalic" ref="classSettings.html#a61bdf6d10c581252003fa8a667283e9d"/>
+<section title="containsThemeFontSize" ref="classSettings.html#af454c025f633542b7d8feb29147d87cf"/>
+<section title="containsThemeFontUnderline" ref="classSettings.html#af09f69535c571fd617173e97a2aadc95"/>
+<section title="containsUpdateChecks" ref="classSettings.html#ad43b8de693fac3ba983b810abc90355f"/>
+<section title="containsWindowGeometry" ref="classSettings.html#a6e84d7f7924cd13eecce7f917a400f27"/>
+<section title="containsWindowState" ref="classSettings.html#a953208c679f890bf3cc0b5dc0273f40b"/>
+<section title="customBgColor" ref="classSettings.html#a9f56d6dee239496bdf855c3b0c243e38"/>
+<section title="customExerciseTextColor" ref="classSettings.html#a80420ce2f58415bd73f704adbcd4f7eb"/>
+<section title="customInputTextColor" ref="classSettings.html#ae7d56c3b26ca67cd72ed8b87137d44b7"/>
+<section title="customLessonPack" ref="classSettings.html#a6a30dc460783bad85058967ebb0e8c38"/>
+<section title="customPanelColor" ref="classSettings.html#a8c7c4c2b6cda58608065bd855ecd4eb5"/>
+<section title="customPaperColor" ref="classSettings.html#a3e9b566896ee03eab7ae145cf4d640d9"/>
+<section title="editorGeometry" ref="classSettings.html#a7a84c2edcc9cad383b8008adc814bbf9"/>
+<section title="errorPenalty" ref="classSettings.html#abda319452cfb77a7f3fe42056f2859d2"/>
+<section title="exerciseTextColor" ref="classSettings.html#ac6f6b06440dc6508536e58f248228515"/>
+<section title="get" ref="classSettings.html#aa0201df6db5b4c37cc6323cbb426c996"/>
+<section title="init" ref="classSettings.html#a84893259a12d11fb102b392106dc30ea"/>
+<section title="inputTextColor" ref="classSettings.html#a53742b4e42c9502c87dc24426967d942"/>
+<section title="keyboardVisible" ref="classSettings.html#ae071d946bd38c8a6fc2f9855dbf17a87"/>
+<section title="language" ref="classSettings.html#a4413cca4ec84bf69005b9e633f6f31be"/>
+<section title="lessonPack" ref="classSettings.html#a9a89dc27fbbc64bd21d20adf0e9b8432"/>
+<section title="mistakeChars" ref="classSettings.html#a13a1998415c8bf5b02d6f97a5159c1c6"/>
+<section title="mistakeLimit" ref="classSettings.html#ab8973d69a752017d6806325f7233ce8d"/>
+<section title="panelColor" ref="classSettings.html#aae8d5bf426b499ebf545b0b07d3f460a"/>
+<section title="paperColor" ref="classSettings.html#a168947696f1fb0555192d4a9b890ac33"/>
+<section title="set" ref="classSettings.html#ac31b7152d8b48b4c9ce84b47ea07474b"/>
+<section title="setAdvancedTheme" ref="classSettings.html#aaa4bf964ede5454de69b456f4f2339f0"/>
+<section title="setApplicationStyle" ref="classSettings.html#a2e7805e90fc2424ed87d8c74836a8a5e"/>
+<section title="setApplicationTheme" ref="classSettings.html#a1fb807b7090b6bf01623d819372028c6"/>
+<section title="setBgColor" ref="classSettings.html#aeba7864189522921d9063e5884913265"/>
+<section title="setCustomBgColor" ref="classSettings.html#a52348dac23d8a4858c65d316a76a7988"/>
+<section title="setCustomExerciseTextColor" ref="classSettings.html#a555d0726d3e3ab38abd6ce29b854ba77"/>
+<section title="setCustomInputTextColor" ref="classSettings.html#a90b075bb88e14ef400f6589828ad5b83"/>
+<section title="setCustomLessonPack" ref="classSettings.html#a3e2614edbb4c6ac4e8f58d8b3af0ca81"/>
+<section title="setCustomPanelColor" ref="classSettings.html#a32711cfe67698090fed1b3fb8a57140d"/>
+<section title="setCustomPaperColor" ref="classSettings.html#a8366184dcfcbf0459368a3c1f1028a08"/>
+<section title="setEditorGeometry" ref="classSettings.html#aca296d6bb249099e1de3efd4df682b83"/>
+<section title="setErrorPenalty" ref="classSettings.html#ab34e4f196e73e4d549da06aca6370935"/>
+<section title="setExerciseTextColor" ref="classSettings.html#a771d911b55fd2a5b8d3efdd451e83f73"/>
+<section title="setInputTextColor" ref="classSettings.html#aa378d1a46eb34970fca4ca6415a1e15b"/>
+<section title="setKeyboardVisible" ref="classSettings.html#a4f5c2732b71ec11306bd32e7666f68bc"/>
+<section title="setLanguage" ref="classSettings.html#ae1742bd3fe8c90055ba5b175bc8e9e89"/>
+<section title="setLessonPack" ref="classSettings.html#ab82b0926a7f29af46488a6008c77007f"/>
+<section title="setMistakeChars" ref="classSettings.html#a082085f71585e07fa5aa7dfbd323ebf7"/>
+<section title="setMistakeLimit" ref="classSettings.html#a8622c38fb23c78cc077d7b08c1403c0d"/>
+<section title="setPanelColor" ref="classSettings.html#a587ff100f0452684cf08ee0600fa646a"/>
+<section title="setPaperColor" ref="classSettings.html#ab16eb350d74c22bc010a12257a73f413"/>
+<section title="setSettingsLockEnabled" ref="classSettings.html#af6114fe42956c78d065b58fb9181eb28"/>
+<section title="setSettingsLockPasswd" ref="classSettings.html#a50a2eebb6d782d850d27f315d8a9317a"/>
+<section title="setSimpleThemeId" ref="classSettings.html#a38dca4e65e58d5229cc3ff460c1cdc45"/>
+<section title="setThemeFont" ref="classSettings.html#a89b79e28a58e3652e70beaa68e7db771"/>
+<section title="setThemeFontBold" ref="classSettings.html#afe3c0480741d44b872d55d4176ffe010"/>
+<section title="setThemeFontItalic" ref="classSettings.html#a352ed95a5a0ba426ac29d785738d315f"/>
+<section title="setThemeFontSize" ref="classSettings.html#adb1702f8dc364e77ac8c371be6a30afb"/>
+<section title="setThemeFontUnderline" ref="classSettings.html#ae527d23776a37af97aa0c05e8ca1d57a"/>
+<section title="settingsLockEnabled" ref="classSettings.html#af58310bac78577587425c9dd32d5d5e9"/>
+<section title="settingsLockPasswd" ref="classSettings.html#a67ebb20538ae0b0703127a7dbfde0ed8"/>
+<section title="setUpdateChecks" ref="classSettings.html#a6d3d194ade2610710402fe594f8c6220"/>
+<section title="setWindowGeometry" ref="classSettings.html#af78099b3c4be5300c08d0100b80dab03"/>
+<section title="setWindowState" ref="classSettings.html#a2f7889ec9c93c14b3a8b7de5cfbde085"/>
+<section title="simpleThemeId" ref="classSettings.html#a7c4187817353c14dbfbb002dab1edb27"/>
+<section title="themeFont" ref="classSettings.html#a32a90256c94786442c043be4a95a955c"/>
+<section title="themeFontBold" ref="classSettings.html#a6349390c434f3aca7ef1b43a4115f937"/>
+<section title="themeFontItalic" ref="classSettings.html#a264bda8b8f5c2df8cb7a4b882cba85cb"/>
+<section title="themeFontSize" ref="classSettings.html#a35d4e32c7894f7f26121111fd1ebab15"/>
+<section title="themeFontUnderline" ref="classSettings.html#aa23e9bec970aeaba375809b0b0dc8f87"/>
+<section title="updateChecks" ref="classSettings.html#a4078e22147092f3e003ce9aa52ad6b13"/>
+<section title="windowGeometry" ref="classSettings.html#ae70f19e9a1a28c088fc49d409c5afec4"/>
+<section title="windowState" ref="classSettings.html#a88b7f4e484cbb2f0c48c386f6c38d4dc"/>
+</section>
+<section title="StatsDialog" ref="classStatsDialog.html">
+<section title="StatsDialog" ref="classStatsDialog.html#a3b403a2918d867e28704deb04e90e189"/>
+<section title="~StatsDialog" ref="classStatsDialog.html#a0f786b36ecf6d9c1318be02ae4bfc0d1"/>
+</section>
+<section title="StringUtils" ref="classStringUtils.html">
+<section title="addMistakes" ref="classStringUtils.html#a56a5d39921da8839e58e63306ecf991d"/>
+<section title="compareLists" ref="classStringUtils.html#af2df6b9ae854474c5a81eedfe798319f"/>
+<section title="compareStrings" ref="classStringUtils.html#a76ed4064ba0be07647e3bee667ee92e5"/>
+<section title="findMistakes" ref="classStringUtils.html#ae487d3107fefec80a15ece7103412a9f"/>
+<section title="generateDiffList" ref="classStringUtils.html#a2783b6a304ba1ef2c08eee29bba57706"/>
+<section title="lcsLen" ref="classStringUtils.html#aa7a32f8e86ff298ee63ff0644d16279c"/>
+<section title="longestCommonSubsequence" ref="classStringUtils.html#a3aa03dc898fd5ec00acc651caa1ba3fa"/>
+<section title="longestCommonSubsequence" ref="classStringUtils.html#a4dc8e5abc8d734c17fa4a7e33bfc10f3"/>
+<section title="splitWordsByPunct" ref="classStringUtils.html#a01b87faed75897d2f28c801fbf149152"/>
+<section title="validateExercise" ref="classStringUtils.html#aa0fe328d9c36d0adda41261adc57e70d"/>
+<section title="word" ref="classStringUtils.html#a81c34dbde43c58c7557eb2da0c1ae933"/>
+<section title="wordAt" ref="classStringUtils.html#a778d4a7b1620819e2a5149d4930fc5b4"/>
+<section title="wordCount" ref="classStringUtils.html#a80bc635134a6a85e3739129ec403c209"/>
+</section>
+<section title="TextView" ref="classTextView.html">
+<section title="TextView" ref="classTextView.html#a00ed9ead7ba39cbf90d500559a5820f6"/>
+<section title="~TextView" ref="classTextView.html#a675550b9bce529a90a5daf9f0c4e1ac1"/>
+<section title="changeEvent" ref="classTextView.html#a4f930423d1ad04dca6936f110261be0d"/>
+<section title="mouseMoveEvent" ref="classTextView.html#acf8089b3d98283e424214a83fc5adaaa"/>
+<section title="setHorizontalAdjust" ref="classTextView.html#af548b60361601d4ed739004a00b89b12"/>
+<section title="setVerticalAdjust" ref="classTextView.html#ae62a21931bbd69327789605dd2e087ec"/>
+<section title="toggleScrolling" ref="classTextView.html#aa51cad2794c85d2a7f1a954a9678c847"/>
+<section title="updateWidgetSize" ref="classTextView.html#a429a65413aa0db977733c0b46979bda2"/>
+<section title="wheelEvent" ref="classTextView.html#a1c0c21659e7cbbdf8f7f33b6df87317a"/>
+</section>
+<section title="ThemeEngine" ref="classThemeEngine.html">
+<section title="ThemeEngine" ref="classThemeEngine.html#a3def255b1dab18f136ddd5c3ec3cd155"/>
+<section title="bgColor" ref="classThemeEngine.html#aa5515fddf018c3f22d65ce4538d02825"/>
+<section title="bgColorChanged" ref="classThemeEngine.html#a6478fe2a5fe8e6d044c92dfbc21b9a9d"/>
+<section title="bgStyleSheet" ref="classThemeEngine.html#a89dc0dc8d30ff2467eeccdedf2804f85"/>
+<section title="colorChanged" ref="classThemeEngine.html#a07473ce50a43e43f6a91d91805532aed"/>
+<section title="customBgColor" ref="classThemeEngine.html#a5b5dfd3631e17d4cc9af8c0af0b64402"/>
+<section title="customExerciseTextColor" ref="classThemeEngine.html#a60f9b970dc14a50adf4d97aada98d073"/>
+<section title="customInputTextColor" ref="classThemeEngine.html#a590810acc0d01687540eb2075b1af476"/>
+<section title="customPanelColor" ref="classThemeEngine.html#ab3f65d0b2da533de90697836d56ac4e3"/>
+<section title="customPaperColor" ref="classThemeEngine.html#a153c128c736ab6abb84a561aeac9cd41"/>
+<section title="errorFont" ref="classThemeEngine.html#aeda9821267369677691544b49d46ab43"/>
+<section title="exerciseTextColor" ref="classThemeEngine.html#ac83b6238981a9711385fbd390d75e5ad"/>
+<section title="exerciseTextColorChanged" ref="classThemeEngine.html#a6c1f0afe4765fb74f83d4a73d0ab2be5"/>
+<section title="exerciseTextStyleSheet" ref="classThemeEngine.html#a6c87c0a9e066da6fb3be3d76eeb4be71"/>
+<section title="font" ref="classThemeEngine.html#ab1d576757871dfefcf17199281d1bea2"/>
+<section title="fontBold" ref="classThemeEngine.html#a1c60883be6f506fcbb20c823dad87363"/>
+<section title="fontBoldChanged" ref="classThemeEngine.html#a5216386278b790c9ed6e956a1884acd9"/>
+<section title="fontChanged" ref="classThemeEngine.html#a8c778c58c43c7fd713d0e96c820689f1"/>
+<section title="fontFamily" ref="classThemeEngine.html#a7b26c213030eac6d81dbada20b68ad59"/>
+<section title="fontFamilyChanged" ref="classThemeEngine.html#a5f3ab188bcb4066368634bf3a42dbd54"/>
+<section title="fontItalic" ref="classThemeEngine.html#a56211eb85d0febe708a83e519428dfe6"/>
+<section title="fontItalicChanged" ref="classThemeEngine.html#a06abb77a2e57e75956f43eab058aed4d"/>
+<section title="fontSize" ref="classThemeEngine.html#a99cf6dbef4aa54b36c25dcb274b2b4a9"/>
+<section title="fontSizeChanged" ref="classThemeEngine.html#a2a5f67ac12428d50faf6c71194f711a5"/>
+<section title="fontStyleChanged" ref="classThemeEngine.html#a3cfc6c028fc74eee68048a998e34dfda"/>
+<section title="fontUnderline" ref="classThemeEngine.html#af3f11ef0e7c549687219013b1a577d94"/>
+<section title="fontUnderlineChanged" ref="classThemeEngine.html#a7508db5d183fa809df6f4c579bc350ed"/>
+<section title="increaseFontSize" ref="classThemeEngine.html#a3aacd371e693020325fa64eb8bf7cbf2"/>
+<section title="inputTextColor" ref="classThemeEngine.html#aba7068de9aa14f9c1c067da83f9f0ce1"/>
+<section title="inputTextColorChanged" ref="classThemeEngine.html#ad8d60354fd50b6905efa01fc2f169917"/>
+<section title="inputTextStyleSheet" ref="classThemeEngine.html#ac3fe762e0751e228ad75c200f05f64a2"/>
+<section title="maxFontSize" ref="classThemeEngine.html#af88cad28340446a4585efeb7acd6e800"/>
+<section title="panelColor" ref="classThemeEngine.html#a6374bcc8a26622e6b0394f20ce95fa7c"/>
+<section title="panelColorChanged" ref="classThemeEngine.html#a9446e76ad2bcd6ebd2d1e00696443430"/>
+<section title="panelStyleSheet" ref="classThemeEngine.html#a631c314e2642485438acf0f2c23d0839"/>
+<section title="paperColor" ref="classThemeEngine.html#aa4336ba4441a9121ab8718a9cd103313"/>
+<section title="paperColorChanged" ref="classThemeEngine.html#a11518ade9cbcd24be4188509ee90577c"/>
+<section title="paperStyleSheet" ref="classThemeEngine.html#a7026579d6022208d004cd94f7ed6327d"/>
+<section title="resetBgColor" ref="classThemeEngine.html#a89e81d8e57e3a4e571a76c9f35b008b0"/>
+<section title="resetExerciseTextColor" ref="classThemeEngine.html#adda1f57bb0cd5a1a32727ab77ee7fbfa"/>
+<section title="resetInputTextColor" ref="classThemeEngine.html#a01bcad73b52181f32658b1e36bd73b41"/>
+<section title="resetPanelColor" ref="classThemeEngine.html#a30152cb9220a72f13efa881a2a32fe6b"/>
+<section title="resetPaperColor" ref="classThemeEngine.html#a0e069ad1dd539de80050bdc14b7d75f2"/>
+<section title="setBgColor" ref="classThemeEngine.html#ac9cbf59998b640f4928fc628d3166182"/>
+<section title="setExerciseTextColor" ref="classThemeEngine.html#aac9f06296b7922483b51f65ca899a0cc"/>
+<section title="setFont" ref="classThemeEngine.html#a7eeae04ae7570d187f9a85dd1fcb8ace"/>
+<section title="setFontBold" ref="classThemeEngine.html#adb96145484cf6718c753989310fb5898"/>
+<section title="setFontFamily" ref="classThemeEngine.html#ae8f5ec56107b6d27e78eedfc18d90308"/>
+<section title="setFontItalic" ref="classThemeEngine.html#a9992cad2db194beaf44b997c9cb88bae"/>
+<section title="setFontSize" ref="classThemeEngine.html#ab4057a1a5034e0518cb46f4a5f126ae2"/>
+<section title="setFontUnderline" ref="classThemeEngine.html#a010614c9aefd1f03754eda11f1a4d06d"/>
+<section title="setInputTextColor" ref="classThemeEngine.html#a857e487c50702c6b471c0001bc79341c"/>
+<section title="setPanelColor" ref="classThemeEngine.html#a88e2f1ae899d697405611b67bb0f4730"/>
+<section title="setPaperColor" ref="classThemeEngine.html#a752fbf47933c0fe55f02cee1f366b9fb"/>
+<section title="setStyle" ref="classThemeEngine.html#ac3f29ee64995e9cecb1b18f77da6ea17"/>
+<section title="setTheme" ref="classThemeEngine.html#a720fe4eab62fe7917201d0b4bc99dcd1"/>
+<section title="style" ref="classThemeEngine.html#ab2d6a82370161cacd9244d3b59bfc6ba"/>
+<section title="styleChanged" ref="classThemeEngine.html#a26ac71525a72e9048f3561bf08f8b68a"/>
+<section title="theme" ref="classThemeEngine.html#a2ff23ec662fff5c6a5521d9e0c5d663b"/>
+<section title="themeChanged" ref="classThemeEngine.html#a5c6f066b1aa762cb0300e6afbdd9618a"/>
+<section title="themeList" ref="classThemeEngine.html#a17d49ad2f00ab6f483da45324104d94e"/>
+<section title="themeName" ref="classThemeEngine.html#ad4f5fd1b22b6ce1dae12c29efb2aae83"/>
+<section title="updateStyle" ref="classThemeEngine.html#ade0a93b87e3d6f115f478e7e0fa71607"/>
+<section title="updateThemeList" ref="classThemeEngine.html#a3ecf1a0883202edb685e0e407554234f"/>
+</section>
+<section title="TimeDialog" ref="classTimeDialog.html">
+<section title="TimeDialog" ref="classTimeDialog.html#a7f89565006e0458514bfec5d476f16bd"/>
+<section title="~TimeDialog" ref="classTimeDialog.html#ad202a918388d85ff0219512ab18e34b3"/>
+<section title="setTime" ref="classTimeDialog.html#aee58ffc6bfc545587b12b907f695ffd6"/>
+</section>
+<section title="Updater" ref="classUpdater.html">
+<section title="installUpdate" ref="classUpdater.html#a9ff89e5363abb616c933afd9d9ee3a05"/>
+<section title="updateAvailable" ref="classUpdater.html#acc144c134974f66fc194220b7559f152"/>
+</section>
+<section title="UpdaterQuestion" ref="classUpdaterQuestion.html">
+<section title="UpdaterQuestion" ref="classUpdaterQuestion.html#a517125d2975f145c0aee8c9756755548"/>
+<section title="~UpdaterQuestion" ref="classUpdaterQuestion.html#a50c53b9e1c15661fb11df242c5301c33"/>
+</section>
+</section>
+<section title="Class Index" ref="classes.html"/>
+<section title="Class Hierarchy" ref="hierarchy.html">
+<section title="BuiltInPacks" ref="classBuiltInPacks.html"/>
+<section title="FileUtils" ref="classFileUtils.html"/>
+<section title="IAddon" ref="classIAddon.html"/>
+<section title="KeyboardUtils" ref="classKeyboardUtils.html"/>
+<section title="QDialog" ref="">
+<section title="ExerciseSummary" ref="classExerciseSummary.html"/>
+<section title="ExportDialog" ref="classExportDialog.html"/>
+<section title="InitialSetup" ref="classInitialSetup.html"/>
+<section title="LoadExerciseDialog" ref="classLoadExerciseDialog.html"/>
+<section title="OptionsWindow" ref="classOptionsWindow.html"/>
+<section title="PackEditor" ref="classPackEditor.html"/>
+<section title="PackSelector" ref="classPackSelector.html"/>
+<section title="StatsDialog" ref="classStatsDialog.html"/>
+<section title="TimeDialog" ref="classTimeDialog.html"/>
+</section>
+<section title="QFrame" ref="">
+<section title="KeyboardWidget" ref="classKeyboardWidget.html"/>
+</section>
+<section title="QListWidget" ref="">
+<section title="LanguageList" ref="classLanguageList.html"/>
+</section>
+<section title="QMainWindow" ref="">
+<section title="MainWindow" ref="classMainWindow.html"/>
+</section>
+<section title="QObject" ref="">
+<section title="AddonApi" ref="classAddonApi.html"/>
+<section title="ConfigParser" ref="classConfigParser.html"/>
+<section title="HistoryParser" ref="classHistoryParser.html"/>
+<section title="LanguageManager" ref="classLanguageManager.html"/>
+<section title="ThemeEngine" ref="classThemeEngine.html"/>
+</section>
+<section title="QTextEdit" ref="">
+<section title="TextView" ref="classTextView.html">
+<section title="InputLabelWidget" ref="classInputLabelWidget.html"/>
+</section>
+</section>
+<section title="QWidget" ref="">
+<section title="AppearanceOptions" ref="classAppearanceOptions.html"/>
+<section title="BehaviorOptions" ref="classBehaviorOptions.html"/>
+<section title="KeyboardOptions" ref="classKeyboardOptions.html"/>
+<section title="UpdaterQuestion" ref="classUpdaterQuestion.html"/>
+</section>
+<section title="Settings" ref="classSettings.html"/>
+<section title="StringUtils" ref="classStringUtils.html"/>
+<section title="Updater" ref="classUpdater.html"/>
+</section>
+<section title="Class Members" ref="functions.html">
+<section title="All" ref="functions.html">
+<section title="a" ref="functions.html"/>
+<section title="b" ref="functions_b.html"/>
+<section title="c" ref="functions_c.html"/>
+<section title="d" ref="functions_d.html"/>
+<section title="e" ref="functions_e.html"/>
+<section title="f" ref="functions_f.html"/>
+<section title="g" ref="functions_g.html"/>
+<section title="h" ref="functions_h.html"/>
+<section title="i" ref="functions_i.html"/>
+<section title="k" ref="functions_k.html"/>
+<section title="l" ref="functions_l.html"/>
+<section title="m" ref="functions_m.html"/>
+<section title="n" ref="functions_n.html"/>
+<section title="o" ref="functions_o.html"/>
+<section title="p" ref="functions_p.html"/>
+<section title="r" ref="functions_r.html"/>
+<section title="s" ref="functions_s.html"/>
+<section title="t" ref="functions_t.html"/>
+<section title="u" ref="functions_u.html"/>
+<section title="v" ref="functions_v.html"/>
+<section title="w" ref="functions_w.html"/>
+<section title="z" ref="functions_z.html"/>
+<section title="~" ref="functions_~.html"/>
+</section>
+<section title="Functions" ref="functions_func.html">
+<section title="a" ref="functions_func.html"/>
+<section title="b" ref="functions_func_b.html"/>
+<section title="c" ref="functions_func_c.html"/>
+<section title="d" ref="functions_func_d.html"/>
+<section title="e" ref="functions_func_e.html"/>
+<section title="f" ref="functions_func_f.html"/>
+<section title="g" ref="functions_func_g.html"/>
+<section title="h" ref="functions_func_h.html"/>
+<section title="i" ref="functions_func_i.html"/>
+<section title="k" ref="functions_func_k.html"/>
+<section title="l" ref="functions_func_l.html"/>
+<section title="m" ref="functions_func_m.html"/>
+<section title="n" ref="functions_func_n.html"/>
+<section title="o" ref="functions_func_o.html"/>
+<section title="p" ref="functions_func_p.html"/>
+<section title="r" ref="functions_func_r.html"/>
+<section title="s" ref="functions_func_s.html"/>
+<section title="t" ref="functions_func_t.html"/>
+<section title="u" ref="functions_func_u.html"/>
+<section title="v" ref="functions_func_v.html"/>
+<section title="w" ref="functions_func_w.html"/>
+<section title="z" ref="functions_func_z.html"/>
+<section title="~" ref="functions_func_~.html"/>
+</section>
+</section>
+</section>
+<section title="Files" ref="files.html">
+<section title="File List" ref="files.html">
+<section title="app" ref="dir_d422163b96683743ed3963d4aac17747.html">
+<section title="src" ref="dir_a8f641299cfea9f7461c2df1141b7786.html">
+<section title="include" ref="dir_d860928723cb44104d25ab96dee8d9b1.html">
+<section title="options" ref="dir_bdcd069623353b5e56d7c55f6af56104.html">
+<section title="AppearanceOptions.h" ref="AppearanceOptions_8h_source.html"/>
+<section title="BehaviorOptions.h" ref="BehaviorOptions_8h_source.html"/>
+<section title="KeyboardOptions.h" ref="KeyboardOptions_8h_source.html"/>
+<section title="OptionsWindow.h" ref="OptionsWindow_8h_source.html"/>
+</section>
+<section title="packEditor" ref="dir_27a38ebc1cd4ee787d165c457c8c2b6f.html">
+<section title="PackEditor.h" ref="PackEditor_8h_source.html"/>
+<section title="PackSelector.h" ref="PackSelector_8h_source.html"/>
+</section>
+<section title="updater" ref="dir_9769628433b91728cf4bab6b5bb9ad72.html">
+<section title="Updater.h" ref="Updater_8h_source.html"/>
+<section title="UpdaterQuestion.h" ref="UpdaterQuestion_8h_source.html"/>
+</section>
+<section title="widgets" ref="dir_71ad54eda288089b11ae5cec5365eb92.html">
+<section title="InputLabelWidget.h" ref="InputLabelWidget_8h_source.html"/>
+<section title="KeyboardWidget.h" ref="KeyboardWidget_8h_source.html"/>
+<section title="LanguageList.h" ref="LanguageList_8h_source.html"/>
+</section>
+<section title="ExerciseSummary.h" ref="ExerciseSummary_8h_source.html"/>
+<section title="InitialSetup.h" ref="InitialSetup_8h_source.html"/>
+<section title="MainWindow.h" ref="MainWindow_8h_source.html"/>
+<section title="TimeDialog.h" ref="TimeDialog_8h_source.html"/>
+</section>
+</section>
+</section>
+<section title="libcore" ref="dir_bc7e2982152bf817e0f5e86532c88d65.html">
+<section title="src" ref="dir_a45eb718b1a68cf39d12ccd99aec2e18.html">
+<section title="include" ref="dir_8d33a868cd7dca3c5f8058eab434dc04.html">
+<section title="widgets" ref="dir_f61eb489de2b8db73912ef6d8fd52ed3.html">
+<section title="TextView.h" ref="TextView_8h_source.html"/>
+</section>
+<section title="AddonApi.h" ref="AddonApi_8h_source.html"/>
+<section title="BuiltInPacks.h" ref="BuiltInPacks_8h_source.html"/>
+<section title="ConfigParser.h" ref="ConfigParser_8h_source.html"/>
+<section title="ExportDialog.h" ref="ExportDialog_8h_source.html"/>
+<section title="FileUtils.h" ref="FileUtils_8h_source.html"/>
+<section title="HistoryParser.h" ref="HistoryParser_8h_source.html"/>
+<section title="IAddon.h" ref="IAddon_8h_source.html"/>
+<section title="KeyboardUtils.h" ref="KeyboardUtils_8h_source.html"/>
+<section title="LanguageManager.h" ref="LanguageManager_8h_source.html"/>
+<section title="LoadExerciseDialog.h" ref="LoadExerciseDialog_8h_source.html"/>
+<section title="Settings.h" ref="Settings_8h_source.html"/>
+<section title="StatsDialog.h" ref="StatsDialog_8h_source.html"/>
+<section title="StringUtils.h" ref="StringUtils_8h_source.html"/>
+<section title="ThemeEngine.h" ref="ThemeEngine_8h_source.html"/>
+</section>
+</section>
+</section>
+</section>
+</section>
+</section>
+</toc>
+<keywords>
+<keyword name="AddonApi" id="AddonApi_" ref="classAddonApi.html"/>
+<keyword name="AppearanceOptions" id="AppearanceOptions_" ref="classAppearanceOptions.html"/>
+<keyword name="BehaviorOptions" id="BehaviorOptions_" ref="classBehaviorOptions.html"/>
+<keyword name="BuiltInPacks" id="BuiltInPacks_" ref="classBuiltInPacks.html"/>
+<keyword name="ConfigParser" id="ConfigParser_" ref="classConfigParser.html"/>
+<keyword name="ExerciseSummary" id="ExerciseSummary_" ref="classExerciseSummary.html"/>
+<keyword name="ExportDialog" id="ExportDialog_" ref="classExportDialog.html"/>
+<keyword name="FileUtils" id="FileUtils_" ref="classFileUtils.html"/>
+<keyword name="HistoryParser" id="HistoryParser_" ref="classHistoryParser.html"/>
+<keyword name="IAddon" id="IAddon_" ref="classIAddon.html"/>
+<keyword name="InitialSetup" id="InitialSetup_" ref="classInitialSetup.html"/>
+<keyword name="InputLabelWidget" id="InputLabelWidget_" ref="classInputLabelWidget.html"/>
+<keyword name="KeyboardOptions" id="KeyboardOptions_" ref="classKeyboardOptions.html"/>
+<keyword name="KeyboardUtils" id="KeyboardUtils_" ref="classKeyboardUtils.html"/>
+<keyword name="KeyboardWidget" id="KeyboardWidget_" ref="classKeyboardWidget.html"/>
+<keyword name="LanguageList" id="LanguageList_" ref="classLanguageList.html"/>
+<keyword name="LanguageManager" id="LanguageManager_" ref="classLanguageManager.html"/>
+<keyword name="LoadExerciseDialog" id="LoadExerciseDialog_" ref="classLoadExerciseDialog.html"/>
+<keyword name="MainWindow" id="MainWindow_" ref="classMainWindow.html"/>
+<keyword name="OptionsWindow" id="OptionsWindow_" ref="classOptionsWindow.html"/>
+<keyword name="PackEditor" id="PackEditor_" ref="classPackEditor.html"/>
+<keyword name="PackSelector" id="PackSelector_" ref="classPackSelector.html"/>
+<keyword name="Settings" id="Settings_" ref="classSettings.html"/>
+<keyword name="StatsDialog" id="StatsDialog_" ref="classStatsDialog.html"/>
+<keyword name="StringUtils" id="StringUtils_" ref="classStringUtils.html"/>
+<keyword name="TextView" id="TextView_" ref="classTextView.html"/>
+<keyword name="ThemeEngine" id="ThemeEngine_" ref="classThemeEngine.html"/>
+<keyword name="TimeDialog" id="TimeDialog_" ref="classTimeDialog.html"/>
+<keyword name="Updater" id="Updater_" ref="classUpdater.html"/>
+<keyword name="UpdaterQuestion" id="UpdaterQuestion_" ref="classUpdaterQuestion.html"/>
+<keyword name="Build instructions" id="Build instructions_" ref="md_docs_data_pages_Build_instructions.html"/>
+<keyword name="addButton(QString id, QIcon icon, QString toolTip, TopBarSection section)" id="AddonApi::addButton_ad5e1591cbf1348b9549eaaea435f1a21" ref="classAddonApi.html#ad5e1591cbf1348b9549eaaea435f1a21"/>
+<keyword name="addExercise(void)" id="PackEditor::addExercise_aeedc5072b4051386d29ff5f19f1b7b73" ref="classPackEditor.html#aeedc5072b4051386d29ff5f19f1b7b73"/>
+<keyword name="addExercise(int lesson, int sublesson, int exercise, bool repeat, QString repeatType, int repeatLimit, int lineLength, QString desc, QString rawText)" id="ConfigParser::addExercise_ad79ba159832d149c0740ce1a8cd35a28" ref="classConfigParser.html#ad79ba159832d149c0740ce1a8cd35a28"/>
+<keyword name="addHistoryEntry(QString pack, int lesson, int sublesson, int exercise, QList&lt; QVariant &gt; entry)" id="HistoryParser::addHistoryEntry_aba51e298eaaef05199bd49a5ceeffbc7" ref="classHistoryParser.html#aba51e298eaaef05199bd49a5ceeffbc7"/>
+<keyword name="addKey(QString keyLabelText=&quot;&quot;, int keyCode=-1, int keyMinimumWidth=50)" id="KeyboardWidget::addKey_a40bf18038a37e6f6e2dfe14b1740130a" ref="classKeyboardWidget.html#a40bf18038a37e6f6e2dfe14b1740130a"/>
+<keyword name="addLesson(void)" id="PackEditor::addLesson_a8b4f7869cc83c4393a485919c92ffaa8" ref="classPackEditor.html#a8b4f7869cc83c4393a485919c92ffaa8"/>
+<keyword name="addLoadExTarget(int id, QString name)" id="AddonApi::addLoadExTarget_ab6b8fd5620f52949d00bd31f64de8dbe" ref="classAddonApi.html#ab6b8fd5620f52949d00bd31f64de8dbe"/>
+<keyword name="addMenu(QString id, QString name)" id="AddonApi::addMenu_a2a40602bf4425c0bf2084c54a0b6b577" ref="classAddonApi.html#a2a40602bf4425c0bf2084c54a0b6b577"/>
+<keyword name="addMistakes(QString exerciseText, QList&lt; QVariantMap &gt; *recordedMistakes)" id="StringUtils::addMistakes_a56a5d39921da8839e58e63306ecf991d" ref="classStringUtils.html#a56a5d39921da8839e58e63306ecf991d"/>
+<keyword name="addSettingsCategory(QString categoryName, QIcon icon, QString className)" id="AddonApi::addSettingsCategory_a3524a96d5f14c86992c11bba95382416" ref="classAddonApi.html#a3524a96d5f14c86992c11bba95382416"/>
+<keyword name="addSublesson(void)" id="PackEditor::addSublesson_a215883570f634f00d14680b207c2d0c4" ref="classPackEditor.html#a215883570f634f00d14680b207c2d0c4"/>
+<keyword name="addTopBarWidget(QString id, TopBarSection section, TopBarPos pos)" id="AddonApi::addTopBarWidget_ad1f50c9bd2351d3c09fb7e07e5f65d68" ref="classAddonApi.html#ad1f50c9bd2351d3c09fb7e07e5f65d68"/>
+<keyword name="advancedTheme(void)" id="Settings::advancedTheme_a227ef21a9f289aec41f181ca06a9aa7f" ref="classSettings.html#a227ef21a9f289aec41f181ca06a9aa7f"/>
+<keyword name="allowTextPreview(void)" id="LoadExerciseDialog::allowTextPreview_a8198e651d9d0736692e62be4a95772c4" ref="classLoadExerciseDialog.html#a8198e651d9d0736692e62be4a95772c4"/>
+<keyword name="AppearanceOptions(QWidget *parent=nullptr)" id="AppearanceOptions::AppearanceOptions_a2d595e30e74faae045dccbd732dfda24" ref="classAppearanceOptions.html#a2d595e30e74faae045dccbd732dfda24"/>
+<keyword name="applicationStyle(void)" id="Settings::applicationStyle_acb78e659cb7592799c132595d248092f" ref="classSettings.html#acb78e659cb7592799c132595d248092f"/>
+<keyword name="applicationTheme(void)" id="Settings::applicationTheme_a04a3ca188520ca4b2a4f902b3ce25f64" ref="classSettings.html#a04a3ca188520ca4b2a4f902b3ce25f64"/>
+<keyword name="BehaviorOptions(QWidget *parent=nullptr)" id="BehaviorOptions::BehaviorOptions_aa7cc2e7cbd867f4586271d2983f3c93e" ref="classBehaviorOptions.html#aa7cc2e7cbd867f4586271d2983f3c93e"/>
+<keyword name="bgColor(void)" id="Settings::bgColor_a900e6596858c6e44e1fbc22f76b85f3a" ref="classSettings.html#a900e6596858c6e44e1fbc22f76b85f3a"/>
+<keyword name="bgColor(void)" id="ThemeEngine::bgColor_aa5515fddf018c3f22d65ce4538d02825" ref="classThemeEngine.html#aa5515fddf018c3f22d65ce4538d02825"/>
+<keyword name="bgColorChanged()" id="ThemeEngine::bgColorChanged_a6478fe2a5fe8e6d044c92dfbc21b9a9d" ref="classThemeEngine.html#a6478fe2a5fe8e6d044c92dfbc21b9a9d"/>
+<keyword name="bgStyleSheet(void)" id="ThemeEngine::bgStyleSheet_a89dc0dc8d30ff2467eeccdedf2804f85" ref="classThemeEngine.html#a89dc0dc8d30ff2467eeccdedf2804f85"/>
+<keyword name="blockLoadedEx(void)" id="AddonApi::blockLoadedEx_a5a75a6d27cb0610e9afb1b307c2d0079" ref="classAddonApi.html#a5a75a6d27cb0610e9afb1b307c2d0079"/>
+<keyword name="bufferOpened(void)" id="ConfigParser::bufferOpened_ae8d9527e83592294544e5d5158bc56ea" ref="classConfigParser.html#ae8d9527e83592294544e5d5158bc56ea"/>
+<keyword name="button(QString id)" id="AddonApi::button_ac9059709f17625995154bac19ea21674" ref="classAddonApi.html#ac9059709f17625995154bac19ea21674"/>
+<keyword name="buttons(void)" id="AddonApi::buttons_a971a5abbbdf05fb09ce86b613db1207f" ref="classAddonApi.html#a971a5abbbdf05fb09ce86b613db1207f"/>
+<keyword name="changeBgColor(void)" id="AppearanceOptions::changeBgColor_a226cf7cc6a9374a36a694a5130fd0623" ref="classAppearanceOptions.html#a226cf7cc6a9374a36a694a5130fd0623"/>
+<keyword name="changeEvent(QEvent *event)" id="MainWindow::changeEvent_ac7c881667b4ba4986b5a0030452ee3f0" ref="classMainWindow.html#ac7c881667b4ba4986b5a0030452ee3f0"/>
+<keyword name="changeEvent(QEvent *event)" id="OptionsWindow::changeEvent_aa0062a9b5fb6d3d7739ee9f28aa0a8cb" ref="classOptionsWindow.html#aa0062a9b5fb6d3d7739ee9f28aa0a8cb"/>
+<keyword name="changeEvent(QEvent *event)" id="KeyboardWidget::changeEvent_ac0148c72d352c3aca0155471e43dcdab" ref="classKeyboardWidget.html#ac0148c72d352c3aca0155471e43dcdab"/>
+<keyword name="changeEvent(QEvent *event)" id="TextView::changeEvent_a4f930423d1ad04dca6936f110261be0d" ref="classTextView.html#a4f930423d1ad04dca6936f110261be0d"/>
+<keyword name="changeExercisePos(QString lessonDesc, int lesson, int sublesson, int level, int nlesson, int nsublesson, int nlevel)" id="PackEditor::changeExercisePos_a16c8fc66d5b55057e64bea1c204865e9" ref="classPackEditor.html#a16c8fc66d5b55057e64bea1c204865e9"/>
+<keyword name="changeFont(QFont font)" id="AppearanceOptions::changeFont_a5ba9da8a0e7b59d8d0a5ca0620762c22" ref="classAppearanceOptions.html#a5ba9da8a0e7b59d8d0a5ca0620762c22"/>
+<keyword name="changeFontSize(int size)" id="AppearanceOptions::changeFontSize_a1370552a648f3f8d3ab709f2ce24fcff" ref="classAppearanceOptions.html#a1370552a648f3f8d3ab709f2ce24fcff"/>
+<keyword name="changeFullTheme(QListWidgetItem *item)" id="AppearanceOptions::changeFullTheme_a32a73b87af5e4313877de0eb44d02f32" ref="classAppearanceOptions.html#a32a73b87af5e4313877de0eb44d02f32"/>
+<keyword name="changeInputTextColor(void)" id="AppearanceOptions::changeInputTextColor_ad26bde9a93cfa7c724981c7f89c72596" ref="classAppearanceOptions.html#ad26bde9a93cfa7c724981c7f89c72596"/>
+<keyword name="changeLanguage(int index)" id="LanguageList::changeLanguage_a777520f23fbb92be1dfd8df7539e6995" ref="classLanguageList.html#a777520f23fbb92be1dfd8df7539e6995"/>
+<keyword name="changeLessonDesc(const QString rawLessonDesc)" id="PackEditor::changeLessonDesc_a83eecaec38c8b1d7bc46d6bf2a422b85" ref="classPackEditor.html#a83eecaec38c8b1d7bc46d6bf2a422b85"/>
+<keyword name="changeLevelTextColor(void)" id="AppearanceOptions::changeLevelTextColor_a9b23be5da1a538895824d7c4e414b293" ref="classAppearanceOptions.html#a9b23be5da1a538895824d7c4e414b293"/>
+<keyword name="changeLineLength(int lengthExt)" id="PackEditor::changeLineLength_a46dd0e132fd56c4b24702f3af980fcc4" ref="classPackEditor.html#a46dd0e132fd56c4b24702f3af980fcc4"/>
+<keyword name="changeMode(int mode)" id="MainWindow::changeMode_a2270ed6a0bdb9de0077ac4ece8fa32e1" ref="classMainWindow.html#a2270ed6a0bdb9de0077ac4ece8fa32e1"/>
+<keyword name="changeMode(void)" id="LoadExerciseDialog::changeMode_affe4e0c99e149f489f52171f555c5bb0" ref="classLoadExerciseDialog.html#affe4e0c99e149f489f52171f555c5bb0"/>
+<keyword name="changeOptionWidget(int index)" id="OptionsWindow::changeOptionWidget_a5a4d27e8b5252bdd7fcbc399420f8950" ref="classOptionsWindow.html#a5a4d27e8b5252bdd7fcbc399420f8950"/>
+<keyword name="changePack(int index)" id="KeyboardOptions::changePack_a14fdba0ff2f7a42bb45445b5d4a77a54" ref="classKeyboardOptions.html#a14fdba0ff2f7a42bb45445b5d4a77a54"/>
+<keyword name="changePanelColor(void)" id="AppearanceOptions::changePanelColor_a9978abf9cb351b98dce59dd5930694a0" ref="classAppearanceOptions.html#a9978abf9cb351b98dce59dd5930694a0"/>
+<keyword name="changePaperColor(void)" id="AppearanceOptions::changePaperColor_aaf27e5840d797e0ce427dbeb32396e0e" ref="classAppearanceOptions.html#aaf27e5840d797e0ce427dbeb32396e0e"/>
+<keyword name="changeRepeating(int index)" id="PackEditor::changeRepeating_ae6b048cfb046e60c4785d43dfb276271" ref="classPackEditor.html#ae6b048cfb046e60c4785d43dfb276271"/>
+<keyword name="changeRepeatLength(int limitExt)" id="PackEditor::changeRepeatLength_a874de634a7d54da73ff13ba4ec62fd36" ref="classPackEditor.html#a874de634a7d54da73ff13ba4ec62fd36"/>
+<keyword name="changeSource(void)" id="LoadExerciseDialog::changeSource_a0cbd12b5ee0b59e21488778d3bcc4a56" ref="classLoadExerciseDialog.html#a0cbd12b5ee0b59e21488778d3bcc4a56"/>
+<keyword name="changeTheme(int index)" id="AppearanceOptions::changeTheme_a528e425d60d417fac5eb3a1fb4ee1546" ref="classAppearanceOptions.html#a528e425d60d417fac5eb3a1fb4ee1546"/>
+<keyword name="changeThemeMode(bool advanced)" id="AppearanceOptions::changeThemeMode_aab01014bf37089c9922b11ca3e26ec11" ref="classAppearanceOptions.html#aab01014bf37089c9922b11ca3e26ec11"/>
+<keyword name="className(void)" id="ExportDialog::className_a66e78c7b8d69aa6722bfc96094fb6fff" ref="classExportDialog.html#a66e78c7b8d69aa6722bfc96094fb6fff"/>
+<keyword name="clearLoadExTargets(void)" id="AddonApi::clearLoadExTargets_a239bba942dbba1e8cc6f7252602cece2" ref="classAddonApi.html#a239bba942dbba1e8cc6f7252602cece2"/>
+<keyword name="clearSettingsCategories(void)" id="AddonApi::clearSettingsCategories_a6c0848cf4d6f086500d028a13b4b25f7" ref="classAddonApi.html#a6c0848cf4d6f086500d028a13b4b25f7"/>
+<keyword name="close(void)" id="ConfigParser::close_a86a0528df7b878a1970bd7c5b327ae4d" ref="classConfigParser.html#a86a0528df7b878a1970bd7c5b327ae4d"/>
+<keyword name="closeEvent(QCloseEvent *event)" id="MainWindow::closeEvent_a4e20a4a065fbb0e4d3532a45a0a91425" ref="classMainWindow.html#a4e20a4a065fbb0e4d3532a45a0a91425"/>
+<keyword name="closeEvent(QCloseEvent *event) override" id="PackEditor::closeEvent_a8457483a631450498b761e171b88c16e" ref="classPackEditor.html#a8457483a631450498b761e171b88c16e"/>
+<keyword name="closeFile(bool createNew=false, bool open=false, bool openPrebuiltPack=false)" id="PackEditor::closeFile_a711a9ee9a2d79af1451dfb42c7e670bd" ref="classPackEditor.html#a711a9ee9a2d79af1451dfb42c7e670bd"/>
+<keyword name="colorChanged()" id="ThemeEngine::colorChanged_a07473ce50a43e43f6a91d91805532aed" ref="classThemeEngine.html#a07473ce50a43e43f6a91d91805532aed"/>
+<keyword name="compareLists(QList&lt; QVariant &gt; source, QList&lt; QVariant &gt; target, QVector&lt; QPair&lt; QString, int &gt; &gt; *recordedCharacters=nullptr, int *hits=nullptr, int *inputPos=nullptr)" id="StringUtils::compareLists_af2df6b9ae854474c5a81eedfe798319f" ref="classStringUtils.html#af2df6b9ae854474c5a81eedfe798319f"/>
+<keyword name="compareStrings(QString source, QString target, QVector&lt; QPair&lt; QString, int &gt; &gt; *recordedCharacters=nullptr, int *hits=nullptr, int *inputPos=nullptr)" id="StringUtils::compareStrings_a76ed4064ba0be07647e3bee667ee92e5" ref="classStringUtils.html#a76ed4064ba0be07647e3bee667ee92e5"/>
+<keyword name="configLocation(void)" id="FileUtils::configLocation_a2c804c1b04771f073cf921008135c46f" ref="classFileUtils.html#a2c804c1b04771f073cf921008135c46f"/>
+<keyword name="ConfigParser(QObject *parent=nullptr)" id="ConfigParser::ConfigParser_a9e5ff853d7b9309afc0aae581f5922e1" ref="classConfigParser.html#a9e5ff853d7b9309afc0aae581f5922e1"/>
+<keyword name="contains(QString key)" id="Settings::contains_a8ebe00ba133b684c3a4f175adc392518" ref="classSettings.html#a8ebe00ba133b684c3a4f175adc392518"/>
+<keyword name="containsAdvancedTheme(void)" id="Settings::containsAdvancedTheme_a8eeae4afc32350c8f2083752e23d6c25" ref="classSettings.html#a8eeae4afc32350c8f2083752e23d6c25"/>
+<keyword name="containsApplicationStyle(void)" id="Settings::containsApplicationStyle_a0388fd06abd9e8dfee22de3295a844bf" ref="classSettings.html#a0388fd06abd9e8dfee22de3295a844bf"/>
+<keyword name="containsApplicationTheme(void)" id="Settings::containsApplicationTheme_a442a865aca5ff396bdb511340f924d93" ref="classSettings.html#a442a865aca5ff396bdb511340f924d93"/>
+<keyword name="containsBgColor(void)" id="Settings::containsBgColor_abd8b170a4126dc02bcfad297f4d62e81" ref="classSettings.html#abd8b170a4126dc02bcfad297f4d62e81"/>
+<keyword name="containsCustomBgColor(void)" id="Settings::containsCustomBgColor_a4d772875e68d7c2aa768e50e8e8987f1" ref="classSettings.html#a4d772875e68d7c2aa768e50e8e8987f1"/>
+<keyword name="containsCustomExerciseTextColor(void)" id="Settings::containsCustomExerciseTextColor_a7f7ef85538326e8ffb2728fbab6a4eff" ref="classSettings.html#a7f7ef85538326e8ffb2728fbab6a4eff"/>
+<keyword name="containsCustomInputTextColor(void)" id="Settings::containsCustomInputTextColor_adc9cca2208265fdca09525d2b10eb698" ref="classSettings.html#adc9cca2208265fdca09525d2b10eb698"/>
+<keyword name="containsCustomLessonPack(void)" id="Settings::containsCustomLessonPack_afc4ebfd518d56a3809fcbb3eac802cb7" ref="classSettings.html#afc4ebfd518d56a3809fcbb3eac802cb7"/>
+<keyword name="containsCustomPanelColor(void)" id="Settings::containsCustomPanelColor_aa213125762c6f2c2e066d49d4674c301" ref="classSettings.html#aa213125762c6f2c2e066d49d4674c301"/>
+<keyword name="containsCustomPaperColor(void)" id="Settings::containsCustomPaperColor_a14ca66ecc5cc6c5bf38053c1b7a4f185" ref="classSettings.html#a14ca66ecc5cc6c5bf38053c1b7a4f185"/>
+<keyword name="containsEditorGeometry(void)" id="Settings::containsEditorGeometry_a4c90ab7d6c0a993535317b7ca02fbb4d" ref="classSettings.html#a4c90ab7d6c0a993535317b7ca02fbb4d"/>
+<keyword name="containsErrorPenalty(void)" id="Settings::containsErrorPenalty_ab757386ecc355baf6296fcdbd6064ef8" ref="classSettings.html#ab757386ecc355baf6296fcdbd6064ef8"/>
+<keyword name="containsExerciseTextColor(void)" id="Settings::containsExerciseTextColor_a7c9984b072286217d8361fa54d18a13e" ref="classSettings.html#a7c9984b072286217d8361fa54d18a13e"/>
+<keyword name="containsInputTextColor(void)" id="Settings::containsInputTextColor_ac260e802437391b06e630834ee7a6d9c" ref="classSettings.html#ac260e802437391b06e630834ee7a6d9c"/>
+<keyword name="containsKeyboardVisible(void)" id="Settings::containsKeyboardVisible_a2d220c2b17590210f2f5b7052a971337" ref="classSettings.html#a2d220c2b17590210f2f5b7052a971337"/>
+<keyword name="containsLanguage(void)" id="Settings::containsLanguage_a034b0462564303c281e12d04ec404fc7" ref="classSettings.html#a034b0462564303c281e12d04ec404fc7"/>
+<keyword name="containsLessonPack(void)" id="Settings::containsLessonPack_a6792ee43470e333c5936b4a623efbe4a" ref="classSettings.html#a6792ee43470e333c5936b4a623efbe4a"/>
+<keyword name="containsMistakeChars(void)" id="Settings::containsMistakeChars_a7a846a19bea7344e5ca05a39a15d5dda" ref="classSettings.html#a7a846a19bea7344e5ca05a39a15d5dda"/>
+<keyword name="containsMistakeLimit(void)" id="Settings::containsMistakeLimit_a97ab720609d3e941ed006185d867e143" ref="classSettings.html#a97ab720609d3e941ed006185d867e143"/>
+<keyword name="containsPanelColor(void)" id="Settings::containsPanelColor_ac68002700c2e4ce045b0cc138ea96f75" ref="classSettings.html#ac68002700c2e4ce045b0cc138ea96f75"/>
+<keyword name="containsPaperColor(void)" id="Settings::containsPaperColor_a245bd78367f2e9dce2febe9c8db7792c" ref="classSettings.html#a245bd78367f2e9dce2febe9c8db7792c"/>
+<keyword name="containsSettingsLockEnabled(void)" id="Settings::containsSettingsLockEnabled_a6c13c35f2fdc37d653c2df4364f2678f" ref="classSettings.html#a6c13c35f2fdc37d653c2df4364f2678f"/>
+<keyword name="containsSettingsLockPasswd(void)" id="Settings::containsSettingsLockPasswd_a74c6c8fabe1d26c9e22c6016984de9e1" ref="classSettings.html#a74c6c8fabe1d26c9e22c6016984de9e1"/>
+<keyword name="containsSimpleThemeId(void)" id="Settings::containsSimpleThemeId_a0658101ee39def2d87ace01e5d16595f" ref="classSettings.html#a0658101ee39def2d87ace01e5d16595f"/>
+<keyword name="containsThemeFont(void)" id="Settings::containsThemeFont_add34d8070b4738a49c56259754113122" ref="classSettings.html#add34d8070b4738a49c56259754113122"/>
+<keyword name="containsThemeFontBold(void)" id="Settings::containsThemeFontBold_a5137169de37cabdc8f615d337c2d1852" ref="classSettings.html#a5137169de37cabdc8f615d337c2d1852"/>
+<keyword name="containsThemeFontItalic(void)" id="Settings::containsThemeFontItalic_a61bdf6d10c581252003fa8a667283e9d" ref="classSettings.html#a61bdf6d10c581252003fa8a667283e9d"/>
+<keyword name="containsThemeFontSize(void)" id="Settings::containsThemeFontSize_af454c025f633542b7d8feb29147d87cf" ref="classSettings.html#af454c025f633542b7d8feb29147d87cf"/>
+<keyword name="containsThemeFontUnderline(void)" id="Settings::containsThemeFontUnderline_af09f69535c571fd617173e97a2aadc95" ref="classSettings.html#af09f69535c571fd617173e97a2aadc95"/>
+<keyword name="containsUpdateChecks(void)" id="Settings::containsUpdateChecks_ad43b8de693fac3ba983b810abc90355f" ref="classSettings.html#ad43b8de693fac3ba983b810abc90355f"/>
+<keyword name="containsWindowGeometry(void)" id="Settings::containsWindowGeometry_a6e84d7f7924cd13eecce7f917a400f27" ref="classSettings.html#a6e84d7f7924cd13eecce7f917a400f27"/>
+<keyword name="containsWindowState(void)" id="Settings::containsWindowState_a953208c679f890bf3cc0b5dc0273f40b" ref="classSettings.html#a953208c679f890bf3cc0b5dc0273f40b"/>
+<keyword name="correctMistakes(void)" id="LoadExerciseDialog::correctMistakes_a892d51c4bfaa07f15df04cbb1a65f3b6" ref="classLoadExerciseDialog.html#a892d51c4bfaa07f15df04cbb1a65f3b6"/>
+<keyword name="createNewFile(void)" id="PackEditor::createNewFile_a9949495dfef7190258f4b5b02db3415a" ref="classPackEditor.html#a9949495dfef7190258f4b5b02db3415a"/>
+<keyword name="customBgColor(void)" id="Settings::customBgColor_a9f56d6dee239496bdf855c3b0c243e38" ref="classSettings.html#a9f56d6dee239496bdf855c3b0c243e38"/>
+<keyword name="customBgColor(void)" id="ThemeEngine::customBgColor_a5b5dfd3631e17d4cc9af8c0af0b64402" ref="classThemeEngine.html#a5b5dfd3631e17d4cc9af8c0af0b64402"/>
+<keyword name="customExerciseTextColor(void)" id="Settings::customExerciseTextColor_a80420ce2f58415bd73f704adbcd4f7eb" ref="classSettings.html#a80420ce2f58415bd73f704adbcd4f7eb"/>
+<keyword name="customExerciseTextColor(void)" id="ThemeEngine::customExerciseTextColor_a60f9b970dc14a50adf4d97aada98d073" ref="classThemeEngine.html#a60f9b970dc14a50adf4d97aada98d073"/>
+<keyword name="customInputTextColor(void)" id="Settings::customInputTextColor_ae7d56c3b26ca67cd72ed8b87137d44b7" ref="classSettings.html#ae7d56c3b26ca67cd72ed8b87137d44b7"/>
+<keyword name="customInputTextColor(void)" id="ThemeEngine::customInputTextColor_a590810acc0d01687540eb2075b1af476" ref="classThemeEngine.html#a590810acc0d01687540eb2075b1af476"/>
+<keyword name="customLessonPack(void)" id="Settings::customLessonPack_a6a30dc460783bad85058967ebb0e8c38" ref="classSettings.html#a6a30dc460783bad85058967ebb0e8c38"/>
+<keyword name="customPanelColor(void)" id="Settings::customPanelColor_a8c7c4c2b6cda58608065bd855ecd4eb5" ref="classSettings.html#a8c7c4c2b6cda58608065bd855ecd4eb5"/>
+<keyword name="customPanelColor(void)" id="ThemeEngine::customPanelColor_ab3f65d0b2da533de90697836d56ac4e3" ref="classThemeEngine.html#ab3f65d0b2da533de90697836d56ac4e3"/>
+<keyword name="customPaperColor(void)" id="Settings::customPaperColor_a3e9b566896ee03eab7ae145cf4d640d9" ref="classSettings.html#a3e9b566896ee03eab7ae145cf4d640d9"/>
+<keyword name="customPaperColor(void)" id="ThemeEngine::customPaperColor_a153c128c736ab6abb84a561aeac9cd41" ref="classThemeEngine.html#a153c128c736ab6abb84a561aeac9cd41"/>
+<keyword name="data(void)" id="ConfigParser::data_a2eb1d0bae3d01f616ffad23b1f66d93f" ref="classConfigParser.html#a2eb1d0bae3d01f616ffad23b1f66d93f"/>
+<keyword name="dehighlightKey(int keyCode)" id="KeyboardWidget::dehighlightKey_a62884949fe082b4cbe1a1bceadbe3b25" ref="classKeyboardWidget.html#a62884949fe082b4cbe1a1bceadbe3b25"/>
+<keyword name="deleteButtons(void)" id="AddonApi::deleteButtons_aee8f9f22559526a3ca4c595f456f36b3" ref="classAddonApi.html#aee8f9f22559526a3ca4c595f456f36b3"/>
+<keyword name="deleteExerciseLine(int lesson, int sublesson, int level)" id="PackEditor::deleteExerciseLine_a2b283bdd515f681e765f10b95fc41550" ref="classPackEditor.html#a2b283bdd515f681e765f10b95fc41550"/>
+<keyword name="deleteMenus(void)" id="AddonApi::deleteMenus_ac4d5717bc21de4ff3eb2786593ca8688" ref="classAddonApi.html#ac4d5717bc21de4ff3eb2786593ca8688"/>
+<keyword name="deleteTopBarWidgets(void)" id="AddonApi::deleteTopBarWidgets_aa93b8dfbb9239c7010c5c5bc135b0574" ref="classAddonApi.html#aa93b8dfbb9239c7010c5c5bc135b0574"/>
+<keyword name="editorGeometry(void)" id="Settings::editorGeometry_a7a84c2edcc9cad383b8008adc814bbf9" ref="classSettings.html#a7a84c2edcc9cad383b8008adc814bbf9"/>
+<keyword name="endExercise(bool showNetHits, bool showGrossHits, bool showTotalHits, bool showTime, bool showMistakes)" id="MainWindow::endExercise_a69c7295e182495ae6a8b46d6727a63a2" ref="classMainWindow.html#a69c7295e182495ae6a8b46d6727a63a2"/>
+<keyword name="errorFont(void)" id="ThemeEngine::errorFont_aeda9821267369677691544b49d46ab43" ref="classThemeEngine.html#aeda9821267369677691544b49d46ab43"/>
+<keyword name="errorPenalty(void)" id="Settings::errorPenalty_abda319452cfb77a7f3fe42056f2859d2" ref="classSettings.html#abda319452cfb77a7f3fe42056f2859d2"/>
+<keyword name="eventFilter(QObject *obj, QEvent *event)" id="KeyboardWidget::eventFilter_a94d42cdfae31437127e647ca0f1599bc" ref="classKeyboardWidget.html#a94d42cdfae31437127e647ca0f1599bc"/>
+<keyword name="exerciseAttribute(const QString config, const int id)" id="ConfigParser::exerciseAttribute_a48fc13cf23ca692f75b83407d6fda08c" ref="classConfigParser.html#a48fc13cf23ca692f75b83407d6fda08c"/>
+<keyword name="exerciseAttributes(const QString line)" id="ConfigParser::exerciseAttributes_a6589699a2bd1a5adecaa1ac3e099cc63" ref="classConfigParser.html#a6589699a2bd1a5adecaa1ac3e099cc63"/>
+<keyword name="exerciseCount(int lesson, int sublesson)" id="ConfigParser::exerciseCount_afccd977b9ed64ef628bb9fde41256b00" ref="classConfigParser.html#afccd977b9ed64ef628bb9fde41256b00"/>
+<keyword name="exerciseID(const QString line, const int part)" id="ConfigParser::exerciseID_a25dc734e0744b36e048272bed3277c90" ref="classConfigParser.html#a25dc734e0744b36e048272bed3277c90"/>
+<keyword name="exerciseLine(int lesson, int sublesson, int exercise)" id="ConfigParser::exerciseLine_a53135ae7e2686ce4aad719a6ba2e0316" ref="classConfigParser.html#a53135ae7e2686ce4aad719a6ba2e0316"/>
+<keyword name="exerciseLineLength(int lesson, int sublesson, int exercise)" id="ConfigParser::exerciseLineLength_a2642dc326b7c0c179667a845865b8d09" ref="classConfigParser.html#a2642dc326b7c0c179667a845865b8d09"/>
+<keyword name="exerciseRawText(int lesson, int sublesson, int exercise)" id="ConfigParser::exerciseRawText_a9376c66f7cade20cd53d8430f048b3a2" ref="classConfigParser.html#a9376c66f7cade20cd53d8430f048b3a2"/>
+<keyword name="exerciseRawText(const QString line)" id="ConfigParser::exerciseRawText_a82fd597a92c5ca103abd03354870b5fa" ref="classConfigParser.html#a82fd597a92c5ca103abd03354870b5fa"/>
+<keyword name="exerciseRepeatBool(int lesson, int sublesson, int exercise)" id="ConfigParser::exerciseRepeatBool_a67f26747a569a6b59af22a3ece8bd14b" ref="classConfigParser.html#a67f26747a569a6b59af22a3ece8bd14b"/>
+<keyword name="exerciseRepeatBool(const QString config)" id="ConfigParser::exerciseRepeatBool_aff7a23c7926fcc3a26e4d9053079cf6b" ref="classConfigParser.html#aff7a23c7926fcc3a26e4d9053079cf6b"/>
+<keyword name="exerciseRepeatConfig(const QString line)" id="ConfigParser::exerciseRepeatConfig_ad1fd7a314dd7006ea16310cda733fb36" ref="classConfigParser.html#ad1fd7a314dd7006ea16310cda733fb36"/>
+<keyword name="exerciseRepeatLimit(int lesson, int sublesson, int exercise)" id="ConfigParser::exerciseRepeatLimit_ad9734e225a963addfd63c4807281c8d8" ref="classConfigParser.html#ad9734e225a963addfd63c4807281c8d8"/>
+<keyword name="exerciseRepeatType(int lesson, int sublesson, int exercise)" id="ConfigParser::exerciseRepeatType_afb6ecde6ff626858d55a1328b0d6d6d8" ref="classConfigParser.html#afb6ecde6ff626858d55a1328b0d6d6d8"/>
+<keyword name="exerciseRepeatType(const QString config)" id="ConfigParser::exerciseRepeatType_a7cdd1342850663924fd591607fde5eaa" ref="classConfigParser.html#a7cdd1342850663924fd591607fde5eaa"/>
+<keyword name="ExerciseSummary(QWidget *parent=nullptr)" id="ExerciseSummary::ExerciseSummary_a746b09d189dee5a9bde9838f72467414" ref="classExerciseSummary.html#a746b09d189dee5a9bde9838f72467414"/>
+<keyword name="exerciseText(int lesson, int sublesson, int exercise)" id="ConfigParser::exerciseText_aa4de20a04a492ba160fb5920078c0c23" ref="classConfigParser.html#aa4de20a04a492ba160fb5920078c0c23"/>
+<keyword name="exerciseText(void)" id="LoadExerciseDialog::exerciseText_ad2096ce728322fc57326df7782983d64" ref="classLoadExerciseDialog.html#ad2096ce728322fc57326df7782983d64"/>
+<keyword name="exerciseTextColor(void)" id="Settings::exerciseTextColor_ac6f6b06440dc6508536e58f248228515" ref="classSettings.html#ac6f6b06440dc6508536e58f248228515"/>
+<keyword name="exerciseTextColor(void)" id="ThemeEngine::exerciseTextColor_ac83b6238981a9711385fbd390d75e5ad" ref="classThemeEngine.html#ac83b6238981a9711385fbd390d75e5ad"/>
+<keyword name="exerciseTextColorChanged()" id="ThemeEngine::exerciseTextColorChanged_a6c1f0afe4765fb74f83d4a73d0ab2be5" ref="classThemeEngine.html#a6c1f0afe4765fb74f83d4a73d0ab2be5"/>
+<keyword name="exerciseTextStyleSheet(void)" id="ThemeEngine::exerciseTextStyleSheet_a6c87c0a9e066da6fb3be3d76eeb4be71" ref="classThemeEngine.html#a6c87c0a9e066da6fb3be3d76eeb4be71"/>
+<keyword name="exerciseTr(int id)" id="ConfigParser::exerciseTr_aed7460decbc858d48b1ada64f8dbe0c0" ref="classConfigParser.html#aed7460decbc858d48b1ada64f8dbe0c0"/>
+<keyword name="ExportDialog(QString text, QVariantMap result, QList&lt; QVariantMap &gt; mistakes, QWidget *parent=nullptr)" id="ExportDialog::ExportDialog_adcfcd1d6a904db0084703f43268f4ce4" ref="classExportDialog.html#adcfcd1d6a904db0084703f43268f4ce4"/>
+<keyword name="exportText(void)" id="MainWindow::exportText_aaf1cd4482a99fb8ce85b5aee8d93ded8" ref="classMainWindow.html#aaf1cd4482a99fb8ce85b5aee8d93ded8"/>
+<keyword name="fileName(void)" id="ConfigParser::fileName_a74028c49a6f8327a82786793f93b3073" ref="classConfigParser.html#a74028c49a6f8327a82786793f93b3073"/>
+<keyword name="findKey(QString label)" id="KeyboardWidget::findKey_a3a9d517d51a54f719bbae6d7c0e38356" ref="classKeyboardWidget.html#a3a9d517d51a54f719bbae6d7c0e38356"/>
+<keyword name="findMistakes(QString exerciseText, QString input, QVector&lt; QPair&lt; QString, int &gt; &gt; recordedCharacters, int *totalHits=nullptr, QStringList *errorWords=nullptr)" id="StringUtils::findMistakes_ae487d3107fefec80a15ece7103412a9f" ref="classStringUtils.html#ae487d3107fefec80a15ece7103412a9f"/>
+<keyword name="fingerHand(KeyboardWidget::Finger finger)" id="KeyboardWidget::fingerHand_a2d068436d26b34c6ef7bbb7c9c9fe12a" ref="classKeyboardWidget.html#a2d068436d26b34c6ef7bbb7c9c9fe12a"/>
+<keyword name="finish(void)" id="InitialSetup::finish_a0ef17a74b9958af5a6d23adc4f04b2ba" ref="classInitialSetup.html#a0ef17a74b9958af5a6d23adc4f04b2ba"/>
+<keyword name="font(void)" id="ThemeEngine::font_ab1d576757871dfefcf17199281d1bea2" ref="classThemeEngine.html#ab1d576757871dfefcf17199281d1bea2"/>
+<keyword name="fontBold(void)" id="ThemeEngine::fontBold_a1c60883be6f506fcbb20c823dad87363" ref="classThemeEngine.html#a1c60883be6f506fcbb20c823dad87363"/>
+<keyword name="fontBoldChanged()" id="ThemeEngine::fontBoldChanged_a5216386278b790c9ed6e956a1884acd9" ref="classThemeEngine.html#a5216386278b790c9ed6e956a1884acd9"/>
+<keyword name="fontChanged()" id="ThemeEngine::fontChanged_a8c778c58c43c7fd713d0e96c820689f1" ref="classThemeEngine.html#a8c778c58c43c7fd713d0e96c820689f1"/>
+<keyword name="fontFamily(void)" id="ThemeEngine::fontFamily_a7b26c213030eac6d81dbada20b68ad59" ref="classThemeEngine.html#a7b26c213030eac6d81dbada20b68ad59"/>
+<keyword name="fontFamilyChanged()" id="ThemeEngine::fontFamilyChanged_a5f3ab188bcb4066368634bf3a42dbd54" ref="classThemeEngine.html#a5f3ab188bcb4066368634bf3a42dbd54"/>
+<keyword name="fontItalic(void)" id="ThemeEngine::fontItalic_a56211eb85d0febe708a83e519428dfe6" ref="classThemeEngine.html#a56211eb85d0febe708a83e519428dfe6"/>
+<keyword name="fontItalicChanged()" id="ThemeEngine::fontItalicChanged_a06abb77a2e57e75956f43eab058aed4d" ref="classThemeEngine.html#a06abb77a2e57e75956f43eab058aed4d"/>
+<keyword name="fontSize(void)" id="ThemeEngine::fontSize_a99cf6dbef4aa54b36c25dcb274b2b4a9" ref="classThemeEngine.html#a99cf6dbef4aa54b36c25dcb274b2b4a9"/>
+<keyword name="fontSizeChanged()" id="ThemeEngine::fontSizeChanged_a2a5f67ac12428d50faf6c71194f711a5" ref="classThemeEngine.html#a2a5f67ac12428d50faf6c71194f711a5"/>
+<keyword name="fontStyleChanged()" id="ThemeEngine::fontStyleChanged_a3cfc6c028fc74eee68048a998e34dfda" ref="classThemeEngine.html#a3cfc6c028fc74eee68048a998e34dfda"/>
+<keyword name="fontUnderline(void)" id="ThemeEngine::fontUnderline_af3f11ef0e7c549687219013b1a577d94" ref="classThemeEngine.html#af3f11ef0e7c549687219013b1a577d94"/>
+<keyword name="fontUnderlineChanged()" id="ThemeEngine::fontUnderlineChanged_a7508db5d183fa809df6f4c579bc350ed" ref="classThemeEngine.html#a7508db5d183fa809df6f4c579bc350ed"/>
+<keyword name="generateDiffList(QStringList *sourceWords, QStringList *targetWords, QList&lt; int &gt; *mergeList=nullptr)" id="StringUtils::generateDiffList_a2783b6a304ba1ef2c08eee29bba57706" ref="classStringUtils.html#a2783b6a304ba1ef2c08eee29bba57706"/>
+<keyword name="generateText(QString rawText, bool repeat, QString repeatType, int repeatLimit)" id="ConfigParser::generateText_aae5543e8b78d4a3227454d94ce4a09f3" ref="classConfigParser.html#aae5543e8b78d4a3227454d94ce4a09f3"/>
+<keyword name="get(QString key, QVariant defaultValue)" id="Settings::get_aa0201df6db5b4c37cc6323cbb426c996" ref="classSettings.html#aa0201df6db5b4c37cc6323cbb426c996"/>
+<keyword name="getFileName(void)" id="PackEditor::getFileName_a1768e31f79c8fcb06973015f00f1112b" ref="classPackEditor.html#a1768e31f79c8fcb06973015f00f1112b"/>
+<keyword name="getTopBarFrame(AddonApi::TopBarSection section, AddonApi::TopBarPos pos)" id="MainWindow::getTopBarFrame_a1daa1b5fc32f2a111601d335810b1ad0" ref="classMainWindow.html#a1daa1b5fc32f2a111601d335810b1ad0"/>
+<keyword name="goBack(void)" id="AppearanceOptions::goBack_a52dfdb603da5f25b29f44fdbf25d3237" ref="classAppearanceOptions.html#a52dfdb603da5f25b29f44fdbf25d3237"/>
+<keyword name="grade(void)" id="ExportDialog::grade_a5893330c1feef1b7afab404ac0dc24f8" ref="classExportDialog.html#a5893330c1feef1b7afab404ac0dc24f8"/>
+<keyword name="hideModeSelector(void)" id="AppearanceOptions::hideModeSelector_a582d3db00299edeaec2832b49b314626" ref="classAppearanceOptions.html#a582d3db00299edeaec2832b49b314626"/>
+<keyword name="hideText(void)" id="LoadExerciseDialog::hideText_a1915ab7245d9b6ec68fd7843c6a07e1e" ref="classLoadExerciseDialog.html#a1915ab7245d9b6ec68fd7843c6a07e1e"/>
+<keyword name="highlightKey(int keyCode)" id="KeyboardWidget::highlightKey_ae8e3b2408a49fbcdd96e39eb622eb650" ref="classKeyboardWidget.html#ae8e3b2408a49fbcdd96e39eb622eb650"/>
+<keyword name="historyDocument(void)" id="HistoryParser::historyDocument_a85dcd998b1baaffbb521e82a5be4e76e" ref="classHistoryParser.html#a85dcd998b1baaffbb521e82a5be4e76e"/>
+<keyword name="historyEntry(QString pack, int lesson, int sublesson, int exercise, int entry)" id="HistoryParser::historyEntry_aa507291ee40ec28286ed46543366af9d" ref="classHistoryParser.html#aa507291ee40ec28286ed46543366af9d"/>
+<keyword name="historyPackValue(QString pack)" id="HistoryParser::historyPackValue_a250d162b95458d0ebba3ead829b3c684" ref="classHistoryParser.html#a250d162b95458d0ebba3ead829b3c684"/>
+<keyword name="historySize(QString pack, int lesson, int sublesson, int exercise)" id="HistoryParser::historySize_a533ee52ae68f3b51d9d75c489bb31d4d" ref="classHistoryParser.html#a533ee52ae68f3b51d9d75c489bb31d4d"/>
+<keyword name="includeNewLines(void)" id="LoadExerciseDialog::includeNewLines_a67a31531826e217d25a2c7431c54b0bf" ref="classLoadExerciseDialog.html#a67a31531826e217d25a2c7431c54b0bf"/>
+<keyword name="increaseFontSize(int delta)" id="ThemeEngine::increaseFontSize_a3aacd371e693020325fa64eb8bf7cbf2" ref="classThemeEngine.html#a3aacd371e693020325fa64eb8bf7cbf2"/>
+<keyword name="init(void)" id="AppearanceOptions::init_a500a414ee6df5bccd4c6871ade459e61" ref="classAppearanceOptions.html#a500a414ee6df5bccd4c6871ade459e61"/>
+<keyword name="init(void)" id="OptionsWindow::init_aa0be24bdc16a1893a4034872be90ec08" ref="classOptionsWindow.html#aa0be24bdc16a1893a4034872be90ec08"/>
+<keyword name="init(void)" id="LoadExerciseDialog::init_a9ba66ad72a6dc402148e4217daa3c2a4" ref="classLoadExerciseDialog.html#a9ba66ad72a6dc402148e4217daa3c2a4"/>
+<keyword name="init(void)" id="Settings::init_a84893259a12d11fb102b392106dc30ea" ref="classSettings.html#a84893259a12d11fb102b392106dc30ea"/>
+<keyword name="initExercise(QString exercise, int lineLength)" id="ConfigParser::initExercise_aad31eb47acadbb8949c088c3ec70f849" ref="classConfigParser.html#aad31eb47acadbb8949c088c3ec70f849"/>
+<keyword name="initExercise(QString exercise, int lineLength, bool lineCountLimit, int currentLine)" id="ConfigParser::initExercise_abe1c5df6cf3ebaf06b3678c5245c2597" ref="classConfigParser.html#abe1c5df6cf3ebaf06b3678c5245c2597"/>
+<keyword name="InitialSetup(QWidget *parent=nullptr)" id="InitialSetup::InitialSetup_ac61600f825993dbce4211861e76840ad" ref="classInitialSetup.html#ac61600f825993dbce4211861e76840ad"/>
+<keyword name="initSettingsCategories(bool clear=false)" id="AddonApi::initSettingsCategories_ad78edc8fd20ff51ca4c2984fd287cf29" ref="classAddonApi.html#ad78edc8fd20ff51ca4c2984fd287cf29"/>
+<keyword name="initTest(QByteArray text, int lineLength, bool includeNewLines, int mode, int time, bool correctMistakes, bool lockUi, bool hideText)" id="MainWindow::initTest_a3f2b179d0bef1c1671c962ca65177405" ref="classMainWindow.html#a3f2b179d0bef1c1671c962ca65177405"/>
+<keyword name="initText(QString rawText)" id="ConfigParser::initText_a176cc75091e1822b204addea2f20fd91" ref="classConfigParser.html#a176cc75091e1822b204addea2f20fd91"/>
+<keyword name="initTimedExercise(void)" id="MainWindow::initTimedExercise_ab2398ce3056ff2737a4960ef56c0bb45" ref="classMainWindow.html#ab2398ce3056ff2737a4960ef56c0bb45"/>
+<keyword name="InputLabelWidget(QWidget *parent=nullptr)" id="InputLabelWidget::InputLabelWidget_acba628d625ef62c79a0ca4c28f4e8f03" ref="classInputLabelWidget.html#acba628d625ef62c79a0ca4c28f4e8f03"/>
+<keyword name="inputMethodEvent(QInputMethodEvent *event)" id="InputLabelWidget::inputMethodEvent_aa571d4a475fd9e7195bafef2f225cd03" ref="classInputLabelWidget.html#aa571d4a475fd9e7195bafef2f225cd03"/>
+<keyword name="inputTextColor(void)" id="Settings::inputTextColor_a53742b4e42c9502c87dc24426967d942" ref="classSettings.html#a53742b4e42c9502c87dc24426967d942"/>
+<keyword name="inputTextColor(void)" id="ThemeEngine::inputTextColor_aba7068de9aa14f9c1c067da83f9f0ce1" ref="classThemeEngine.html#aba7068de9aa14f9c1c067da83f9f0ce1"/>
+<keyword name="inputTextColorChanged()" id="ThemeEngine::inputTextColorChanged_ad8d60354fd50b6905efa01fc2f169917" ref="classThemeEngine.html#ad8d60354fd50b6905efa01fc2f169917"/>
+<keyword name="inputTextStyleSheet(void)" id="ThemeEngine::inputTextStyleSheet_ac3fe762e0751e228ad75c200f05f64a2" ref="classThemeEngine.html#ac3fe762e0751e228ad75c200f05f64a2"/>
+<keyword name="installUpdate(void)" id="Updater::installUpdate_a9ff89e5363abb616c933afd9d9ee3a05" ref="classUpdater.html#a9ff89e5363abb616c933afd9d9ee3a05"/>
+<keyword name="instance(void)" id="AddonApi::instance_a0f57acaa691d80d881a37119001d0429" ref="classAddonApi.html#a0f57acaa691d80d881a37119001d0429"/>
+<keyword name="isDeadKey(int key)" id="KeyboardUtils::isDeadKey_a8ca48ddd9b5308721114479780022602" ref="classKeyboardUtils.html#a8ca48ddd9b5308721114479780022602"/>
+<keyword name="isSpecialKey(QKeyEvent *event)" id="KeyboardUtils::isSpecialKey_a0337b7917c6b419ebc10d786e07e9ae0" ref="classKeyboardUtils.html#a0337b7917c6b419ebc10d786e07e9ae0"/>
+<keyword name="KeyboardOptions(QWidget *parent=nullptr)" id="KeyboardOptions::KeyboardOptions_aecd3f551f721562fe13d38d32edfa35f" ref="classKeyboardOptions.html#aecd3f551f721562fe13d38d32edfa35f"/>
+<keyword name="keyboardVisible(void)" id="Settings::keyboardVisible_ae071d946bd38c8a6fc2f9855dbf17a87" ref="classSettings.html#ae071d946bd38c8a6fc2f9855dbf17a87"/>
+<keyword name="KeyboardWidget(QWidget *parent=nullptr)" id="KeyboardWidget::KeyboardWidget_a48a347f0fb47938ab227ff8cc04adf0c" ref="classKeyboardWidget.html#a48a347f0fb47938ab227ff8cc04adf0c"/>
+<keyword name="keyFinger(int keyX, int keyY)" id="KeyboardWidget::keyFinger_acdbc40f99bd17ad02fe2b94a993639a7" ref="classKeyboardWidget.html#acdbc40f99bd17ad02fe2b94a993639a7"/>
+<keyword name="keyPress(QKeyEvent *event)" id="MainWindow::keyPress_a131395c8e31213731167e0c9111a8143" ref="classMainWindow.html#a131395c8e31213731167e0c9111a8143"/>
+<keyword name="keyPressEvent(QKeyEvent *event) override" id="PackEditor::keyPressEvent_a3bea4fd98dc425b279e055c76121fa73" ref="classPackEditor.html#a3bea4fd98dc425b279e055c76121fa73"/>
+<keyword name="keyPressEvent(QKeyEvent *event)" id="InputLabelWidget::keyPressEvent_ab265be94b197a0cb621cb45a09aa0fe8" ref="classInputLabelWidget.html#ab265be94b197a0cb621cb45a09aa0fe8"/>
+<keyword name="keyRelease(QKeyEvent *event)" id="MainWindow::keyRelease_a19316193ed6828d48b35532fdaf9b195" ref="classMainWindow.html#a19316193ed6828d48b35532fdaf9b195"/>
+<keyword name="keyReleaseEvent(QKeyEvent *event)" id="InputLabelWidget::keyReleaseEvent_a3fbd6e164f142deb5c21dd1fc4081587" ref="classInputLabelWidget.html#a3fbd6e164f142deb5c21dd1fc4081587"/>
+<keyword name="language(void)" id="Settings::language_a4413cca4ec84bf69005b9e633f6f31be" ref="classSettings.html#a4413cca4ec84bf69005b9e633f6f31be"/>
+<keyword name="LanguageList(QWidget *parent=nullptr)" id="LanguageList::LanguageList_affec071f1902215060b084c0c6ad6134" ref="classLanguageList.html#affec071f1902215060b084c0c6ad6134"/>
+<keyword name="LanguageManager(QObject *parent=nullptr)" id="LanguageManager::LanguageManager_a259bae6dacf34023c6d03d2bcb16bcb4" ref="classLanguageManager.html#a259bae6dacf34023c6d03d2bcb16bcb4"/>
+<keyword name="lcsLen(QList&lt; QVariant &gt; source, QList&lt; QVariant &gt; target)" id="StringUtils::lcsLen_aa7a32f8e86ff298ee63ff0644d16279c" ref="classStringUtils.html#aa7a32f8e86ff298ee63ff0644d16279c"/>
+<keyword name="lessonCount(void)" id="ConfigParser::lessonCount_a6f765dfbf2e86f2c7bef3cf2738151de" ref="classConfigParser.html#a6f765dfbf2e86f2c7bef3cf2738151de"/>
+<keyword name="lessonDesc(int lesson)" id="ConfigParser::lessonDesc_a28184ccdcf4ef2e556e80ac129eacc57" ref="classConfigParser.html#a28184ccdcf4ef2e556e80ac129eacc57"/>
+<keyword name="lessonPack(void)" id="Settings::lessonPack_a9a89dc27fbbc64bd21d20adf0e9b8432" ref="classSettings.html#a9a89dc27fbbc64bd21d20adf0e9b8432"/>
+<keyword name="lessonSelectionListIndexChanged(int index)" id="MainWindow::lessonSelectionListIndexChanged_a950de9d84dcda60c1beb13db1602e366" ref="classMainWindow.html#a950de9d84dcda60c1beb13db1602e366"/>
+<keyword name="lessonTr(int id)" id="ConfigParser::lessonTr_a598efd5111ebd753537ad8ea46b34ae4" ref="classConfigParser.html#a598efd5111ebd753537ad8ea46b34ae4"/>
+<keyword name="levelFinalInit(void)" id="MainWindow::levelFinalInit_a9b80a6a34b529c9f18599a28693b7459" ref="classMainWindow.html#a9b80a6a34b529c9f18599a28693b7459"/>
+<keyword name="levelSelectionListIndexChanged(int index)" id="MainWindow::levelSelectionListIndexChanged_acb2682bb01e2fe5d78c61a1c17d446c9" ref="classMainWindow.html#acb2682bb01e2fe5d78c61a1c17d446c9"/>
+<keyword name="lineLength(void)" id="LoadExerciseDialog::lineLength_a39f4e7a8237dc93b60c2a7e04a14fefa" ref="classLoadExerciseDialog.html#a39f4e7a8237dc93b60c2a7e04a14fefa"/>
+<keyword name="lineOf(int lesson, int sublesson, int exercise)" id="ConfigParser::lineOf_ab6d0ab7d7fb96ac2b6bf42a3c39022a5" ref="classConfigParser.html#ab6d0ab7d7fb96ac2b6bf42a3c39022a5"/>
+<keyword name="loadAddonParts(void)" id="MainWindow::loadAddonParts_a6a5130e7aee51660c4bb6d911a6706ba" ref="classMainWindow.html#a6a5130e7aee51660c4bb6d911a6706ba"/>
+<keyword name="loadConfig(QString configName, QByteArray packContent=&quot;&quot;)" id="MainWindow::loadConfig_a44b37ae4ed3b511529cbf6de6e7a842d" ref="classMainWindow.html#a44b37ae4ed3b511529cbf6de6e7a842d"/>
+<keyword name="loadErrorWords(void)" id="MainWindow::loadErrorWords_ae76b7a1cac6ea1c1ff740d90c9edd858" ref="classMainWindow.html#ae76b7a1cac6ea1c1ff740d90c9edd858"/>
+<keyword name="LoadExerciseDialog(QMap&lt; int, QString &gt; availableTargets, QWidget *parent=nullptr)" id="LoadExerciseDialog::LoadExerciseDialog_aecc065f4e1a5c4983ef37c05d35e1ac3" ref="classLoadExerciseDialog.html#aecc065f4e1a5c4983ef37c05d35e1ac3"/>
+<keyword name="LoadExerciseDialog(QWidget *parent=nullptr)" id="LoadExerciseDialog::LoadExerciseDialog_adb4763a1e2f2122f7bcc2e37835d9ec6" ref="classLoadExerciseDialog.html#adb4763a1e2f2122f7bcc2e37835d9ec6"/>
+<keyword name="loadExTargets(void)" id="AddonApi::loadExTargets_a04f4479501c7685293f215d2cee04c9c" ref="classAddonApi.html#a04f4479501c7685293f215d2cee04c9c"/>
+<keyword name="loadLayout(QLocale::Language language, QLocale::Country country, QString variant)" id="KeyboardWidget::loadLayout_ad7bc54e4f9e90c02b0e71e27c0b7b0c9" ref="classKeyboardWidget.html#ad7bc54e4f9e90c02b0e71e27c0b7b0c9"/>
+<keyword name="loadLesson(int lessonID, int sublessonID)" id="MainWindow::loadLesson_aa40536007dbc09029dec9d3671624a4b" ref="classMainWindow.html#aa40536007dbc09029dec9d3671624a4b"/>
+<keyword name="loadList(void)" id="InitialSetup::loadList_ac307c73ea94619d9f1ff5914e59ac5d7" ref="classInitialSetup.html#ac307c73ea94619d9f1ff5914e59ac5d7"/>
+<keyword name="loadReversedText(void)" id="MainWindow::loadReversedText_a29ac5db0c5976cd3f3f0662d757126f6" ref="classMainWindow.html#a29ac5db0c5976cd3f3f0662d757126f6"/>
+<keyword name="loadSublesson(int levelID)" id="MainWindow::loadSublesson_a547fabf44623133dbc22a4430fb25d4e" ref="classMainWindow.html#a547fabf44623133dbc22a4430fb25d4e"/>
+<keyword name="loadText(QByteArray text, bool includeNewLines=false)" id="MainWindow::loadText_a724228e8cb2ad0feae398a34414dba4a" ref="classMainWindow.html#a724228e8cb2ad0feae398a34414dba4a"/>
+<keyword name="loadTheme(void)" id="MainWindow::loadTheme_a3873af615b4d6308148635ca00dd15fa" ref="classMainWindow.html#a3873af615b4d6308148635ca00dd15fa"/>
+<keyword name="loadToBuffer(const QByteArray content)" id="ConfigParser::loadToBuffer_a7d5e1a774cb84296eedc3d31faed9cb8" ref="classConfigParser.html#a7d5e1a774cb84296eedc3d31faed9cb8"/>
+<keyword name="lockUi(void)" id="LoadExerciseDialog::lockUi_af5f71cb93385a9b9cf75b2e868cc2989" ref="classLoadExerciseDialog.html#af5f71cb93385a9b9cf75b2e868cc2989"/>
+<keyword name="longestCommonSubsequence(QList&lt; QVariant &gt; source, QList&lt; QVariant &gt; target)" id="StringUtils::longestCommonSubsequence_a3aa03dc898fd5ec00acc651caa1ba3fa" ref="classStringUtils.html#a3aa03dc898fd5ec00acc651caa1ba3fa"/>
+<keyword name="longestCommonSubsequence(QString source, QString target)" id="StringUtils::longestCommonSubsequence_a4dc8e5abc8d734c17fa4a7e33bfc10f3" ref="classStringUtils.html#a4dc8e5abc8d734c17fa4a7e33bfc10f3"/>
+<keyword name="mainSettingsLocation(void)" id="FileUtils::mainSettingsLocation_a5741d5a9f6870bb75972ded949da4734" ref="classFileUtils.html#a5741d5a9f6870bb75972ded949da4734"/>
+<keyword name="MainWindow(QWidget *parent=nullptr)" id="MainWindow::MainWindow_a996c5a2b6f77944776856f08ec30858d" ref="classMainWindow.html#a996c5a2b6f77944776856f08ec30858d"/>
+<keyword name="maxFontSize(void)" id="ThemeEngine::maxFontSize_af88cad28340446a4585efeb7acd6e800" ref="classThemeEngine.html#af88cad28340446a4585efeb7acd6e800"/>
+<keyword name="menu(QString id)" id="AddonApi::menu_a17469bf0872be812a67ce68bda3df981" ref="classAddonApi.html#a17469bf0872be812a67ce68bda3df981"/>
+<keyword name="menus(void)" id="AddonApi::menus_a3cbb5a6359009d3f46390edc8897fe4a" ref="classAddonApi.html#a3cbb5a6359009d3f46390edc8897fe4a"/>
+<keyword name="mistakeChars(void)" id="Settings::mistakeChars_a13a1998415c8bf5b02d6f97a5159c1c6" ref="classSettings.html#a13a1998415c8bf5b02d6f97a5159c1c6"/>
+<keyword name="mistakeLimit(void)" id="Settings::mistakeLimit_ab8973d69a752017d6806325f7233ce8d" ref="classSettings.html#ab8973d69a752017d6806325f7233ce8d"/>
+<keyword name="mode(void)" id="LoadExerciseDialog::mode_a29486b87b486283a4d8a26101f3d18f5" ref="classLoadExerciseDialog.html#a29486b87b486283a4d8a26101f3d18f5"/>
+<keyword name="mouseMoveEvent(QMouseEvent *event)" id="TextView::mouseMoveEvent_acf8089b3d98283e424214a83fc5adaaa" ref="classTextView.html#acf8089b3d98283e424214a83fc5adaaa"/>
+<keyword name="nextLevel(void)" id="MainWindow::nextLevel_a3e9c9b85fad0620abced01da52b8f273" ref="classMainWindow.html#a3e9c9b85fad0620abced01da52b8f273"/>
+<keyword name="nextRow(void)" id="KeyboardWidget::nextRow_a568140343626e1d2fedde6057e213e0e" ref="classKeyboardWidget.html#a568140343626e1d2fedde6057e213e0e"/>
+<keyword name="number(void)" id="ExportDialog::number_a742a4864ac1afb75992e7bb55f10e5b0" ref="classExportDialog.html#a742a4864ac1afb75992e7bb55f10e5b0"/>
+<keyword name="open(const QString fileName)" id="ConfigParser::open_a855cb1214e76172a62b23a1394e7ce0a" ref="classConfigParser.html#a855cb1214e76172a62b23a1394e7ce0a"/>
+<keyword name="openEditor(void)" id="MainWindow::openEditor_a143ad8adc8d3149b84270df25b18c7bd" ref="classMainWindow.html#a143ad8adc8d3149b84270df25b18c7bd"/>
+<keyword name="openExerciseFromFile(void)" id="MainWindow::openExerciseFromFile_a9aed1d677669874aa3562d82e7b24557" ref="classMainWindow.html#a9aed1d677669874aa3562d82e7b24557"/>
+<keyword name="openFile(QString path, bool newf, bool rdonly)" id="PackEditor::openFile_a9b920ac322240930e3b0205a4ffe9420" ref="classPackEditor.html#a9b920ac322240930e3b0205a4ffe9420"/>
+<keyword name="openFile(void)" id="PackEditor::openFile_a5a1952b52505582a85a2386c8e5456a7" ref="classPackEditor.html#a5a1952b52505582a85a2386c8e5456a7"/>
+<keyword name="openFile(void)" id="LoadExerciseDialog::openFile_a2059cf3c30b8fadb018f491c920fa185" ref="classLoadExerciseDialog.html#a2059cf3c30b8fadb018f491c920fa185"/>
+<keyword name="openOptions(void)" id="MainWindow::openOptions_ad1db396de43cab5ccd76098ccde18316" ref="classMainWindow.html#ad1db396de43cab5ccd76098ccde18316"/>
+<keyword name="openPack(void)" id="MainWindow::openPack_a5717af072a61b2f566ca9bb904db5798" ref="classMainWindow.html#a5717af072a61b2f566ca9bb904db5798"/>
+<keyword name="openPrebuilt(void)" id="PackEditor::openPrebuilt_a513c9ffab729ced5c10abd101ffe13ea" ref="classPackEditor.html#a513c9ffab729ced5c10abd101ffe13ea"/>
+<keyword name="OptionsWindow(QWidget *parent=nullptr)" id="OptionsWindow::OptionsWindow_a449c0121a7519c281796d5bea8c965c3" ref="classOptionsWindow.html#a449c0121a7519c281796d5bea8c965c3"/>
+<keyword name="PackEditor(QWidget *parent=nullptr)" id="PackEditor::PackEditor_af6987e739428e0a112362cdf66a93f65" ref="classPackEditor.html#af6987e739428e0a112362cdf66a93f65"/>
+<keyword name="packName(QString rawName)" id="BuiltInPacks::packName_ad79ca5bccb3aedcbb92ccc36af1c7f95" ref="classBuiltInPacks.html#ad79ca5bccb3aedcbb92ccc36af1c7f95"/>
+<keyword name="PackSelector(QWidget *parent=nullptr)" id="PackSelector::PackSelector_aef60757b6d71a0f705fa8af3228be891" ref="classPackSelector.html#aef60757b6d71a0f705fa8af3228be891"/>
+<keyword name="panelColor(void)" id="Settings::panelColor_aae8d5bf426b499ebf545b0b07d3f460a" ref="classSettings.html#aae8d5bf426b499ebf545b0b07d3f460a"/>
+<keyword name="panelColor(void)" id="ThemeEngine::panelColor_a6374bcc8a26622e6b0394f20ce95fa7c" ref="classThemeEngine.html#a6374bcc8a26622e6b0394f20ce95fa7c"/>
+<keyword name="panelColorChanged()" id="ThemeEngine::panelColorChanged_a9446e76ad2bcd6ebd2d1e00696443430" ref="classThemeEngine.html#a9446e76ad2bcd6ebd2d1e00696443430"/>
+<keyword name="panelStyleSheet(void)" id="ThemeEngine::panelStyleSheet_a631c314e2642485438acf0f2c23d0839" ref="classThemeEngine.html#a631c314e2642485438acf0f2c23d0839"/>
+<keyword name="paperColor(void)" id="Settings::paperColor_a168947696f1fb0555192d4a9b890ac33" ref="classSettings.html#a168947696f1fb0555192d4a9b890ac33"/>
+<keyword name="paperColor(void)" id="ThemeEngine::paperColor_aa4336ba4441a9121ab8718a9cd103313" ref="classThemeEngine.html#aa4336ba4441a9121ab8718a9cd103313"/>
+<keyword name="paperColorChanged()" id="ThemeEngine::paperColorChanged_a11518ade9cbcd24be4188509ee90577c" ref="classThemeEngine.html#a11518ade9cbcd24be4188509ee90577c"/>
+<keyword name="paperStyleSheet(void)" id="ThemeEngine::paperStyleSheet_a7026579d6022208d004cd94f7ed6327d" ref="classThemeEngine.html#a7026579d6022208d004cd94f7ed6327d"/>
+<keyword name="parseDesc(QString desc)" id="ConfigParser::parseDesc_a8d23af1382675361af5dbf9d0bdd7b64" ref="classConfigParser.html#a8d23af1382675361af5dbf9d0bdd7b64"/>
+<keyword name="previousLevel(void)" id="MainWindow::previousLevel_a30dcac7da604ee3eaa65f82b6b613ed6" ref="classMainWindow.html#a30dcac7da604ee3eaa65f82b6b613ed6"/>
+<keyword name="printResult(void)" id="ExportDialog::printResult_a86463acebc899e9b6731e99266f05ad1" ref="classExportDialog.html#a86463acebc899e9b6731e99266f05ad1"/>
+<keyword name="printText(void)" id="MainWindow::printText_afc16ea94f996fdefeed7cea1f6e93160" ref="classMainWindow.html#afc16ea94f996fdefeed7cea1f6e93160"/>
+<keyword name="recreateWidget(QWidget *oldWidget, QWidget *newWidget)" id="AddonApi::recreateWidget_ae47f74d93756e5e9b1a9c921d10a0f98" ref="classAddonApi.html#ae47f74d93756e5e9b1a9c921d10a0f98"/>
+<keyword name="refreshAll(void)" id="MainWindow::refreshAll_a857e76dde1644881a486492dab93d0c6" ref="classMainWindow.html#a857e76dde1644881a486492dab93d0c6"/>
+<keyword name="refreshUi(bool newLesson, bool newSublesson, bool newExercise)" id="PackEditor::refreshUi_a0efd33e1dda147dd20450c121f13f824" ref="classPackEditor.html#a0efd33e1dda147dd20450c121f13f824"/>
+<keyword name="registerButton(QString id, QPushButton *button)" id="AddonApi::registerButton_af94ce133cc8ce0926bd30ced5219f459" ref="classAddonApi.html#af94ce133cc8ce0926bd30ced5219f459"/>
+<keyword name="registerKey(int x, int y, QString keyLabelText, int keyCode, int shiftKeyCode)" id="KeyboardWidget::registerKey_aecbc16b69f0020a2c1cbac9e9ba33579" ref="classKeyboardWidget.html#aecbc16b69f0020a2c1cbac9e9ba33579"/>
+<keyword name="registerMenu(QString id, QMenu *menu)" id="AddonApi::registerMenu_af333a20cb2e152059a14ff9fb8c9bf38" ref="classAddonApi.html#af333a20cb2e152059a14ff9fb8c9bf38"/>
+<keyword name="registerTopBarWidget(QString id, QWidget *widget)" id="AddonApi::registerTopBarWidget_ae97a568b62652b1c5545ddc66a607c34" ref="classAddonApi.html#ae97a568b62652b1c5545ddc66a607c34"/>
+<keyword name="removeExercise(void)" id="PackEditor::removeExercise_ad66f9641629ab651af6b38ce4be2a1a6" ref="classPackEditor.html#ad66f9641629ab651af6b38ce4be2a1a6"/>
+<keyword name="reopen(QIODevice::OpenMode mode)" id="ConfigParser::reopen_ad33d56af678354704faa902dca87fa75" ref="classConfigParser.html#ad33d56af678354704faa902dca87fa75"/>
+<keyword name="repeatLevel(void)" id="MainWindow::repeatLevel_a08db8d81a51f89897c3ef423f81f24fd" ref="classMainWindow.html#a08db8d81a51f89897c3ef423f81f24fd"/>
+<keyword name="resetBgColor(void)" id="ThemeEngine::resetBgColor_a89e81d8e57e3a4e571a76c9f35b008b0" ref="classThemeEngine.html#a89e81d8e57e3a4e571a76c9f35b008b0"/>
+<keyword name="resetBgPaperColors(void)" id="AppearanceOptions::resetBgPaperColors_a49657408e0244726bc692bb3cb9017d5" ref="classAppearanceOptions.html#a49657408e0244726bc692bb3cb9017d5"/>
+<keyword name="resetExerciseTextColor(void)" id="ThemeEngine::resetExerciseTextColor_adda1f57bb0cd5a1a32727ab77ee7fbfa" ref="classThemeEngine.html#adda1f57bb0cd5a1a32727ab77ee7fbfa"/>
+<keyword name="resetInputTextColor(void)" id="ThemeEngine::resetInputTextColor_a01bcad73b52181f32658b1e36bd73b41" ref="classThemeEngine.html#a01bcad73b52181f32658b1e36bd73b41"/>
+<keyword name="resetKeyColor(QFrame *targetKey)" id="KeyboardWidget::resetKeyColor_a9419f49bbdaef09e3d5735d30ef75426" ref="classKeyboardWidget.html#a9419f49bbdaef09e3d5735d30ef75426"/>
+<keyword name="resetPanelColor(void)" id="ThemeEngine::resetPanelColor_a30152cb9220a72f13efa881a2a32fe6b" ref="classThemeEngine.html#a30152cb9220a72f13efa881a2a32fe6b"/>
+<keyword name="resetPaperColor(void)" id="ThemeEngine::resetPaperColor_a0e069ad1dd539de80050bdc14b7d75f2" ref="classThemeEngine.html#a0e069ad1dd539de80050bdc14b7d75f2"/>
+<keyword name="resetTextColors(void)" id="AppearanceOptions::resetTextColors_a3e6d2f9a4f0242b46bb9a810294acaa9" ref="classAppearanceOptions.html#a3e6d2f9a4f0242b46bb9a810294acaa9"/>
+<keyword name="restoreText(void)" id="PackEditor::restoreText_a550737c9c954fd3c6a39993147ed3b96" ref="classPackEditor.html#a550737c9c954fd3c6a39993147ed3b96"/>
+<keyword name="save(void)" id="PackEditor::save_af44363b1191de9ecd24a83cc7d4eaa99" ref="classPackEditor.html#af44363b1191de9ecd24a83cc7d4eaa99"/>
+<keyword name="saveAs(void)" id="PackEditor::saveAs_a434ff9a228913ad11c8ebcd3f63c4a93" ref="classPackEditor.html#a434ff9a228913ad11c8ebcd3f63c4a93"/>
+<keyword name="selectCurrentFullTheme(void)" id="AppearanceOptions::selectCurrentFullTheme_a5c8acc3336a2a865b4a2b048271c20ea" ref="classAppearanceOptions.html#a5c8acc3336a2a865b4a2b048271c20ea"/>
+<keyword name="selectedConfig(void)" id="PackSelector::selectedConfig_ad77be72bffc1df3452456e5fc9a6e025" ref="classPackSelector.html#ad77be72bffc1df3452456e5fc9a6e025"/>
+<keyword name="selectedTargets(void)" id="LoadExerciseDialog::selectedTargets_ad241be5fa79e84c0981eea68b30cfee3" ref="classLoadExerciseDialog.html#ad241be5fa79e84c0981eea68b30cfee3"/>
+<keyword name="sendEvent(IAddon::Event type, QVariantMap args=QVariantMap())" id="AddonApi::sendEvent_aa8c8cccc1a7466c93715f6d3bd1d8ee9" ref="classAddonApi.html#aa8c8cccc1a7466c93715f6d3bd1d8ee9"/>
+<keyword name="set(QString key, QVariant value)" id="Settings::set_ac31b7152d8b48b4c9ce84b47ea07474b" ref="classSettings.html#ac31b7152d8b48b4c9ce84b47ea07474b"/>
+<keyword name="setAccuracy(double accuracy)" id="ExerciseSummary::setAccuracy_af3a25052528442611064a7aaa90bf9ca" ref="classExerciseSummary.html#af3a25052528442611064a7aaa90bf9ca"/>
+<keyword name="setAdvancedTheme(bool value)" id="Settings::setAdvancedTheme_aaa4bf964ede5454de69b456f4f2339f0" ref="classSettings.html#aaa4bf964ede5454de69b456f4f2339f0"/>
+<keyword name="setApplicationStyle(ThemeEngine::Style value)" id="Settings::setApplicationStyle_a2e7805e90fc2424ed87d8c74836a8a5e" ref="classSettings.html#a2e7805e90fc2424ed87d8c74836a8a5e"/>
+<keyword name="setApplicationTheme(QString value)" id="Settings::setApplicationTheme_a1fb807b7090b6bf01623d819372028c6" ref="classSettings.html#a1fb807b7090b6bf01623d819372028c6"/>
+<keyword name="setBgColor(QRgb value)" id="Settings::setBgColor_aeba7864189522921d9063e5884913265" ref="classSettings.html#aeba7864189522921d9063e5884913265"/>
+<keyword name="setBgColor(QColor color)" id="ThemeEngine::setBgColor_ac9cbf59998b640f4928fc628d3166182" ref="classThemeEngine.html#ac9cbf59998b640f4928fc628d3166182"/>
+<keyword name="setBlockLoadedEx(bool value)" id="AddonApi::setBlockLoadedEx_af7afc76b0281b3daa564ce9e5e2f63be" ref="classAddonApi.html#af7afc76b0281b3daa564ce9e5e2f63be"/>
+<keyword name="setBoldText(void)" id="AppearanceOptions::setBoldText_ae4388052951659d009d41dc90743986d" ref="classAppearanceOptions.html#ae4388052951659d009d41dc90743986d"/>
+<keyword name="setClassName(QString name)" id="ExportDialog::setClassName_ad2158b48086683e347ed510c56af5741" ref="classExportDialog.html#ad2158b48086683e347ed510c56af5741"/>
+<keyword name="setColors(void)" id="MainWindow::setColors_a797eeae6f5183d5c5669efe508bb498f" ref="classMainWindow.html#a797eeae6f5183d5c5669efe508bb498f"/>
+<keyword name="setColors()" id="AppearanceOptions::setColors_a4fbc8b1a1bc1f74514fe0a4ea222ba35" ref="classAppearanceOptions.html#a4fbc8b1a1bc1f74514fe0a4ea222ba35"/>
+<keyword name="setCustomBgColor(bool value)" id="Settings::setCustomBgColor_a52348dac23d8a4858c65d316a76a7988" ref="classSettings.html#a52348dac23d8a4858c65d316a76a7988"/>
+<keyword name="setCustomExerciseTextColor(bool value)" id="Settings::setCustomExerciseTextColor_a555d0726d3e3ab38abd6ce29b854ba77" ref="classSettings.html#a555d0726d3e3ab38abd6ce29b854ba77"/>
+<keyword name="setCustomInputTextColor(bool value)" id="Settings::setCustomInputTextColor_a90b075bb88e14ef400f6589828ad5b83" ref="classSettings.html#a90b075bb88e14ef400f6589828ad5b83"/>
+<keyword name="setCustomLessonPack(bool value)" id="Settings::setCustomLessonPack_a3e2614edbb4c6ac4e8f58d8b3af0ca81" ref="classSettings.html#a3e2614edbb4c6ac4e8f58d8b3af0ca81"/>
+<keyword name="setCustomPanelColor(bool value)" id="Settings::setCustomPanelColor_a32711cfe67698090fed1b3fb8a57140d" ref="classSettings.html#a32711cfe67698090fed1b3fb8a57140d"/>
+<keyword name="setCustomPaperColor(bool value)" id="Settings::setCustomPaperColor_a8366184dcfcbf0459368a3c1f1028a08" ref="classSettings.html#a8366184dcfcbf0459368a3c1f1028a08"/>
+<keyword name="setEditorGeometry(QByteArray value)" id="Settings::setEditorGeometry_aca296d6bb249099e1de3efd4df682b83" ref="classSettings.html#aca296d6bb249099e1de3efd4df682b83"/>
+<keyword name="setErrorPenalty(int value)" id="BehaviorOptions::setErrorPenalty_a741f35b6b7b033a9367ddd55870c559f" ref="classBehaviorOptions.html#a741f35b6b7b033a9367ddd55870c559f"/>
+<keyword name="setErrorPenalty(int value)" id="Settings::setErrorPenalty_ab34e4f196e73e4d549da06aca6370935" ref="classSettings.html#ab34e4f196e73e4d549da06aca6370935"/>
+<keyword name="setExerciseTextColor(QRgb value)" id="Settings::setExerciseTextColor_a771d911b55fd2a5b8d3efdd451e83f73" ref="classSettings.html#a771d911b55fd2a5b8d3efdd451e83f73"/>
+<keyword name="setExerciseTextColor(QColor color)" id="ThemeEngine::setExerciseTextColor_aac9f06296b7922483b51f65ca899a0cc" ref="classThemeEngine.html#aac9f06296b7922483b51f65ca899a0cc"/>
+<keyword name="setFont(QFont newFont)" id="ThemeEngine::setFont_a7eeae04ae7570d187f9a85dd1fcb8ace" ref="classThemeEngine.html#a7eeae04ae7570d187f9a85dd1fcb8ace"/>
+<keyword name="setFontBold(bool value)" id="ThemeEngine::setFontBold_adb96145484cf6718c753989310fb5898" ref="classThemeEngine.html#adb96145484cf6718c753989310fb5898"/>
+<keyword name="setFontFamily(QString family)" id="ThemeEngine::setFontFamily_ae8f5ec56107b6d27e78eedfc18d90308" ref="classThemeEngine.html#ae8f5ec56107b6d27e78eedfc18d90308"/>
+<keyword name="setFontItalic(bool value)" id="ThemeEngine::setFontItalic_a9992cad2db194beaf44b997c9cb88bae" ref="classThemeEngine.html#a9992cad2db194beaf44b997c9cb88bae"/>
+<keyword name="setFontSize(int size)" id="ThemeEngine::setFontSize_ab4057a1a5034e0518cb46f4a5f126ae2" ref="classThemeEngine.html#ab4057a1a5034e0518cb46f4a5f126ae2"/>
+<keyword name="setFontUnderline(bool value)" id="ThemeEngine::setFontUnderline_a010614c9aefd1f03754eda11f1a4d06d" ref="classThemeEngine.html#a010614c9aefd1f03754eda11f1a4d06d"/>
+<keyword name="setGrade(QString grade)" id="ExportDialog::setGrade_a07e3159a114d327eba6a14a330cb6044" ref="classExportDialog.html#a07e3159a114d327eba6a14a330cb6044"/>
+<keyword name="setGrossHits(int hits)" id="ExerciseSummary::setGrossHits_af62cbac625adc9035306dc005db754c2" ref="classExerciseSummary.html#af62cbac625adc9035306dc005db754c2"/>
+<keyword name="setHorizontalAdjust(bool value)" id="TextView::setHorizontalAdjust_af548b60361601d4ed739004a00b89b12" ref="classTextView.html#af548b60361601d4ed739004a00b89b12"/>
+<keyword name="setInputTextColor(QRgb value)" id="Settings::setInputTextColor_aa378d1a46eb34970fca4ca6415a1e15b" ref="classSettings.html#aa378d1a46eb34970fca4ca6415a1e15b"/>
+<keyword name="setInputTextColor(QColor color)" id="ThemeEngine::setInputTextColor_a857e487c50702c6b471c0001bc79341c" ref="classThemeEngine.html#a857e487c50702c6b471c0001bc79341c"/>
+<keyword name="setItalicText(void)" id="AppearanceOptions::setItalicText_aca7ef797c141834ab386a0bb70c1e6e3" ref="classAppearanceOptions.html#aca7ef797c141834ab386a0bb70c1e6e3"/>
+<keyword name="setKeyboardVisible(bool visible, bool changeVisibility=true)" id="KeyboardWidget::setKeyboardVisible_ab8816568d0e3d101a6bace5e632c60a9" ref="classKeyboardWidget.html#ab8816568d0e3d101a6bace5e632c60a9"/>
+<keyword name="setKeyboardVisible(bool value)" id="Settings::setKeyboardVisible_a4f5c2732b71ec11306bd32e7666f68bc" ref="classSettings.html#a4f5c2732b71ec11306bd32e7666f68bc"/>
+<keyword name="setKeyColor(QColor color, QColor borderColor)" id="KeyboardWidget::setKeyColor_abd926cd276650cfa29e12db728309636" ref="classKeyboardWidget.html#abd926cd276650cfa29e12db728309636"/>
+<keyword name="setLanguage(int index)" id="LanguageManager::setLanguage_a1ca9d04c574157a66584aae1192bbcaa" ref="classLanguageManager.html#a1ca9d04c574157a66584aae1192bbcaa"/>
+<keyword name="setLanguage(QString value)" id="Settings::setLanguage_ae1742bd3fe8c90055ba5b175bc8e9e89" ref="classSettings.html#ae1742bd3fe8c90055ba5b175bc8e9e89"/>
+<keyword name="setLessonPack(QString value)" id="Settings::setLessonPack_ab82b0926a7f29af46488a6008c77007f" ref="classSettings.html#ab82b0926a7f29af46488a6008c77007f"/>
+<keyword name="setMistakeChars(int value)" id="BehaviorOptions::setMistakeChars_a3a2bbcc7a942184abb11040072421464" ref="classBehaviorOptions.html#a3a2bbcc7a942184abb11040072421464"/>
+<keyword name="setMistakeChars(int value)" id="Settings::setMistakeChars_a082085f71585e07fa5aa7dfbd323ebf7" ref="classSettings.html#a082085f71585e07fa5aa7dfbd323ebf7"/>
+<keyword name="setMistakeLimit(bool value)" id="Settings::setMistakeLimit_a8622c38fb23c78cc077d7b08c1403c0d" ref="classSettings.html#a8622c38fb23c78cc077d7b08c1403c0d"/>
+<keyword name="setMistakes(int mistakes)" id="ExerciseSummary::setMistakes_add7111360a4eec77e0998d2ff2296ac6" ref="classExerciseSummary.html#add7111360a4eec77e0998d2ff2296ac6"/>
+<keyword name="setNetHits(int hits)" id="ExerciseSummary::setNetHits_a4b0a707fb1b24a3c757257e001449efd" ref="classExerciseSummary.html#a4b0a707fb1b24a3c757257e001449efd"/>
+<keyword name="setNumber(QString number)" id="ExportDialog::setNumber_a8fc751c4b2a3c24933821c4734ac02ef" ref="classExportDialog.html#a8fc751c4b2a3c24933821c4734ac02ef"/>
+<keyword name="setPanelColor(QRgb value)" id="Settings::setPanelColor_a587ff100f0452684cf08ee0600fa646a" ref="classSettings.html#a587ff100f0452684cf08ee0600fa646a"/>
+<keyword name="setPanelColor(QColor color)" id="ThemeEngine::setPanelColor_a88e2f1ae899d697405611b67bb0f4730" ref="classThemeEngine.html#a88e2f1ae899d697405611b67bb0f4730"/>
+<keyword name="setPaperColor(QRgb value)" id="Settings::setPaperColor_ab16eb350d74c22bc010a12257a73f413" ref="classSettings.html#ab16eb350d74c22bc010a12257a73f413"/>
+<keyword name="setPaperColor(QColor color)" id="ThemeEngine::setPaperColor_a752fbf47933c0fe55f02cee1f366b9fb" ref="classThemeEngine.html#a752fbf47933c0fe55f02cee1f366b9fb"/>
+<keyword name="setRevisionLesson(void)" id="PackEditor::setRevisionLesson_aa53684c07b11eb3ef0efc8cb523d9f5a" ref="classPackEditor.html#aa53684c07b11eb3ef0efc8cb523d9f5a"/>
+<keyword name="setSettingsLockEnabled(bool value)" id="Settings::setSettingsLockEnabled_af6114fe42956c78d065b58fb9181eb28" ref="classSettings.html#af6114fe42956c78d065b58fb9181eb28"/>
+<keyword name="setSettingsLockPasswd(QByteArray value)" id="Settings::setSettingsLockPasswd_a50a2eebb6d782d850d27f315d8a9317a" ref="classSettings.html#a50a2eebb6d782d850d27f315d8a9317a"/>
+<keyword name="setSettingsPassword(void)" id="BehaviorOptions::setSettingsPassword_a6c99767fcea5884d22745ad3a65d26ba" ref="classBehaviorOptions.html#a6c99767fcea5884d22745ad3a65d26ba"/>
+<keyword name="setSimpleTheme(SimpleTheme theme)" id="AppearanceOptions::setSimpleTheme_ac57ee22221888c0a2754617b84dcb415" ref="classAppearanceOptions.html#ac57ee22221888c0a2754617b84dcb415"/>
+<keyword name="setSimpleThemeId(int value)" id="Settings::setSimpleThemeId_a38dca4e65e58d5229cc3ff460c1cdc45" ref="classSettings.html#a38dca4e65e58d5229cc3ff460c1cdc45"/>
+<keyword name="setStudentName(QString name)" id="ExportDialog::setStudentName_a72bc4ca66b371b5274c3f1650a7078c1" ref="classExportDialog.html#a72bc4ca66b371b5274c3f1650a7078c1"/>
+<keyword name="setStyle(Style newStyle)" id="ThemeEngine::setStyle_ac3f29ee64995e9cecb1b18f77da6ea17" ref="classThemeEngine.html#ac3f29ee64995e9cecb1b18f77da6ea17"/>
+<keyword name="setTheme(int index)" id="ThemeEngine::setTheme_a720fe4eab62fe7917201d0b4bc99dcd1" ref="classThemeEngine.html#a720fe4eab62fe7917201d0b4bc99dcd1"/>
+<keyword name="setThemeFont(QString value)" id="Settings::setThemeFont_a89b79e28a58e3652e70beaa68e7db771" ref="classSettings.html#a89b79e28a58e3652e70beaa68e7db771"/>
+<keyword name="setThemeFontBold(bool value)" id="Settings::setThemeFontBold_afe3c0480741d44b872d55d4176ffe010" ref="classSettings.html#afe3c0480741d44b872d55d4176ffe010"/>
+<keyword name="setThemeFontItalic(bool value)" id="Settings::setThemeFontItalic_a352ed95a5a0ba426ac29d785738d315f" ref="classSettings.html#a352ed95a5a0ba426ac29d785738d315f"/>
+<keyword name="setThemeFontSize(int value)" id="Settings::setThemeFontSize_adb1702f8dc364e77ac8c371be6a30afb" ref="classSettings.html#adb1702f8dc364e77ac8c371be6a30afb"/>
+<keyword name="setThemeFontUnderline(bool value)" id="Settings::setThemeFontUnderline_ae527d23776a37af97aa0c05e8ca1d57a" ref="classSettings.html#ae527d23776a37af97aa0c05e8ca1d57a"/>
+<keyword name="setTime(QTime time)" id="TimeDialog::setTime_aee58ffc6bfc545587b12b907f695ffd6" ref="classTimeDialog.html#aee58ffc6bfc545587b12b907f695ffd6"/>
+<keyword name="settingsCategories(void)" id="AddonApi::settingsCategories_abe1c69f226fff329008f9690695c8cf1" ref="classAddonApi.html#abe1c69f226fff329008f9690695c8cf1"/>
+<keyword name="settingsLockEnabled(void)" id="Settings::settingsLockEnabled_af58310bac78577587425c9dd32d5d5e9" ref="classSettings.html#af58310bac78577587425c9dd32d5d5e9"/>
+<keyword name="settingsLockPasswd(void)" id="Settings::settingsLockPasswd_a67ebb20538ae0b0703127a7dbfde0ed8" ref="classSettings.html#a67ebb20538ae0b0703127a7dbfde0ed8"/>
+<keyword name="setTotalHits(int hits)" id="ExerciseSummary::setTotalHits_a4150025ae8f5312fdbb5fdc5011611b1" ref="classExerciseSummary.html#a4150025ae8f5312fdbb5fdc5011611b1"/>
+<keyword name="setTotalTime(int time)" id="ExerciseSummary::setTotalTime_a2457842b971e4693c03836d543b57307" ref="classExerciseSummary.html#a2457842b971e4693c03836d543b57307"/>
+<keyword name="setUnderlineText(void)" id="AppearanceOptions::setUnderlineText_aa7cfbd9e29ace2bc07dc6a69afe06b58" ref="classAppearanceOptions.html#aa7cfbd9e29ace2bc07dc6a69afe06b58"/>
+<keyword name="setUpdateChecks(bool value)" id="Settings::setUpdateChecks_a6d3d194ade2610710402fe594f8c6220" ref="classSettings.html#a6d3d194ade2610710402fe594f8c6220"/>
+<keyword name="setupList(void)" id="OptionsWindow::setupList_aec27fadf5f73d6fe379e37a511d77d07" ref="classOptionsWindow.html#aec27fadf5f73d6fe379e37a511d77d07"/>
+<keyword name="setVerticalAdjust(bool value)" id="TextView::setVerticalAdjust_ae62a21931bbd69327789605dd2e087ec" ref="classTextView.html#ae62a21931bbd69327789605dd2e087ec"/>
+<keyword name="setWindowGeometry(QByteArray value)" id="Settings::setWindowGeometry_af78099b3c4be5300c08d0100b80dab03" ref="classSettings.html#af78099b3c4be5300c08d0100b80dab03"/>
+<keyword name="setWindowState(QByteArray value)" id="Settings::setWindowState_a2f7889ec9c93c14b3a8b7de5cfbde085" ref="classSettings.html#a2f7889ec9c93c14b3a8b7de5cfbde085"/>
+<keyword name="showAboutDialog(void)" id="MainWindow::showAboutDialog_ab5e43379e29646c881e4880a1eb78895" ref="classMainWindow.html#ab5e43379e29646c881e4880a1eb78895"/>
+<keyword name="showExerciseStats(void)" id="MainWindow::showExerciseStats_a20ebbfe3ce5f3fed7cf1fb283c599d29" ref="classMainWindow.html#a20ebbfe3ce5f3fed7cf1fb283c599d29"/>
+<keyword name="simpleThemeId(void)" id="Settings::simpleThemeId_a7c4187817353c14dbfbb002dab1edb27" ref="classSettings.html#a7c4187817353c14dbfbb002dab1edb27"/>
+<keyword name="splitWordsByPunct(QStringList source)" id="StringUtils::splitWordsByPunct_a01b87faed75897d2f28c801fbf149152" ref="classStringUtils.html#a01b87faed75897d2f28c801fbf149152"/>
+<keyword name="startLevel(int lesson, int sublesson, int level)" id="MainWindow::startLevel_a3b879ca7dab4d2853b0767cea7f18ee6" ref="classMainWindow.html#a3b879ca7dab4d2853b0767cea7f18ee6"/>
+<keyword name="startTest(void)" id="MainWindow::startTest_a18d8bc795516a7a88b4f842c6a33f7a0" ref="classMainWindow.html#a18d8bc795516a7a88b4f842c6a33f7a0"/>
+<keyword name="StatsDialog(bool offline, QList&lt; QStringList &gt; data, QPair&lt; int, int &gt; studentComparison, QString configName, int lesson, int sublesson, int exercise, QWidget *parent=nullptr)" id="StatsDialog::StatsDialog_a3b403a2918d867e28704deb04e90e189" ref="classStatsDialog.html#a3b403a2918d867e28704deb04e90e189"/>
+<keyword name="studentName(void)" id="ExportDialog::studentName_a7648bf0f4c15cba0a85833b33c21afe9" ref="classExportDialog.html#a7648bf0f4c15cba0a85833b33c21afe9"/>
+<keyword name="style(void)" id="ThemeEngine::style_ab2d6a82370161cacd9244d3b59bfc6ba" ref="classThemeEngine.html#ab2d6a82370161cacd9244d3b59bfc6ba"/>
+<keyword name="styleChanged()" id="ThemeEngine::styleChanged_a26ac71525a72e9048f3561bf08f8b68a" ref="classThemeEngine.html#a26ac71525a72e9048f3561bf08f8b68a"/>
+<keyword name="sublessonCount(int lesson)" id="ConfigParser::sublessonCount_a28ee3442b059f81d47a7f523bd7c8933" ref="classConfigParser.html#a28ee3442b059f81d47a7f523bd7c8933"/>
+<keyword name="sublessonName(int id)" id="ConfigParser::sublessonName_a131ba3f6fa1c0e416dfb69e4b03e7941" ref="classConfigParser.html#a131ba3f6fa1c0e416dfb69e4b03e7941"/>
+<keyword name="sublessonSelectionListIndexChanged(int index)" id="MainWindow::sublessonSelectionListIndexChanged_acdde03b2cba285fa29e7777d6539eea1" ref="classMainWindow.html#acdde03b2cba285fa29e7777d6539eea1"/>
+<keyword name="sublessonTr(int id)" id="ConfigParser::sublessonTr_ac122b634a800fb9d9fd69bfa656d1cb3" ref="classConfigParser.html#ac122b634a800fb9d9fd69bfa656d1cb3"/>
+<keyword name="switchExercise(void)" id="PackEditor::switchExercise_ab1e134acac0683ae9183e35d0e5bffdc" ref="classPackEditor.html#ab1e134acac0683ae9183e35d0e5bffdc"/>
+<keyword name="switchLesson(void)" id="PackEditor::switchLesson_a447b2ffe2657c221e75f48f6a5c446bf" ref="classPackEditor.html#a447b2ffe2657c221e75f48f6a5c446bf"/>
+<keyword name="switchSublesson(void)" id="PackEditor::switchSublesson_ab04b4d33a7ff69f2867948fc4f38c2b4" ref="classPackEditor.html#ab04b4d33a7ff69f2867948fc4f38c2b4"/>
+<keyword name="TextView(QWidget *parent=nullptr)" id="TextView::TextView_a00ed9ead7ba39cbf90d500559a5820f6" ref="classTextView.html#a00ed9ead7ba39cbf90d500559a5820f6"/>
+<keyword name="theme(void)" id="ThemeEngine::theme_a2ff23ec662fff5c6a5521d9e0c5d663b" ref="classThemeEngine.html#a2ff23ec662fff5c6a5521d9e0c5d663b"/>
+<keyword name="themeChanged()" id="ThemeEngine::themeChanged_a5c6f066b1aa762cb0300e6afbdd9618a" ref="classThemeEngine.html#a5c6f066b1aa762cb0300e6afbdd9618a"/>
+<keyword name="ThemeEngine(QObject *parent=nullptr)" id="ThemeEngine::ThemeEngine_a3def255b1dab18f136ddd5c3ec3cd155" ref="classThemeEngine.html#a3def255b1dab18f136ddd5c3ec3cd155"/>
+<keyword name="themeFont(void)" id="Settings::themeFont_a32a90256c94786442c043be4a95a955c" ref="classSettings.html#a32a90256c94786442c043be4a95a955c"/>
+<keyword name="themeFontBold(void)" id="Settings::themeFontBold_a6349390c434f3aca7ef1b43a4115f937" ref="classSettings.html#a6349390c434f3aca7ef1b43a4115f937"/>
+<keyword name="themeFontItalic(void)" id="Settings::themeFontItalic_a264bda8b8f5c2df8cb7a4b882cba85cb" ref="classSettings.html#a264bda8b8f5c2df8cb7a4b882cba85cb"/>
+<keyword name="themeFontSize(void)" id="Settings::themeFontSize_a35d4e32c7894f7f26121111fd1ebab15" ref="classSettings.html#a35d4e32c7894f7f26121111fd1ebab15"/>
+<keyword name="themeFontUnderline(void)" id="Settings::themeFontUnderline_aa23e9bec970aeaba375809b0b0dc8f87" ref="classSettings.html#aa23e9bec970aeaba375809b0b0dc8f87"/>
+<keyword name="themeList(void)" id="ThemeEngine::themeList_a17d49ad2f00ab6f483da45324104d94e" ref="classThemeEngine.html#a17d49ad2f00ab6f483da45324104d94e"/>
+<keyword name="themeName(int index)" id="ThemeEngine::themeName_ad4f5fd1b22b6ce1dae12c29efb2aae83" ref="classThemeEngine.html#ad4f5fd1b22b6ce1dae12c29efb2aae83"/>
+<keyword name="TimeDialog(QWidget *parent=nullptr)" id="TimeDialog::TimeDialog_a7f89565006e0458514bfec5d476f16bd" ref="classTimeDialog.html#a7f89565006e0458514bfec5d476f16bd"/>
+<keyword name="timeLimit(void)" id="LoadExerciseDialog::timeLimit_aee4a452e5f3dbfea0d68c595f5b5779f" ref="classLoadExerciseDialog.html#aee4a452e5f3dbfea0d68c595f5b5779f"/>
+<keyword name="toggleKeyboard(void)" id="KeyboardWidget::toggleKeyboard_a5a9be26486ffe0edad93acde264f39ae" ref="classKeyboardWidget.html#a5a9be26486ffe0edad93acde264f39ae"/>
+<keyword name="toggleMistakeLimit(bool checked)" id="BehaviorOptions::toggleMistakeLimit_ad73f1a0ee6dae5e596e749d4c0e0a77b" ref="classBehaviorOptions.html#ad73f1a0ee6dae5e596e749d4c0e0a77b"/>
+<keyword name="toggleScrolling(bool enabled)" id="TextView::toggleScrolling_aa51cad2794c85d2a7f1a954a9678c847" ref="classTextView.html#aa51cad2794c85d2a7f1a954a9678c847"/>
+<keyword name="toggleSettingsLock(bool checked)" id="BehaviorOptions::toggleSettingsLock_acba4ebd0d685570ffb9d3d48469b207c" ref="classBehaviorOptions.html#acba4ebd0d685570ffb9d3d48469b207c"/>
+<keyword name="topBarWidget(QString id)" id="AddonApi::topBarWidget_a2e9149940fe473973bdf5ac131e339aa" ref="classAddonApi.html#a2e9149940fe473973bdf5ac131e339aa"/>
+<keyword name="topBarWidgets(void)" id="AddonApi::topBarWidgets_abec620c93504d29287a4a489b698f996" ref="classAddonApi.html#abec620c93504d29287a4a489b698f996"/>
+<keyword name="unlockSettings(void)" id="OptionsWindow::unlockSettings_ad743a3ce6c2dca84c2f00bb35220da75" ref="classOptionsWindow.html#ad743a3ce6c2dca84c2f00bb35220da75"/>
+<keyword name="updateAvailable(void)" id="Updater::updateAvailable_acc144c134974f66fc194220b7559f152" ref="classUpdater.html#acc144c134974f66fc194220b7559f152"/>
+<keyword name="updateChecks(void)" id="Settings::updateChecks_a4078e22147092f3e003ce9aa52ad6b13" ref="classSettings.html#a4078e22147092f3e003ce9aa52ad6b13"/>
+<keyword name="updateCurrentTime(void)" id="MainWindow::updateCurrentTime_a04a96030a207d496503616cfd2c25962" ref="classMainWindow.html#a04a96030a207d496503616cfd2c25962"/>
+<keyword name="updateFont(void)" id="MainWindow::updateFont_a09aba128c880355f1de575ac1d9556f4" ref="classMainWindow.html#a09aba128c880355f1de575ac1d9556f4"/>
+<keyword name="updateFont(void)" id="AppearanceOptions::updateFont_a031961f6e2f25fefafd91393c402fc93" ref="classAppearanceOptions.html#a031961f6e2f25fefafd91393c402fc93"/>
+<keyword name="updateLessonList(void)" id="MainWindow::updateLessonList_ad8eab732481af6c3acbce1350fc59689" ref="classMainWindow.html#ad8eab732481af6c3acbce1350fc59689"/>
+<keyword name="UpdaterQuestion(QWidget *parent=nullptr)" id="UpdaterQuestion::UpdaterQuestion_a517125d2975f145c0aee8c9756755548" ref="classUpdaterQuestion.html#a517125d2975f145c0aee8c9756755548"/>
+<keyword name="updateSimpleTheme(void)" id="AppearanceOptions::updateSimpleTheme_aa78a48653cefff038d430b7750da6254" ref="classAppearanceOptions.html#aa78a48653cefff038d430b7750da6254"/>
+<keyword name="updateStyle(void)" id="ThemeEngine::updateStyle_ade0a93b87e3d6f115f478e7e0fa71607" ref="classThemeEngine.html#ade0a93b87e3d6f115f478e7e0fa71607"/>
+<keyword name="updateTable(void)" id="ExportDialog::updateTable_af3785bf94a38ba81c3b3d40fc1b05436" ref="classExportDialog.html#af3785bf94a38ba81c3b3d40fc1b05436"/>
+<keyword name="updateText(void)" id="MainWindow::updateText_acd896553a283b16d9791066f6be841c8" ref="classMainWindow.html#acd896553a283b16d9791066f6be841c8"/>
+<keyword name="updateText(void)" id="PackEditor::updateText_a0b9f07cadb16772b76a72358a4554670" ref="classPackEditor.html#a0b9f07cadb16772b76a72358a4554670"/>
+<keyword name="updateThemeList(void)" id="ThemeEngine::updateThemeList_a3ecf1a0883202edb685e0e407554234f" ref="classThemeEngine.html#a3ecf1a0883202edb685e0e407554234f"/>
+<keyword name="updateTitle(void)" id="PackEditor::updateTitle_a36f6c1f26ab988a9aafea7e5856229e9" ref="classPackEditor.html#a36f6c1f26ab988a9aafea7e5856229e9"/>
+<keyword name="updateWidgetSize(void)" id="TextView::updateWidgetSize_a429a65413aa0db977733c0b46979bda2" ref="classTextView.html#a429a65413aa0db977733c0b46979bda2"/>
+<keyword name="validateExercise(QString exerciseText, QString inputText, QVector&lt; QPair&lt; QString, int &gt; &gt; recordedCharacters, int *totalHits, int *mistakeCount, QStringList *errorWords=nullptr, bool timed=false, int timeSecs=0)" id="StringUtils::validateExercise_aa0fe328d9c36d0adda41261adc57e70d" ref="classStringUtils.html#aa0fe328d9c36d0adda41261adc57e70d"/>
+<keyword name="verify(void)" id="LoadExerciseDialog::verify_afc2811949358924e04210affab957914" ref="classLoadExerciseDialog.html#afc2811949358924e04210affab957914"/>
+<keyword name="visibilityChanged(bool)" id="KeyboardWidget::visibilityChanged_ab28458280e3255014a3ee7f089c2f7c9" ref="classKeyboardWidget.html#ab28458280e3255014a3ee7f089c2f7c9"/>
+<keyword name="wheelEvent(QWheelEvent *event)" id="TextView::wheelEvent_a1c0c21659e7cbbdf8f7f33b6df87317a" ref="classTextView.html#a1c0c21659e7cbbdf8f7f33b6df87317a"/>
+<keyword name="windowGeometry(void)" id="Settings::windowGeometry_ae70f19e9a1a28c088fc49d409c5afec4" ref="classSettings.html#ae70f19e9a1a28c088fc49d409c5afec4"/>
+<keyword name="windowState(void)" id="Settings::windowState_a88b7f4e484cbb2f0c48c386f6c38d4dc" ref="classSettings.html#a88b7f4e484cbb2f0c48c386f6c38d4dc"/>
+<keyword name="word(QString str, int id)" id="StringUtils::word_a81c34dbde43c58c7557eb2da0c1ae933" ref="classStringUtils.html#a81c34dbde43c58c7557eb2da0c1ae933"/>
+<keyword name="wordAt(QString str, int index)" id="StringUtils::wordAt_a778d4a7b1620819e2a5149d4930fc5b4" ref="classStringUtils.html#a778d4a7b1620819e2a5149d4930fc5b4"/>
+<keyword name="wordCount(QString str)" id="StringUtils::wordCount_a80bc635134a6a85e3739129ec403c209" ref="classStringUtils.html#a80bc635134a6a85e3739129ec403c209"/>
+<keyword name="zoomIn(void)" id="MainWindow::zoomIn_ab16e47724fae5cdffcea3846e9622f84" ref="classMainWindow.html#ab16e47724fae5cdffcea3846e9622f84"/>
+<keyword name="zoomOut(void)" id="MainWindow::zoomOut_aa3181f9f72ef0cf200a53c59f52a5b37" ref="classMainWindow.html#aa3181f9f72ef0cf200a53c59f52a5b37"/>
+<keyword name="~AppearanceOptions()" id="AppearanceOptions::~AppearanceOptions_a6416056a99ca82a34ba8fdb0324702e6" ref="classAppearanceOptions.html#a6416056a99ca82a34ba8fdb0324702e6"/>
+<keyword name="~BehaviorOptions()" id="BehaviorOptions::~BehaviorOptions_a34b19692f1dec5f45ddbbbd509621d1c" ref="classBehaviorOptions.html#a34b19692f1dec5f45ddbbbd509621d1c"/>
+<keyword name="~ExerciseSummary()" id="ExerciseSummary::~ExerciseSummary_a5df287ad8b2ad9066c1644f9136b02fc" ref="classExerciseSummary.html#a5df287ad8b2ad9066c1644f9136b02fc"/>
+<keyword name="~ExportDialog()" id="ExportDialog::~ExportDialog_aff6cf4e48e6dcde206c3d8eb3bc9fac8" ref="classExportDialog.html#aff6cf4e48e6dcde206c3d8eb3bc9fac8"/>
+<keyword name="~InitialSetup()" id="InitialSetup::~InitialSetup_a37632d7a7fb5315b8476d110e32e8ce6" ref="classInitialSetup.html#a37632d7a7fb5315b8476d110e32e8ce6"/>
+<keyword name="~InputLabelWidget()" id="InputLabelWidget::~InputLabelWidget_a143e21c1b57d638cbb61208d5d38d158" ref="classInputLabelWidget.html#a143e21c1b57d638cbb61208d5d38d158"/>
+<keyword name="~KeyboardOptions()" id="KeyboardOptions::~KeyboardOptions_ae976138e9b2c9150d95636c8e48afbff" ref="classKeyboardOptions.html#ae976138e9b2c9150d95636c8e48afbff"/>
+<keyword name="~LanguageList()" id="LanguageList::~LanguageList_a576ef1ff5f0abc41ce050df8cc5fc3b6" ref="classLanguageList.html#a576ef1ff5f0abc41ce050df8cc5fc3b6"/>
+<keyword name="~LanguageManager()" id="LanguageManager::~LanguageManager_ade9ee45cad140d9ea37cd99a9c5c83df" ref="classLanguageManager.html#ade9ee45cad140d9ea37cd99a9c5c83df"/>
+<keyword name="~LoadExerciseDialog()" id="LoadExerciseDialog::~LoadExerciseDialog_a28e1585e7c2f5ced72c816617fdc3cb0" ref="classLoadExerciseDialog.html#a28e1585e7c2f5ced72c816617fdc3cb0"/>
+<keyword name="~MainWindow()" id="MainWindow::~MainWindow_ae98d00a93bc118200eeef9f9bba1dba7" ref="classMainWindow.html#ae98d00a93bc118200eeef9f9bba1dba7"/>
+<keyword name="~OptionsWindow()" id="OptionsWindow::~OptionsWindow_a034c885fe8bb4416e732a9571d14a6b4" ref="classOptionsWindow.html#a034c885fe8bb4416e732a9571d14a6b4"/>
+<keyword name="~PackEditor()" id="PackEditor::~PackEditor_acf29f74d703583715303f2c0f5f1fd46" ref="classPackEditor.html#acf29f74d703583715303f2c0f5f1fd46"/>
+<keyword name="~PackSelector()" id="PackSelector::~PackSelector_a03fedbdb2961ec4ec6bc080e749c2c85" ref="classPackSelector.html#a03fedbdb2961ec4ec6bc080e749c2c85"/>
+<keyword name="~StatsDialog()" id="StatsDialog::~StatsDialog_a0f786b36ecf6d9c1318be02ae4bfc0d1" ref="classStatsDialog.html#a0f786b36ecf6d9c1318be02ae4bfc0d1"/>
+<keyword name="~TextView()" id="TextView::~TextView_a675550b9bce529a90a5daf9f0c4e1ac1" ref="classTextView.html#a675550b9bce529a90a5daf9f0c4e1ac1"/>
+<keyword name="~TimeDialog()" id="TimeDialog::~TimeDialog_ad202a918388d85ff0219512ab18e34b3" ref="classTimeDialog.html#ad202a918388d85ff0219512ab18e34b3"/>
+<keyword name="~UpdaterQuestion()" id="UpdaterQuestion::~UpdaterQuestion_a50c53b9e1c15661fb11df242c5301c33" ref="classUpdaterQuestion.html#a50c53b9e1c15661fb11df242c5301c33"/>
+</keywords>
+<files>
+<file>AddonApi_8h_source.html</file>
+<file>AppearanceOptions.png</file>
+<file>AppearanceOptions2.png</file>
+<file>AppearanceOptions_8h_source.html</file>
+<file>BehaviorOptions.png</file>
+<file>BehaviorOptions_8h_source.html</file>
+<file>BuiltInPacks_8h_source.html</file>
+<file>ConfigParser_8h_source.html</file>
+<file>ExerciseSummary.png</file>
+<file>ExerciseSummary_8h_source.html</file>
+<file>ExportDialog.png</file>
+<file>ExportDialog_8h_source.html</file>
+<file>FileUtils_8h_source.html</file>
+<file>HistoryParser_8h_source.html</file>
+<file>IAddon_8h_source.html</file>
+<file>InitialSetup.png</file>
+<file>InitialSetup_8h_source.html</file>
+<file>InputLabelWidget.png</file>
+<file>InputLabelWidget_8h_source.html</file>
+<file>KeyboardOptions.png</file>
+<file>KeyboardOptions_8h_source.html</file>
+<file>KeyboardUtils_8h_source.html</file>
+<file>KeyboardWidget.png</file>
+<file>KeyboardWidget_8h_source.html</file>
+<file>LanguageList.png</file>
+<file>LanguageList_8h_source.html</file>
+<file>LanguageManager_8h_source.html</file>
+<file>LoadExerciseDialog.png</file>
+<file>LoadExerciseDialog_8h_source.html</file>
+<file>MainWindow.png</file>
+<file>MainWindow_8h_source.html</file>
+<file>OptionsWindow.png</file>
+<file>OptionsWindow_8h_source.html</file>
+<file>PackEditor.png</file>
+<file>PackEditor_8h_source.html</file>
+<file>PackSelector.png</file>
+<file>PackSelector_8h_source.html</file>
+<file>Settings_8h_source.html</file>
+<file>StatsDialog.png</file>
+<file>StatsDialog_8h_source.html</file>
+<file>StringUtils_8h_source.html</file>
+<file>TextView_8h_source.html</file>
+<file>ThemeEngine_8h_source.html</file>
+<file>TimeDialog.png</file>
+<file>TimeDialog_8h_source.html</file>
+<file>UpdaterQuestion.png</file>
+<file>UpdaterQuestion_8h_source.html</file>
+<file>Updater_8h_source.html</file>
+<file>annotated.html</file>
+<file>bc_s.png</file>
+<file>bc_sd.png</file>
+<file>bdwn.png</file>
+<file>classAddonApi-members.html</file>
+<file>classAddonApi.html</file>
+<file>classAddonApi__coll__graph.png</file>
+<file>classAddonApi__inherit__graph.png</file>
+<file>classAppearanceOptions-members.html</file>
+<file>classAppearanceOptions.html</file>
+<file>classAppearanceOptions__coll__graph.png</file>
+<file>classAppearanceOptions__inherit__graph.png</file>
+<file>classBehaviorOptions-members.html</file>
+<file>classBehaviorOptions.html</file>
+<file>classBehaviorOptions__coll__graph.png</file>
+<file>classBehaviorOptions__inherit__graph.png</file>
+<file>classBuiltInPacks-members.html</file>
+<file>classBuiltInPacks.html</file>
+<file>classConfigParser-members.html</file>
+<file>classConfigParser.html</file>
+<file>classConfigParser__coll__graph.png</file>
+<file>classConfigParser__inherit__graph.png</file>
+<file>classExerciseSummary-members.html</file>
+<file>classExerciseSummary.html</file>
+<file>classExerciseSummary__coll__graph.png</file>
+<file>classExerciseSummary__inherit__graph.png</file>
+<file>classExportDialog-members.html</file>
+<file>classExportDialog.html</file>
+<file>classExportDialog__coll__graph.png</file>
+<file>classExportDialog__inherit__graph.png</file>
+<file>classFileUtils-members.html</file>
+<file>classFileUtils.html</file>
+<file>classHistoryParser-members.html</file>
+<file>classHistoryParser.html</file>
+<file>classHistoryParser__coll__graph.png</file>
+<file>classHistoryParser__inherit__graph.png</file>
+<file>classIAddon-members.html</file>
+<file>classIAddon.html</file>
+<file>classInitialSetup-members.html</file>
+<file>classInitialSetup.html</file>
+<file>classInitialSetup__coll__graph.png</file>
+<file>classInitialSetup__inherit__graph.png</file>
+<file>classInputLabelWidget-members.html</file>
+<file>classInputLabelWidget.html</file>
+<file>classInputLabelWidget__coll__graph.png</file>
+<file>classInputLabelWidget__inherit__graph.png</file>
+<file>classKeyboardOptions-members.html</file>
+<file>classKeyboardOptions.html</file>
+<file>classKeyboardOptions__coll__graph.png</file>
+<file>classKeyboardOptions__inherit__graph.png</file>
+<file>classKeyboardUtils-members.html</file>
+<file>classKeyboardUtils.html</file>
+<file>classKeyboardWidget-members.html</file>
+<file>classKeyboardWidget.html</file>
+<file>classKeyboardWidget__coll__graph.png</file>
+<file>classKeyboardWidget__inherit__graph.png</file>
+<file>classLanguageList-members.html</file>
+<file>classLanguageList.html</file>
+<file>classLanguageList__coll__graph.png</file>
+<file>classLanguageList__inherit__graph.png</file>
+<file>classLanguageManager-members.html</file>
+<file>classLanguageManager.html</file>
+<file>classLanguageManager__coll__graph.png</file>
+<file>classLanguageManager__inherit__graph.png</file>
+<file>classLoadExerciseDialog-members.html</file>
+<file>classLoadExerciseDialog.html</file>
+<file>classLoadExerciseDialog__coll__graph.png</file>
+<file>classLoadExerciseDialog__inherit__graph.png</file>
+<file>classMainWindow-members.html</file>
+<file>classMainWindow.html</file>
+<file>classMainWindow__coll__graph.png</file>
+<file>classMainWindow__inherit__graph.png</file>
+<file>classOptionsWindow-members.html</file>
+<file>classOptionsWindow.html</file>
+<file>classOptionsWindow__coll__graph.png</file>
+<file>classOptionsWindow__inherit__graph.png</file>
+<file>classPackEditor-members.html</file>
+<file>classPackEditor.html</file>
+<file>classPackEditor__coll__graph.png</file>
+<file>classPackEditor__inherit__graph.png</file>
+<file>classPackSelector-members.html</file>
+<file>classPackSelector.html</file>
+<file>classPackSelector__coll__graph.png</file>
+<file>classPackSelector__inherit__graph.png</file>
+<file>classSettings-members.html</file>
+<file>classSettings.html</file>
+<file>classStatsDialog-members.html</file>
+<file>classStatsDialog.html</file>
+<file>classStatsDialog__coll__graph.png</file>
+<file>classStatsDialog__inherit__graph.png</file>
+<file>classStringUtils-members.html</file>
+<file>classStringUtils.html</file>
+<file>classTextView-members.html</file>
+<file>classTextView.html</file>
+<file>classTextView__coll__graph.png</file>
+<file>classTextView__inherit__graph.png</file>
+<file>classThemeEngine-members.html</file>
+<file>classThemeEngine.html</file>
+<file>classThemeEngine__coll__graph.png</file>
+<file>classThemeEngine__inherit__graph.png</file>
+<file>classTimeDialog-members.html</file>
+<file>classTimeDialog.html</file>
+<file>classTimeDialog__coll__graph.png</file>
+<file>classTimeDialog__inherit__graph.png</file>
+<file>classUpdater-members.html</file>
+<file>classUpdater.html</file>
+<file>classUpdaterQuestion-members.html</file>
+<file>classUpdaterQuestion.html</file>
+<file>classUpdaterQuestion__coll__graph.png</file>
+<file>classUpdaterQuestion__inherit__graph.png</file>
+<file>classes.html</file>
+<file>closed.png</file>
+<file>dir_27a38ebc1cd4ee787d165c457c8c2b6f.html</file>
+<file>dir_27a38ebc1cd4ee787d165c457c8c2b6f_dep.png</file>
+<file>dir_5176878f975b603872ea9ef1e792c1d8.html</file>
+<file>dir_5176878f975b603872ea9ef1e792c1d8_dep.png</file>
+<file>dir_5854880b00b3c6c6627d48510baba8d2.html</file>
+<file>dir_71ad54eda288089b11ae5cec5365eb92.html</file>
+<file>dir_71ad54eda288089b11ae5cec5365eb92_dep.png</file>
+<file>dir_8c421087272d921338bde95c2b39aa1b.html</file>
+<file>dir_8c421087272d921338bde95c2b39aa1b_dep.png</file>
+<file>dir_8d33a868cd7dca3c5f8058eab434dc04.html</file>
+<file>dir_8d33a868cd7dca3c5f8058eab434dc04_dep.png</file>
+<file>dir_956fd3ee712c79c5fcecfbaff767584e.html</file>
+<file>dir_956fd3ee712c79c5fcecfbaff767584e_dep.png</file>
+<file>dir_9769628433b91728cf4bab6b5bb9ad72.html</file>
+<file>dir_9769628433b91728cf4bab6b5bb9ad72_dep.png</file>
+<file>dir_a45eb718b1a68cf39d12ccd99aec2e18.html</file>
+<file>dir_a45eb718b1a68cf39d12ccd99aec2e18_dep.png</file>
+<file>dir_a8f641299cfea9f7461c2df1141b7786.html</file>
+<file>dir_a8f641299cfea9f7461c2df1141b7786_dep.png</file>
+<file>dir_bc7e2982152bf817e0f5e86532c88d65.html</file>
+<file>dir_bdcd069623353b5e56d7c55f6af56104.html</file>
+<file>dir_bdcd069623353b5e56d7c55f6af56104_dep.png</file>
+<file>dir_c1efca86488424ec318a5ff0570d5d8e.html</file>
+<file>dir_c1efca86488424ec318a5ff0570d5d8e_dep.png</file>
+<file>dir_cddb240a0b776a33e084902e40deb938.html</file>
+<file>dir_cddb240a0b776a33e084902e40deb938_dep.png</file>
+<file>dir_ce33d164d6cdfadbee13bf7c61b0db08.html</file>
+<file>dir_ce33d164d6cdfadbee13bf7c61b0db08_dep.png</file>
+<file>dir_d422163b96683743ed3963d4aac17747.html</file>
+<file>dir_d860928723cb44104d25ab96dee8d9b1.html</file>
+<file>dir_d860928723cb44104d25ab96dee8d9b1_dep.png</file>
+<file>dir_f61eb489de2b8db73912ef6d8fd52ed3.html</file>
+<file>dir_f61eb489de2b8db73912ef6d8fd52ed3_dep.png</file>
+<file>doc.png</file>
+<file>docd.png</file>
+<file>doxygen-awesome.css</file>
+<file>doxygen.css</file>
+<file>doxygen.svg</file>
+<file>dynsections.js</file>
+<file>files.html</file>
+<file>folderclosed.png</file>
+<file>folderopen.png</file>
+<file>functions.html</file>
+<file>functions_b.html</file>
+<file>functions_c.html</file>
+<file>functions_d.html</file>
+<file>functions_e.html</file>
+<file>functions_f.html</file>
+<file>functions_func.html</file>
+<file>functions_func_b.html</file>
+<file>functions_func_c.html</file>
+<file>functions_func_d.html</file>
+<file>functions_func_e.html</file>
+<file>functions_func_f.html</file>
+<file>functions_func_g.html</file>
+<file>functions_func_h.html</file>
+<file>functions_func_i.html</file>
+<file>functions_func_k.html</file>
+<file>functions_func_l.html</file>
+<file>functions_func_m.html</file>
+<file>functions_func_n.html</file>
+<file>functions_func_o.html</file>
+<file>functions_func_p.html</file>
+<file>functions_func_r.html</file>
+<file>functions_func_s.html</file>
+<file>functions_func_t.html</file>
+<file>functions_func_u.html</file>
+<file>functions_func_v.html</file>
+<file>functions_func_w.html</file>
+<file>functions_func_z.html</file>
+<file>functions_func_~.html</file>
+<file>functions_g.html</file>
+<file>functions_h.html</file>
+<file>functions_i.html</file>
+<file>functions_k.html</file>
+<file>functions_l.html</file>
+<file>functions_m.html</file>
+<file>functions_n.html</file>
+<file>functions_o.html</file>
+<file>functions_p.html</file>
+<file>functions_r.html</file>
+<file>functions_s.html</file>
+<file>functions_t.html</file>
+<file>functions_u.html</file>
+<file>functions_v.html</file>
+<file>functions_w.html</file>
+<file>functions_z.html</file>
+<file>functions_~.html</file>
+<file>graph_legend.html</file>
+<file>graph_legend.png</file>
+<file>hierarchy.html</file>
+<file>index.html</file>
+<file>inherit_graph_0.png</file>
+<file>inherit_graph_1.png</file>
+<file>inherit_graph_10.png</file>
+<file>inherit_graph_11.png</file>
+<file>inherit_graph_12.png</file>
+<file>inherit_graph_13.png</file>
+<file>inherit_graph_2.png</file>
+<file>inherit_graph_3.png</file>
+<file>inherit_graph_4.png</file>
+<file>inherit_graph_5.png</file>
+<file>inherit_graph_6.png</file>
+<file>inherit_graph_7.png</file>
+<file>inherit_graph_8.png</file>
+<file>inherit_graph_9.png</file>
+<file>inherits.html</file>
+<file>jquery.js</file>
+<file>main_window_dark.png</file>
+<file>main_window_light.png</file>
+<file>md_docs_data_pages_Build_instructions.html</file>
+<file>menu.js</file>
+<file>menudata.js</file>
+<file>nav_f.png</file>
+<file>nav_fd.png</file>
+<file>nav_g.png</file>
+<file>nav_h.png</file>
+<file>nav_hd.png</file>
+<file>open.png</file>
+<file>pack_editor.png</file>
+<file>pages.html</file>
+<file>search/close.svg</file>
+<file>search/mag.svg</file>
+<file>search/mag_d.svg</file>
+<file>search/mag_sel.svg</file>
+<file>search/mag_seld.svg</file>
+<file>search/search.css</file>
+<file>search/search.js</file>
+<file>splitbar.png</file>
+<file>splitbard.png</file>
+<file>sync_off.png</file>
+<file>sync_on.png</file>
+<file>tab_a.png</file>
+<file>tab_ad.png</file>
+<file>tab_b.png</file>
+<file>tab_bd.png</file>
+<file>tab_h.png</file>
+<file>tab_hd.png</file>
+<file>tab_s.png</file>
+<file>tab_sd.png</file>
+<file>tabs.css</file>
+</files>
+</filterSection>
+</QtHelpProject>

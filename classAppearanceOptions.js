@@ -1,0 +1,28 @@
+var classAppearanceOptions =
+[
+    [ "AppearanceOptions", "classAppearanceOptions.html#a2d595e30e74faae045dccbd732dfda24", null ],
+    [ "~AppearanceOptions", "classAppearanceOptions.html#a6416056a99ca82a34ba8fdb0324702e6", null ],
+    [ "changeBgColor", "classAppearanceOptions.html#a226cf7cc6a9374a36a694a5130fd0623", null ],
+    [ "changeFont", "classAppearanceOptions.html#a5ba9da8a0e7b59d8d0a5ca0620762c22", null ],
+    [ "changeFontSize", "classAppearanceOptions.html#a1370552a648f3f8d3ab709f2ce24fcff", null ],
+    [ "changeFullTheme", "classAppearanceOptions.html#a32a73b87af5e4313877de0eb44d02f32", null ],
+    [ "changeInputTextColor", "classAppearanceOptions.html#ad26bde9a93cfa7c724981c7f89c72596", null ],
+    [ "changeLevelTextColor", "classAppearanceOptions.html#a9b23be5da1a538895824d7c4e414b293", null ],
+    [ "changePanelColor", "classAppearanceOptions.html#a9978abf9cb351b98dce59dd5930694a0", null ],
+    [ "changePaperColor", "classAppearanceOptions.html#aaf27e5840d797e0ce427dbeb32396e0e", null ],
+    [ "changeTheme", "classAppearanceOptions.html#a528e425d60d417fac5eb3a1fb4ee1546", null ],
+    [ "changeThemeMode", "classAppearanceOptions.html#aab01014bf37089c9922b11ca3e26ec11", null ],
+    [ "goBack", "classAppearanceOptions.html#a52dfdb603da5f25b29f44fdbf25d3237", null ],
+    [ "hideModeSelector", "classAppearanceOptions.html#a582d3db00299edeaec2832b49b314626", null ],
+    [ "init", "classAppearanceOptions.html#a500a414ee6df5bccd4c6871ade459e61", null ],
+    [ "resetBgPaperColors", "classAppearanceOptions.html#a49657408e0244726bc692bb3cb9017d5", null ],
+    [ "resetTextColors", "classAppearanceOptions.html#a3e6d2f9a4f0242b46bb9a810294acaa9", null ],
+    [ "selectCurrentFullTheme", "classAppearanceOptions.html#a5c8acc3336a2a865b4a2b048271c20ea", null ],
+    [ "setBoldText", "classAppearanceOptions.html#ae4388052951659d009d41dc90743986d", null ],
+    [ "setColors", "classAppearanceOptions.html#a4fbc8b1a1bc1f74514fe0a4ea222ba35", null ],
+    [ "setItalicText", "classAppearanceOptions.html#aca7ef797c141834ab386a0bb70c1e6e3", null ],
+    [ "setSimpleTheme", "classAppearanceOptions.html#ac57ee22221888c0a2754617b84dcb415", null ],
+    [ "setUnderlineText", "classAppearanceOptions.html#aa7cfbd9e29ace2bc07dc6a69afe06b58", null ],
+    [ "updateFont", "classAppearanceOptions.html#a031961f6e2f25fefafd91393c402fc93", null ],
+    [ "updateSimpleTheme", "classAppearanceOptions.html#aa78a48653cefff038d430b7750da6254", null ]
+];

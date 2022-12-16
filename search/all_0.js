@@ -1,0 +1,20 @@
+var searchData=
+[
+  ['addbutton_0',['addButton',['../classAddonApi.html#ad5e1591cbf1348b9549eaaea435f1a21',1,'AddonApi']]],
+  ['addexercise_1',['addExercise',['../classPackEditor.html#aeedc5072b4051386d29ff5f19f1b7b73',1,'PackEditor::addExercise()'],['../classConfigParser.html#ad79ba159832d149c0740ce1a8cd35a28',1,'ConfigParser::addExercise()']]],
+  ['addhistoryentry_2',['addHistoryEntry',['../classHistoryParser.html#aba51e298eaaef05199bd49a5ceeffbc7',1,'HistoryParser']]],
+  ['addkey_3',['addKey',['../classKeyboardWidget.html#a40bf18038a37e6f6e2dfe14b1740130a',1,'KeyboardWidget']]],
+  ['addlesson_4',['addLesson',['../classPackEditor.html#a8b4f7869cc83c4393a485919c92ffaa8',1,'PackEditor']]],
+  ['addloadextarget_5',['addLoadExTarget',['../classAddonApi.html#ab6b8fd5620f52949d00bd31f64de8dbe',1,'AddonApi']]],
+  ['addmenu_6',['addMenu',['../classAddonApi.html#a2a40602bf4425c0bf2084c54a0b6b577',1,'AddonApi']]],
+  ['addmistakes_7',['addMistakes',['../classStringUtils.html#a56a5d39921da8839e58e63306ecf991d',1,'StringUtils']]],
+  ['addonapi_8',['AddonApi',['../classAddonApi.html',1,'']]],
+  ['addsettingscategory_9',['addSettingsCategory',['../classAddonApi.html#a3524a96d5f14c86992c11bba95382416',1,'AddonApi']]],
+  ['addsublesson_10',['addSublesson',['../classPackEditor.html#a215883570f634f00d14680b207c2d0c4',1,'PackEditor']]],
+  ['addtopbarwidget_11',['addTopBarWidget',['../classAddonApi.html#ad1f50c9bd2351d3c09fb7e07e5f65d68',1,'AddonApi']]],
+  ['advancedtheme_12',['advancedTheme',['../classSettings.html#a227ef21a9f289aec41f181ca06a9aa7f',1,'Settings']]],
+  ['allowtextpreview_13',['allowTextPreview',['../classLoadExerciseDialog.html#a8198e651d9d0736692e62be4a95772c4',1,'LoadExerciseDialog']]],
+  ['appearanceoptions_14',['AppearanceOptions',['../classAppearanceOptions.html',1,'AppearanceOptions'],['../classAppearanceOptions.html#a2d595e30e74faae045dccbd732dfda24',1,'AppearanceOptions::AppearanceOptions()']]],
+  ['applicationstyle_15',['applicationStyle',['../classSettings.html#acb78e659cb7592799c132595d248092f',1,'Settings']]],
+  ['applicationtheme_16',['applicationTheme',['../classSettings.html#a04a3ca188520ca4b2a4f902b3ce25f64',1,'Settings']]]
+];

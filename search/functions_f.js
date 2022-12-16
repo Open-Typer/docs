@@ -1,0 +1,22 @@
+var searchData=
+[
+  ['recreatewidget_0',['recreateWidget',['../classAddonApi.html#ae47f74d93756e5e9b1a9c921d10a0f98',1,'AddonApi']]],
+  ['refreshall_1',['refreshAll',['../classMainWindow.html#a857e76dde1644881a486492dab93d0c6',1,'MainWindow']]],
+  ['refreshui_2',['refreshUi',['../classPackEditor.html#a0efd33e1dda147dd20450c121f13f824',1,'PackEditor']]],
+  ['registerbutton_3',['registerButton',['../classAddonApi.html#af94ce133cc8ce0926bd30ced5219f459',1,'AddonApi']]],
+  ['registerkey_4',['registerKey',['../classKeyboardWidget.html#aecbc16b69f0020a2c1cbac9e9ba33579',1,'KeyboardWidget']]],
+  ['registermenu_5',['registerMenu',['../classAddonApi.html#af333a20cb2e152059a14ff9fb8c9bf38',1,'AddonApi']]],
+  ['registertopbarwidget_6',['registerTopBarWidget',['../classAddonApi.html#ae97a568b62652b1c5545ddc66a607c34',1,'AddonApi']]],
+  ['removeexercise_7',['removeExercise',['../classPackEditor.html#ad66f9641629ab651af6b38ce4be2a1a6',1,'PackEditor']]],
+  ['reopen_8',['reopen',['../classConfigParser.html#ad33d56af678354704faa902dca87fa75',1,'ConfigParser']]],
+  ['repeatlevel_9',['repeatLevel',['../classMainWindow.html#a08db8d81a51f89897c3ef423f81f24fd',1,'MainWindow']]],
+  ['resetbgcolor_10',['resetBgColor',['../classThemeEngine.html#a89e81d8e57e3a4e571a76c9f35b008b0',1,'ThemeEngine']]],
+  ['resetbgpapercolors_11',['resetBgPaperColors',['../classAppearanceOptions.html#a49657408e0244726bc692bb3cb9017d5',1,'AppearanceOptions']]],
+  ['resetexercisetextcolor_12',['resetExerciseTextColor',['../classThemeEngine.html#adda1f57bb0cd5a1a32727ab77ee7fbfa',1,'ThemeEngine']]],
+  ['resetinputtextcolor_13',['resetInputTextColor',['../classThemeEngine.html#a01bcad73b52181f32658b1e36bd73b41',1,'ThemeEngine']]],
+  ['resetkeycolor_14',['resetKeyColor',['../classKeyboardWidget.html#a9419f49bbdaef09e3d5735d30ef75426',1,'KeyboardWidget']]],
+  ['resetpanelcolor_15',['resetPanelColor',['../classThemeEngine.html#a30152cb9220a72f13efa881a2a32fe6b',1,'ThemeEngine']]],
+  ['resetpapercolor_16',['resetPaperColor',['../classThemeEngine.html#a0e069ad1dd539de80050bdc14b7d75f2',1,'ThemeEngine']]],
+  ['resettextcolors_17',['resetTextColors',['../classAppearanceOptions.html#a3e6d2f9a4f0242b46bb9a810294acaa9',1,'AppearanceOptions']]],
+  ['restoretext_18',['restoreText',['../classPackEditor.html#a550737c9c954fd3c6a39993147ed3b96',1,'PackEditor']]]
+];

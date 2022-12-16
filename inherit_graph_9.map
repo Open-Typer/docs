@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" title=" " alt="" coords="5,5,84,31"/>
+<area shape="rect" id="node2" href="$classTextView.html" title="The TextView class is a QTextEdit used to display text." alt="" coords="132,5,208,31"/>
+<area shape="rect" id="node3" href="$classInputLabelWidget.html" title="The InputLabelWidget class is a TextView, which handles all key presses." alt="" coords="256,5,379,31"/>
+</map>
