@@ -1,0 +1,96 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,304,223,330"/>
+<area shape="rect" id="Node000001" href="$classIClassManager.html" title=" " alt="" coords="283,353,391,379"/>
+<area shape="poly" id="edge16_Node000000_Node000001" title=" " alt="" coords="191,331,283,352,282,357,190,336"/>
+<area shape="rect" id="Node000011" href="$classIConfigParser.html" title=" " alt="" coords="287,153,387,179"/>
+<area shape="poly" id="edge18_Node000000_Node000011" title=" " alt="" coords="137,291,195,240,231,213,269,188,292,177,294,182,272,192,234,217,198,244,141,295"/>
+<area shape="rect" id="Node000019" href="$classIExerciseValidator.html" title=" " alt="" coords="274,705,400,731"/>
+<area shape="poly" id="edge20_Node000000_Node000019" title=" " alt="" coords="122,345,135,414,163,507,182,557,207,606,237,652,272,692,288,703,285,707,269,696,233,655,202,608,177,559,157,509,130,415,117,346"/>
+<area shape="rect" id="Node000016" href="$classIFileUtils.html" title=" " alt="" coords="300,403,374,428"/>
+<area shape="poly" id="edge22_Node000000_Node000016" title=" " alt="" coords="156,335,272,389,301,400,299,405,270,394,154,340"/>
+<area shape="rect" id="Node000021" href="$classILanguageManager.html" title=" " alt="" coords="271,304,403,330"/>
+<area shape="poly" id="edge24_Node000000_Node000021" title=" " alt="" coords="238,314,270,314,270,320,238,320"/>
+<area shape="rect" id="Node000039" href="$classINetUtils.html" title=" " alt="" coords="300,55,374,80"/>
+<area shape="poly" id="edge26_Node000000_Node000039" title=" " alt="" coords="125,288,147,245,178,192,219,137,269,89,299,74,301,79,272,94,223,141,183,195,151,248,130,291"/>
+<area shape="rect" id="Node000023" href="$classISettings.html" title=" " alt="" coords="300,203,374,228"/>
+<area shape="poly" id="edge28_Node000000_Node000023" title=" " alt="" coords="157,295,305,226,308,231,160,299"/>
+<area shape="rect" id="Node000035" href="$classIStringUtils.html" title=" " alt="" coords="294,104,380,130"/>
+<area shape="poly" id="edge30_Node000000_Node000035" title=" " alt="" coords="130,289,186,216,225,175,269,139,292,127,294,131,272,143,229,179,190,219,134,293"/>
+<area shape="rect" id="Node000025" href="$classIThemeEngine.html" title=" " alt="" coords="285,504,389,530"/>
+<area shape="poly" id="edge32_Node000000_Node000025" title=" " alt="" coords="143,338,323,501,319,505,140,342"/>
+<area shape="rect" id="Node000041" href="$classIUiEngine.html" title=" " alt="" coords="298,5,376,31"/>
+<area shape="poly" id="edge34_Node000000_Node000041" title=" " alt="" coords="121,289,140,237,171,170,214,101,240,69,269,40,296,25,299,29,272,44,244,72,218,104,176,173,145,239,126,290"/>
+<area shape="rect" id="Node000037" href="$classIUpdater.html" title=" " alt="" coords="301,656,373,682"/>
+<area shape="poly" id="edge36_Node000000_Node000037" title=" " alt="" coords="134,341,329,654,325,657,129,344"/>
+<area shape="rect" id="Node000002" href="$classClassManager.html" title="The ClassManager class provides access to grading configuration of each class." alt="" coords="463,353,567,379"/>
+<area shape="poly" id="edge17_Node000001_Node000002" title=" " alt="" coords="407,364,463,364,463,369,407,369"/>
+<area shape="rect" id="Node000010" href="$classConfigParser.html" title="The ConfigParser class provides functions for the pack file format." alt="" coords="468,255,563,280"/>
+<area shape="poly" id="edge19_Node000011_Node000010" title=" " alt="" coords="398,184,405,188,420,202,429,215,438,228,453,241,472,252,469,256,449,246,434,232,425,218,416,205,401,192,395,188"/>
+<area shape="rect" id="Node000020" href="$classExerciseValidator.html" title="The ExerciseValidator class provides methods for exercise validation to QML code." alt="" coords="455,705,576,731"/>
+<area shape="poly" id="edge21_Node000019_Node000020" title=" " alt="" coords="415,716,454,716,454,721,415,721"/>
+<area shape="rect" id="Node000015" href="$classFileUtils.html" title="The FileUtils class contains functions for file or directory paths." alt="" coords="481,428,550,454"/>
+<area shape="poly" id="edge23_Node000016_Node000015" title=" " alt="" coords="390,420,481,433,480,439,389,425"/>
+<area shape="rect" id="Node000022" href="$classLanguageManager.html" title="The LanguageManager class provides a list of supported languages." alt="" coords="451,304,579,330"/>
+<area shape="poly" id="edge25_Node000021_Node000022" title=" " alt="" coords="419,314,451,314,451,320,419,320"/>
+<area shape="rect" id="Node000040" href="$classNetUtils.html" title="The NetUtils class provides network&#45;related methods." alt="" coords="481,55,550,80"/>
+<area shape="poly" id="edge27_Node000039_Node000040" title=" " alt="" coords="389,65,480,65,480,70,389,70"/>
+<area shape="rect" id="Node000024" href="$classSettings.html" title="The Settings class manages the application settings." alt="" coords="481,156,550,182"/>
+<area shape="poly" id="edge29_Node000023_Node000024" title=" " alt="" coords="388,199,480,175,481,180,389,205"/>
+<area shape="rect" id="Node000034" href="$classStringUtils.html" title="The StringUtils class contains functions related to strings." alt="" coords="474,205,556,231"/>
+<area shape="poly" id="edge31_Node000035_Node000034" title=" " alt="" coords="396,133,405,139,420,152,429,166,438,179,453,192,475,204,473,209,449,196,434,182,425,169,416,156,401,143,393,138"/>
+<area shape="rect" id="Node000026" href="$classThemeEngine.html" title="The ThemeEngine class provides theme functions." alt="" coords="465,504,565,530"/>
+<area shape="poly" id="edge33_Node000025_Node000026" title=" " alt="" coords="404,514,465,514,465,520,404,520"/>
+<area shape="rect" id="Node000042" href="$classUiEngine.html" title="The UiEngine class manages the QQmlEngine of the application." alt="" coords="479,5,552,31"/>
+<area shape="poly" id="edge35_Node000041_Node000042" title=" " alt="" coords="391,16,478,16,478,21,391,21"/>
+<area shape="rect" id="Node000036" href="$classStubUpdater.html" title=" " alt="" coords="468,631,562,656"/>
+<area shape="poly" id="edge37_Node000037_Node000036" title=" " alt="" coords="387,659,467,647,468,653,388,664"/>
+<area shape="rect" id="Node000038" href="$classWindowsUpdater.html" title=" " alt="" coords="455,1003,575,1028"/>
+<area shape="poly" id="edge38_Node000037_Node000038" title=" " alt="" coords="389,679,405,691,436,729,460,772,479,817,493,863,510,946,516,1002,511,1002,505,947,488,864,474,819,455,774,431,732,401,695,386,684"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="79,952,149,978"/>
+<area shape="poly" id="edge52_Node000003_Node000001" title=" " alt="" coords="112,936,115,835,121,766,134,689,153,610,181,530,219,455,242,421,269,388,283,377,286,382,273,392,246,424,223,458,186,532,158,611,139,691,127,767,120,835,117,936"/>
+<area shape="poly" id="edge45_Node000003_Node000010" title=" " alt="" coords="114,936,122,851,132,794,146,732,166,668,192,604,226,543,269,490,286,476,303,468,337,464,369,459,385,452,401,439,415,421,421,403,424,366,427,328,435,309,449,290,465,278,469,282,453,293,439,312,433,330,430,366,427,404,419,423,405,443,388,457,371,464,337,469,304,473,288,480,273,493,231,546,197,606,171,669,151,733,137,795,128,851,119,937"/>
+<area shape="poly" id="edge53_Node000003_Node000019" title=" " alt="" coords="125,937,147,894,179,842,220,787,269,740,287,729,290,734,272,744,224,791,183,845,151,897,130,939"/>
+<area shape="poly" id="edge49_Node000003_Node000015" title=" " alt="" coords="118,936,135,871,164,786,208,693,236,650,269,610,302,584,333,571,365,561,401,540,426,516,449,490,495,452,498,456,453,493,430,520,405,544,367,566,335,576,304,588,273,613,241,653,213,696,169,788,140,873,124,937"/>
+<area shape="poly" id="edge54_Node000003_Node000021" title=" " alt="" coords="116,936,134,809,167,631,188,540,212,456,239,387,269,339,283,328,286,332,273,343,244,389,217,458,193,541,172,632,140,810,122,937"/>
+<area shape="poly" id="edge55_Node000003_Node000023" title=" " alt="" coords="116,936,132,794,164,588,185,482,209,385,237,303,252,271,269,246,282,233,298,224,301,229,285,237,273,249,257,274,242,305,214,386,190,484,169,589,138,794,121,937"/>
+<area shape="poly" id="edge64_Node000003_Node000034" title=" " alt="" coords="115,936,132,800,162,606,183,507,208,416,236,341,252,312,269,289,298,275,352,258,473,225,474,231,354,263,300,280,272,294,256,315,241,343,213,418,188,508,168,607,137,801,121,936"/>
+<area shape="poly" id="edge56_Node000003_Node000025" title=" " alt="" coords="116,936,129,861,156,759,176,703,201,647,232,595,269,547,295,528,298,532,273,551,236,598,206,650,181,705,161,760,134,862,121,937"/>
+<area shape="poly" id="edge65_Node000003_Node000036" title=" " alt="" coords="116,936,130,872,157,789,177,747,202,706,232,671,269,641,293,629,319,621,372,615,424,619,469,627,468,633,423,624,372,621,320,626,295,634,272,646,236,674,206,710,181,749,162,791,135,873,122,937"/>
+<area shape="poly" id="edge66_Node000003_Node000038" title=" " alt="" coords="124,992,140,1047,169,1115,189,1150,212,1182,240,1211,272,1235,307,1251,337,1257,368,1251,402,1235,428,1214,450,1188,468,1159,482,1129,501,1071,509,1028,515,1029,506,1072,487,1131,472,1162,454,1191,432,1218,404,1239,369,1257,337,1262,305,1256,269,1239,236,1215,208,1186,184,1153,164,1117,135,1048,119,993"/>
+<area shape="rect" id="Node000004" href="$classAbstractMenuBar.html" title="The AbstractMenuBar class provides a model for a menu bar." alt="" coords="276,1349,398,1375"/>
+<area shape="poly" id="edge39_Node000003_Node000004" title=" " alt="" coords="122,993,136,1062,163,1154,183,1203,207,1251,237,1296,272,1336,288,1347,285,1351,269,1340,233,1299,203,1254,178,1205,158,1155,131,1063,117,994"/>
+<area shape="rect" id="Node000006" href="$classAppMenuItem.html" title="The AppMenuItem class provides a model for a menu item." alt="" coords="286,1399,388,1424"/>
+<area shape="poly" id="edge41_Node000003_Node000006" title=" " alt="" coords="120,993,132,1070,157,1175,177,1231,202,1287,234,1339,272,1386,287,1396,284,1400,269,1389,230,1342,197,1290,172,1233,152,1177,126,1071,115,994"/>
+<area shape="rect" id="Node000007" href="$classAppMenuModel.html" title="The AppMenuModel class provides a menu model for the application menu bar." alt="" coords="281,1448,393,1474"/>
+<area shape="poly" id="edge42_Node000003_Node000007" title=" " alt="" coords="119,993,128,1078,137,1134,151,1196,171,1260,197,1323,230,1382,273,1435,287,1445,284,1450,269,1439,226,1385,192,1325,166,1262,146,1197,132,1135,122,1079,114,994"/>
+<area shape="rect" id="Node000008" href="$classBuiltInPacks.html" title="The BuiltInPacks class provides functions for built&#45;in pack settings." alt="" coords="289,1497,385,1523"/>
+<area shape="poly" id="edge43_Node000003_Node000008" title=" " alt="" coords="118,993,124,1086,132,1148,145,1217,165,1288,191,1359,227,1425,273,1484,291,1497,287,1501,269,1488,223,1428,187,1361,159,1290,140,1218,127,1149,119,1087,113,994"/>
+<area shape="rect" id="Node000009" href="$classClass.html" title="The Class class encapsulates a class in grading configuration." alt="" coords="310,1547,364,1572"/>
+<area shape="poly" id="edge44_Node000003_Node000009" title=" " alt="" coords="117,993,120,1093,127,1162,139,1237,158,1316,186,1394,224,1468,247,1502,272,1534,290,1546,310,1553,309,1558,288,1551,269,1537,242,1505,219,1471,181,1396,153,1318,134,1238,122,1162,115,1094,112,993"/>
+<area shape="rect" id="Node000012" href="$classDialogView.html" title="The DialogView class is a native dialog for QML." alt="" coords="294,1596,380,1622"/>
+<area shape="poly" id="edge46_Node000003_Node000012" title=" " alt="" coords="122,993,140,1118,172,1295,193,1386,217,1469,244,1537,273,1583,295,1598,292,1602,269,1587,239,1539,212,1470,188,1387,167,1296,135,1119,116,994"/>
+<area shape="rect" id="Node000013" href="$classExerciseTimer.html" title="The ExerciseTimer class provides a simple elapsed timer for QML." alt="" coords="285,755,389,780"/>
+<area shape="poly" id="edge47_Node000003_Node000013" title=" " alt="" coords="130,937,187,865,226,825,269,789,289,779,292,783,272,794,229,828,191,868,134,941"/>
+<area shape="rect" id="Node000014" href="$classExportProvider.html" title="The ExportProvider class provides methods for the export dialog." alt="" coords="284,804,390,830"/>
+<area shape="poly" id="edge48_Node000003_Node000014" title=" " alt="" coords="138,939,196,889,269,839,292,828,294,833,272,843,199,894,142,943"/>
+<area shape="rect" id="Node000017" href="$classGradeCalculator.html" title="The GradeCalculator class provides methods for grades." alt="" coords="280,853,394,879"/>
+<area shape="poly" id="edge50_Node000003_Node000017" title=" " alt="" coords="154,942,270,888,296,877,298,882,272,893,156,947"/>
+<area shape="rect" id="Node000018" href="$classHistoryParser.html" title="The HistoryParser class provides functions for exercise history and statistics." alt="" coords="287,903,387,928"/>
+<area shape="poly" id="edge51_Node000003_Node000018" title=" " alt="" coords="163,951,285,924,287,929,164,957"/>
+<area shape="rect" id="Node000027" href="$classKeyboardLayout.html" title="The KeyboardLayout class provides information about a keyboard layout." alt="" coords="280,952,394,978"/>
+<area shape="poly" id="edge57_Node000003_Node000027" title=" " alt="" coords="164,962,279,962,279,968,164,968"/>
+<area shape="rect" id="Node000028" href="$classKeyboardUtils.html" title="The KeyboardUtils class provides functions related to keyboard and input method." alt="" coords="286,1001,388,1027"/>
+<area shape="poly" id="edge58_Node000003_Node000028" title=" " alt="" coords="164,973,286,1000,285,1005,163,978"/>
+<area shape="rect" id="Node000029" href="$classPackEditorModel.html" title=" " alt="" coords="277,1051,397,1076"/>
+<area shape="poly" id="edge59_Node000003_Node000029" title=" " alt="" coords="156,983,272,1037,298,1048,296,1052,270,1042,154,988"/>
+<area shape="rect" id="Node000030" href="$classQmlFileDialog.html" title="The QmlFileDialog class provides a file dialog for QML. This file dialog supports file uploads on Web..." alt="" coords="286,1100,388,1126"/>
+<area shape="poly" id="edge60_Node000003_Node000030" title=" " alt="" coords="142,987,199,1036,272,1087,294,1097,292,1102,269,1091,196,1040,138,991"/>
+<area shape="rect" id="Node000031" href="$classQmlUtils.html" title="The QmlUtils class acts like a bridge for QML code." alt="" coords="301,1149,373,1175"/>
+<area shape="poly" id="edge61_Node000003_Node000031" title=" " alt="" coords="134,989,191,1061,229,1101,272,1136,301,1150,299,1155,269,1140,226,1105,187,1065,130,992"/>
+<area shape="rect" id="Node000032" href="$classSettingsCategory.html" title="The SettingsCategory class provides a model for settings categories." alt="" coords="277,1199,397,1224"/>
+<area shape="poly" id="edge62_Node000003_Node000032" title=" " alt="" coords="130,990,151,1033,183,1085,224,1139,272,1185,290,1196,287,1200,269,1190,220,1142,179,1088,147,1035,125,993"/>
+<area shape="rect" id="Node000033" href="$classSplashScreen.html" title="The SplashScreen class displays the application loading screen." alt="" coords="286,1300,388,1326"/>
+<area shape="poly" id="edge63_Node000003_Node000033" title=" " alt="" coords="125,992,143,1050,173,1126,216,1207,242,1245,272,1279,299,1297,296,1302,269,1283,238,1248,211,1209,168,1128,138,1052,120,993"/>
+<area shape="rect" id="Node000005" href="$classAppMenuBar.html" title="The AppMenuBar class provides a model for the application menu bar." alt="" coords="467,1349,563,1375"/>
+<area shape="poly" id="edge40_Node000004_Node000005" title=" " alt="" coords="414,1360,467,1360,467,1365,414,1365"/>
+</map>

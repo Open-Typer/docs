@@ -1,0 +1,33 @@
+<map id="IModuleSetup" name="IModuleSetup">
+<area shape="rect" id="Node000001" title="An interface for setting up modules." alt="" coords="5,351,107,376"/>
+<area shape="rect" id="Node000002" href="$classAppModule.html" title=" " alt="" coords="186,5,273,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="55,335,60,274,74,196,86,154,103,113,125,74,153,40,168,29,185,22,187,27,170,34,157,44,130,77,108,115,91,156,79,197,65,275,60,335"/>
+<area shape="rect" id="Node000003" href="$classExportModule.html" title=" " alt="" coords="180,55,279,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="57,335,64,283,80,217,109,149,129,118,153,89,178,74,181,79,156,94,133,121,114,152,86,219,69,284,62,336"/>
+<area shape="rect" id="Node000004" href="$classGlobalModule.html" title=" " alt="" coords="179,104,280,130"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="59,335,70,292,87,239,115,186,132,161,153,139,177,124,180,129,156,143,136,164,119,188,92,241,75,293,65,336"/>
+<area shape="rect" id="Node000005" href="$classGradesModule.html" title=" " alt="" coords="177,153,282,179"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="63,335,76,301,95,262,121,222,153,188,175,175,178,180,156,192,125,226,100,264,81,303,68,337"/>
+<area shape="rect" id="Node000006" href="$classHistoryModule.html" title=" " alt="" coords="177,203,282,228"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="69,336,103,286,127,260,153,237,176,226,178,230,156,242,130,264,108,289,74,339"/>
+<area shape="rect" id="Node000007" href="$classKeyboardModule.html" title=" " alt="" coords="171,252,288,278"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="81,338,114,312,153,286,178,276,180,281,156,291,117,316,84,342"/>
+<area shape="rect" id="Node000008" href="$classLessonPackModule.html" title=" " alt="" coords="161,301,298,327"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="118,343,181,325,182,330,119,348"/>
+<area shape="rect" id="Node000009" href="$classNetworkModule.html" title=" " alt="" coords="173,351,286,376"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="122,361,173,361,173,366,122,366"/>
+<area shape="rect" id="Node000010" href="$classPackEditorModule.html" title=" " alt="" coords="166,400,293,426"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="119,379,182,397,181,402,118,384"/>
+<area shape="rect" id="Node000011" href="$classTranslationsModule.html" title=" " alt="" coords="162,449,297,475"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="84,385,117,411,156,436,180,446,178,451,153,441,114,415,81,389"/>
+<area shape="rect" id="Node000012" href="$classUiComponentsModule.html" title=" " alt="" coords="155,499,304,524"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="74,388,108,438,130,463,156,485,175,496,173,500,153,490,127,467,103,441,69,391"/>
+<area shape="rect" id="Node000013" href="$classUiModule.html" title=" " alt="" coords="191,548,268,574"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="68,390,81,424,100,463,125,501,156,535,173,545,192,552,190,557,171,550,153,539,121,505,95,465,76,426,63,392"/>
+<area shape="rect" id="Node000014" href="$classUpdaterModule.html" title=" " alt="" coords="175,597,284,623"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="65,391,75,434,92,486,119,539,136,563,156,584,176,596,173,601,153,588,132,566,115,541,87,488,70,435,59,392"/>
+<area shape="rect" id="Node000015" href="$classUtilsModule.html" title=" " alt="" coords="184,647,275,672"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="62,391,69,443,86,508,114,575,133,606,156,634,170,643,185,650,183,655,167,648,153,637,129,609,109,578,80,510,64,444,57,392"/>
+<area shape="rect" id="Node000016" href="$classValidatorModule.html" title=" " alt="" coords="172,696,287,722"/>
+<area shape="poly" id="edge15_Node000001_Node000016" title=" " alt="" coords="60,392,65,452,79,530,91,571,108,612,130,650,156,683,173,695,170,699,153,687,125,653,103,614,86,573,74,531,60,453,55,392"/>
+</map>

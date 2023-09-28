@@ -1,0 +1,10 @@
+<map id="GradeCalculator" name="GradeCalculator">
+<area shape="rect" id="Node000001" title="The GradeCalculator class provides methods for grades." alt="" coords="5,169,120,195"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="7,5,76,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="47,46,64,168,58,169,42,47"/>
+<area shape="rect" id="Node000003" href="$classIExerciseValidator.html" title=" " alt="" coords="78,80,204,106"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="71,38,126,78,123,82,68,42"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="122,119,75,170,71,167,118,116"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="101,5,318,31"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="190,44,154,82,150,78,186,41"/>
+</map>

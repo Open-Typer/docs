@@ -1,0 +1,15 @@
+<map id="ExportProvider" name="ExportProvider">
+<area shape="rect" id="Node000001" title="The ExportProvider class provides methods for the export dialog." alt="" coords="66,258,171,283"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,75,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="50,45,68,105,117,257,112,258,63,107,45,46"/>
+<area shape="rect" id="Node000003" href="$classIExerciseValidator.html" title=" " alt="" coords="77,80,203,106"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="70,38,125,78,122,82,67,42"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="139,122,133,169,123,258,117,257,127,169,134,121"/>
+<area shape="rect" id="Node000005" href="$classExportTable.html" title="The ExportTable class provides a table for typing test results." alt="" coords="213,169,302,195"/>
+<area shape="poly" id="edge7_Node000005_Node000003" title=" " alt="" coords="161,116,190,143,230,166,228,171,187,147,158,120"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="99,5,317,31"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="188,44,153,82,149,78,184,41"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="226,205,140,259,137,255,224,201"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="227,80,320,106"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="271,122,262,169,257,168,266,121"/>
+</map>

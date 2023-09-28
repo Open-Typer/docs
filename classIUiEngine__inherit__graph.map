@@ -1,0 +1,7 @@
+<map id="IUiEngine" name="IUiEngine">
+<area shape="rect" id="Node000001" title=" " alt="" coords="75,79,153,105"/>
+<area shape="rect" id="Node000003" href="$classUiEngine.html" title="The UiEngine class manages the QQmlEngine of the application." alt="" coords="77,153,151,178"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="117,120,117,152,111,152,111,120"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,223,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="117,46,117,79,111,79,111,46"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="AppMenuBar" name="AppMenuBar">
+<area shape="rect" id="Node000001" title="The AppMenuBar class provides a model for the application menu bar." alt="" coords="100,513,196,538"/>
+<area shape="rect" id="Node000002" href="$classAbstractMenuBar.html" title="The AbstractMenuBar class provides a model for a menu bar." alt="" coords="5,130,128,156"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="71,171,89,309,106,398,132,488,143,511,138,513,127,490,101,400,83,309,66,171"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="151,5,220,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="161,43,119,82,77,132,73,128,115,78,157,39"/>
+<area shape="rect" id="Node000004" href="$classAppMenuModel.html" title="The AppMenuModel class provides a menu model for the application menu bar." alt="" coords="130,80,241,106"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="188,46,188,80,183,80,183,46"/>
+<area shape="rect" id="Node000005" href="$classAppMenuItem.html" title="The AppMenuItem class provides a model for a menu item." alt="" coords="255,227,358,253"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="215,39,255,79,273,102,285,129,300,183,308,226,303,227,295,184,280,131,268,105,251,82,211,43"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="179,121,163,180,152,280,148,378,150,512,145,512,143,378,147,280,158,179,173,120"/>
+<area shape="poly" id="edge7_Node000005_Node000004" title=" " alt="" coords="194,120,211,154,294,224,290,228,206,157,190,122"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="295,267,157,514,152,511,290,265"/>
+</map>
